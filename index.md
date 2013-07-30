@@ -20,21 +20,20 @@ quantitative and teach several workshops on using the [R programming
 environment][R] for data analysis and visualization. 
 
 
-My academic research interests revolve around the
-spatial and temporal dynamics of marine fish populations and how
-climate variability influences these dynamics.
+My academic research interests revolve around the spatial and
+temporal dynamics of marine fish populations and how climate
+variability influences these dynamics. My research covers a broad
+array of disciplines including, ecology, oceanography, natural
+resource management, statistics, modeling, and decision theory.
 
 
 I completed my Master's degree at the [University of Alaska
-Fairbanks][UAF] with [Dr. Milo Adkison][MA]. My M.Sc. research
-investigated spatial patterns of coho salmon marine survival in
-Southeast Alaska, as well as modeling the effects of hatchery
-releases of pink and chum salmon on coho salmon.
-
-
-My Ph.D. research investigates how variability in climate and ocean
-processes influence the dynamics of Pacific salmon populations. More
-specifically, my research investigates:
+Fairbanks][UAF] with [Dr. Milo Adkison][MA] where I studied the
+effects of hatchery releases of pink and chum salmon on coho salmon
+through time and space. My Ph.D. research investigates how
+variability in climate and ocean processes influence the dynamics of
+Pacific salmon populations throughout North America. In particular,
+my Ph.D. research focuses on:
 
 1. Spatial synchrony of the spring phytoplankton bloom and how it
    compares to spatial synchrony seen among salmon populations.
