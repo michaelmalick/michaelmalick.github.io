@@ -10,10 +10,11 @@ title: Scholarly Portfolio
 
 ---
 
-* [Journal Articles](#journals)
-* [Presentations](#presentations)
-* [Theses](#theses)
-
+<div class = navigation> 
+   <a href="#journals">Journal Articles</a> </br>
+   <a href="#presentations">Presentations</a> </br>
+   <a href="#theses">Theses</a> </br>
+</div>
 
 
 
