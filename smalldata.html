@@ -1,0 +1,28 @@
+---
+
+layout: default
+title: small data
+
+---
+
+
+
+<div class=blogtitle> small data</div>
+<div class=blogsubtitle> (because not all data are big)</div>
+
+
+{% for post in site.posts limit:10 %}
+
+    <hr></hr>
+
+	<h1 style="margin-top:40px"></h1>
+    <div class=postdate> {{ post.date | date_to_long_string }} 
+    <span class=postlink> <a href="{{ post.url }}">[link]</a> </span> 
+    </div>
+    {{ post.content}}
+	<h1 style="margin-top:40px"></h1>
+
+
+{% endfor %}
+
+

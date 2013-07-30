@@ -1,0 +1,17 @@
+jekyll serve --watch
+
+
+* DONE Register michaelmalick.com and michaelmalick.org
+* DONE Setup sending m.malick@live.com email from gmail
+* DONE Change primary gravatar email to m.malick@live.com
+* DONE Forward m.malick@live.com email to gmail account
+
+* TODO Write index.html blurb
+* TODO Put website into Git
+* TODO Write first blog post
+* TODO Add R page and redirect from sfu R page
+* TODO Add presentation downloads to portfolio page
+* TODO RSS
+* TODO R-macvim to github
+* TODO Rmalick to github
+

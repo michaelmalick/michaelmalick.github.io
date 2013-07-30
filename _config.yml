@@ -1,0 +1,9 @@
+name: "michaelmalick.com"
+description: "Small Data"
+
+url: "http://localhost:4000"
+
+markdown:  rdiscount
+pygments:  true
+permalink: none 
+
