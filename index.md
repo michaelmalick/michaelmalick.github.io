@@ -6,7 +6,7 @@ title: Michael Malick | Simon Fraser University
 ---
 
 
-![malick](images/michael_malick.jpg)
+![Michael Malick](images/michael_malick.jpg)
 
 I'm Michael, a budding fisheries oceanographer, data analyst,
 and Ph.D. Candidate in the [School of Resource and Environmental
