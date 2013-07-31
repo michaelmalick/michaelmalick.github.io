@@ -80,12 +80,13 @@ a:visited {
 /* PARAGRAPHS AND LISTS -------------------------------------------*/
 ul, ol {
     padding: 0;
-    margin: 2em;
+    margin: 40px;
+    margin-top: 0px;
 }
 p, ul, ol {
+    padding: 0;
     font-size: 93%;
     line-height: 24px;
-    max-width: 540px;
 }
 
 

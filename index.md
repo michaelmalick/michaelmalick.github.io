@@ -1,7 +1,7 @@
 ---
 
 layout: default 
-title: michaelmalick.com
+title: Michael Malick | Simon Fraser University
 
 ---
 

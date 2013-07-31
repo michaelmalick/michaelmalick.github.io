@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Scholarly Portfolio
+title: Michael Malick | CV
 
 ---
  
@@ -90,8 +90,6 @@ title: Scholarly Portfolio
 * **Malick, M.J.**, C. Oppel, R. Sweater, and G. Carson. Chemical and
   biological study of the Tioga River. Poster. Pennsylvania Academy
   of Science Annual Meeting, Pittsburg, PA. March 26, 2004.
-
-
 
 
 
