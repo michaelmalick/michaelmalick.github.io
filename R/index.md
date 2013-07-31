@@ -25,7 +25,7 @@ title: Michael Malick | Intro to R for Data Analysis
 <a id="overview"></a>
 ### Course Overview
 This page provides the materials for a two-day workshop that
-introduces the R programing environment. The objective of the
+introduces the R programming environment. The objective of the
 workshop is to provide participants with a foundational knowledge of
 the R programming language and its applications for data analysis.
 The course uses lecture, examples, and problem sets to help
