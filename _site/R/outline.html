@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+
+	<!-- Basic Page Needs 
+    ============================================================= -->
+	<meta charset="utf-8">
+	<title>Intro to R for Data Analysis</title>
+	<meta name="Personal Website" content="">
+	<meta name="Michael Malick" content="">
+
+
+	<!-- Google Analytics
+    ============================================================= -->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-42838600-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+
+	<!-- Mobile Specific Metas
+    ============================================================= -->
+	<meta name="viewport" content="width=device-width, 
+        initial-scale=1, maximum-scale=1">
+
+
+	<!-- CSS 
+    ============================================================= -->
+	<link rel="stylesheet" href="/stylesheets/malickmj.css">
+	<link rel="stylesheet" href="/stylesheets/skeleton.css">
+	<link rel="stylesheet" href="/stylesheets/layout.css">
+
+	<!--[if lt IE 9]>
+		<script 
+            src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+        </script>
+	<![endif]-->
+
+
+	<!-- Favicons 
+    ============================================================= -->
+	<link rel="shortcut icon" href="/images/favicon.ico">
+	<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" 
+        href="/images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" 
+        href="/images/apple-touch-icon-114x114.png">
+
+</head>
+
+
+<body>
+
+	<!-- Primary Page Layout
+	============================================================= -->
+
+	<div class="container">
+
+		<div class="sixteen columns">
+			<h1 style="margin-top:40px"></h1>
+		</div>
+
+
+		<div class="five columns">
+            <div class="six columns">
+    <div class=name> <a href="/">Michael Malick</a></div>
+
+
+    <div class = sideinfo> 
+        Ph.D. Candidate </br>
+        Simon Fraser Univeristy </br>
+        <a href="mailto:mmalick@sfu.ca">mmalick@sfu.ca</a>
+    </div>
+
+    <div class = navigation> 
+        <a href="/cv">CV</a> </br>
+        <a href="/R">R</a> </br>
+        <a href="http://www.twitter.com/michaelmalick">Twitter</a></br>
+    </div>
+</div>
+
+		</div>
+
+
+		<div class="eleven columns">
+			<p></p>
+			<ul class="square">
+            <h1>Intro to R for Data Analysis</h1>
+
+<hr />
+
+<p><a id="outline"></a></p>
+
+<h3>Course Outline</h3>
+
+<ol>
+<li><p>R Basics</p>
+
+<ul>
+<li>Overview of R</li>
+<li>Working directory</li>
+<li>Workspace</li>
+<li>History</li>
+<li>Help</li>
+<li>Packages</li>
+<li>Scripts</li>
+<li>Basic Math</li>
+<li>Functions</li>
+<li>Errors and Warnings</li>
+</ul>
+</li>
+<li><p>Data Structures and Subsetting</p>
+
+<ul>
+<li>Vectors and classes</li>
+<li>Matrices</li>
+<li>Dataframes and factors</li>
+<li>Lists</li>
+</ul>
+</li>
+<li><p>Reading and Writing Data</p>
+
+<ul>
+<li>File formats</li>
+<li>Writing data: <code>write.table()</code></li>
+<li>Reading data: <code>read.table()</code></li>
+</ul>
+</li>
+<li><p>Data Manipulation</p>
+
+<ul>
+<li>Order vectors and dataframes</li>
+<li>Add and remove columns in dataframes</li>
+<li>Missing values</li>
+<li>Combining datasets: <code>rbind()</code></li>
+<li>Merging datasets: <code>merge()</code></li>
+<li>Reshaping datasets: reshape2 package</li>
+</ul>
+</li>
+<li><p>Base Graphics</p>
+
+<ul>
+<li>Graphics overview</li>
+<li>Plotting functions</li>
+<li>Graphics devices</li>
+<li>Graphical parameters: <code>par()</code></li>
+<li>Low level plotting commands</li>
+</ul>
+</li>
+<li><p>Lattice Graphics</p>
+
+<ul>
+<li>Grid graphics overview</li>
+<li>Formulas and conditioning</li>
+<li>Groups, scales, legends</li>
+<li>Panel functions</li>
+</ul>
+</li>
+<li><p>Data Summaries: apply family of functions</p>
+
+<ul>
+<li>Why apply?</li>
+<li>Summarize by row and columns: <code>apply()</code></li>
+<li>Summarize by groups: <code>tapply()</code> and <code>by()</code></li>
+</ul>
+</li>
+<li><p>Intro to Statistical Models</p>
+
+<ul>
+<li>Overview of linear models</li>
+<li>Fitting a linear regression model</li>
+<li>Model diagnostics</li>
+<li>Model comparisons: <code>AIC()</code></li>
+</ul>
+</li>
+<li><p>Automation: <code>for</code> loops</p>
+
+<ul>
+<li>Why for loops?</li>
+<li><code>for</code> loop syntax</li>
+<li>Data and graphics examples</li>
+</ul>
+</li>
+<li><p>Automation: writing functions</p>
+
+<ul>
+<li>Why write a function?</li>
+<li>Function syntax</li>
+<li>Errors and warnings</li>
+<li>Debugging: <code>browser()</code></li>
+<li>Pass through: <code>...</code></li>
+</ul>
+</li>
+</ol>
+
+
+			</ul>
+		</div>
+
+
+	    <!-- Footer
+	    ========================================================= -->
+		<div class="sixteen columns">
+			<h1 class="remove-bottom" style="margin-top:40px"></h1>
+			<hr />
+			<div class=footer>&copy; Michael Malick 2013
+            </div>
+		</div>
+
+
+    </div><!-- container -->
+
+
+<!-- End Document
+================================================================= -->
+</body>
+</html>
