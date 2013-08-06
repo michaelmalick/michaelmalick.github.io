@@ -68,7 +68,7 @@ language to analyze independent datasets.
 * [Intro to R Script][script1]
 * [Linear Model Diagnostics Function][script2] 
 
-[script1]: /R/scripts/script_intro_R.R
+[script1]: /R/scripts/script_intro_r.R
 [script2]: /R/scripts/script_lm_diag.R
 
 
@@ -93,7 +93,7 @@ language to analyze independent datasets.
 * [Pink Salmon Problem Set (pinks.R)][P1]
 * [Pink Salmon Data (pinks.csv)][P2]
 
-[P1]: /R/pinks.R
-[P2]: /R/pinks.csv
+[P1]: /R/problems/pinks.R
+[P2]: /R/problems/pinks.csv
 
 
