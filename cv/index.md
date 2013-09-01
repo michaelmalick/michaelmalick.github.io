@@ -21,18 +21,19 @@ title: Michael Malick | CV
 <a id="journals"></a>
 ### Journal Articles
 
-* **Malick, M.J.**, L.J. Haldorson, J.J. Piccolo, and J.L.  
+* **Malick, M.J.**, L.J. Haldorson, J.J. Piccolo, and J.L.
   Boldt. 2011.  Growth and survival in relation to body size of 
   juvenile pink salmon in the Northern Gulf of Alaska. Marine and 
-  Coastal Fisheries 3:261-270. [(Download)][J1]  
+  Coastal Fisheries 3:261-270. [(PDF)][J1a] [(Publisher)][J1b]
 
 
 * **Malick, M.J.**, M.D. Adkison, and A.C. Wertheimer. 2009.
   Variable effects of biological and environmental processes on coho
   salmon marine survival in Southeast Alaska. Transactions of the
-  American Fisheries Society 138:846-860. [(Download)][J2]
+  American Fisheries Society 138:846-860. [(Publisher)][J2]
 
-[J1]: http://www.tandfonline.com/doi/full/10.1080/19425120.2011.593467
+[J1a]: /docs/Malick_etal_2011.pdf
+[J1b]: http://www.tandfonline.com/doi/full/10.1080/19425120.2011.593467
 [J2]: http://www.tandfonline.com/doi/abs/10.1577/T08-177.1
 
 
@@ -100,7 +101,7 @@ title: Michael Malick | CV
 * **Malick, M.J.** 2008. Variable effects of biological and
   environmental processes on coho salmon marine survival in Southeast
   Alaska. University of Alaska Fairbanks. Master's Thesis.
-  [(Download)][T1]
+  [(PDF)][T1]
 
 
 [T1]: /docs/thesis_final.pdf
