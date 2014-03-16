@@ -42,57 +42,66 @@ title: Michael Malick | CV
 <a id="presentations"></a>
 ### Presentations
 
-* **Malick, M.J.**, R.M. Peterman, W.T. Peterson, and T.C. Wainwright.
+
+* **Malick, M.J.***, S.P. Cox, F.J. Mueter, R.M. Peterman. North-south
+  differences in the effects of the initiation date of the spring bloom on pink
+  salmon survival. Salmon Ocean Ecology Annual Meeting, Santa Cruz, CA. 
+  March 14, 2014.
+
+* **Malick, M.J.***, R.M. Peterman, W.T. Peterson, and T.C. Wainwright.
   Using Bayesian networks to link climate variability, ocean
   processes, and coho salmon marine survival. North Pacific
   Anadromous Fish Commission Workshop, Honolulu, HI. April 26, 2013.
 
-* Adkison, M., R. Briscoe, J. Robins, **M.J. Malick**, A. Wertheimer,
+* Adkison, M.*, R. Briscoe, J. Robins, **M.J. Malick**, A. Wertheimer,
   and S.G. Taylor. Marine survival and interspecific interactions of
   coho salmon in SE Alaska. Poster. North Pacific Anadromous Fish
   Commission Workshop, Honolulu, HI. April 25, 2013.
 
-* **Malick, M.J.** Modeling causal networks to link climate
+* **Malick, M.J.*** Modeling causal networks to link climate
   variability, ocean processes, and Pacific salmon population
   dynamics. IDEAS Symposium, Simon Fraser University, Burnaby, BC.
-  January 19, 2013.  Malick, M.J. Timing of the spring bloom in the
+  January 19, 2013.
+
+* **Malick, M.J***. Timing of the spring bloom in the
   Northeast Pacific.  IDEAS Symposium, Simon Fraser University,
   Burnaby, BC. January 7, 2012.
 
-* **Malick, M.J.**, L. Haldorson, and J.J. Piccolo. Feeding
+* **Malick, M.J.***, L. Haldorson, and J.J. Piccolo. Feeding
   intensity, diet, and survival in relation to body size of juvenile
   pink salmon.  Alaska Chapter American Fisheries Society Annual
   Meeting, Fairbanks, AK. November 4, 2009.
 
-* **Malick, M.J.** What comes after a fisheries undergraduate
+* **Malick, M.J.*** What comes after a fisheries undergraduate
   degree?  Mansfield University Special Seminar, Mansfield, PA.
   October 14, 2009.
 
-* **Malick, M.J.**, L. Haldorson, and J.J. Piccolo. Characterizing
+* **Malick, M.J.***, L. Haldorson, and J.J. Piccolo. Characterizing
   habitat specific size, condition, and growth of juvenile pink
   salmon in the Northern Gulf of Alaska. Salmon Ocean Ecology Annual
   Meeting, Juneau, AK. April 7, 2009.
 
-* **Malick, M.J.**, M.D. Adkison, and A.C. Wertheimer. Variable
+* **Malick, M.J.***, M.D. Adkison, and A.C. Wertheimer. Variable
   effects of biological and environmental processes on coho salmon
   marine survival in Southeast Alaska. Salmon Ocean Ecology Annual
   Meeting, Juneau, AK.  April 7, 2009.
 
-* **Malick, M.J.** Variable effects of hatchery pink and chum salmon
+* **Malick, M.J.*** Variable effects of hatchery pink and chum salmon
   on coho salmon marine survival in Southeast Alaska. University of
   Alaska Chapter, Juneau Subunit, American Fisheries Society Annual
   Meeting, Juneau, AK. April 14, 2008.
 
-* **Malick, M.J.**, M.D. Adkison, and A.C. Wertheimer. The influence
+* **Malick, M.J.***, M.D. Adkison, and A.C. Wertheimer. The influence
   of physical and biological factors on coho salmon marine survival
   in Southeast Alaska. Alaska Chapter American Fisheries Society
   Annual Meeting, Ketchikan, AK. November 15, 2007.
 
-* **Malick, M.J.**, C. Oppel, R. Sweater, and G. Carson. Chemical and
+* **Malick, M.J.***, C. Oppel, R. Sweater, and G. Carson. Chemical and
   biological study of the Tioga River. Poster. Pennsylvania Academy
   of Science Annual Meeting, Pittsburg, PA. March 26, 2004.
 
 
+\* indicates presenter
 
 
 <a id="theses"></a>
