@@ -1,1 +1,8 @@
 .DS_Store
+_site
+*.aux
+*.log
+*.out
+*.docx
+images/icons
+todo.md
