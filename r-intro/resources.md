@@ -8,10 +8,9 @@ title: Michael Malick | Intro to R for Data Analysis
 
 # Intro to R for Data Analysis
 
----
 
 
-### Resources
+## Resources
 
 * Official R Documents
   - [An Introduction to R][R1]

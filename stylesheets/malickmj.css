@@ -31,7 +31,7 @@ body {
 img {
     display: block; 
     margin-left: auto;
-    margin-right: auto
+    margin-right: 15px;
 }
 
 /* HEADERS -------------------------------------------------------------------*/
@@ -47,15 +47,16 @@ h1, h2, h3, h4, h5 {
 }
 h1 {
     font-size: 36px;
-    margin-top: 6px;
+    margin-top: 28px;
+    margin-bottom: 18px;
 }
 h2 {
     font-size: 28px;
-    margin-top: 60px;
+    margin-top: 40px;
 }
 h3 {
     font-size: 21px;
-    margin-top: 60px;
+    margin-top: 40px;
 }
 h4 {
     font-size: 18px;
@@ -85,6 +86,16 @@ ul, ol {
     padding: 0;
     font-size: 100%;
     line-height: 29px;
+}
+
+/* TABLES ---------------------------------------------------------*/
+table {
+    table-layout: fixed; 
+}
+td { 
+    width: 20%; 
+    text-align: center;
+    border: 10px;
 }
 
 /* LINKS ---------------------------------------------------------------------*/
@@ -146,9 +157,10 @@ hr { /* Horizontal rule */
 }
 .navigation {
     font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; 
-    margin-top: 25px;
+    margin-top: 18px;
+    margin-top: 15px;
+    margin-bootom: 15px;
     line-height: 1.75;
-    padding-left: 25px;
 }
 .navigation a:link {
     color: #0099EE;
@@ -171,6 +183,7 @@ hr { /* Horizontal rule */
     font-size: 32px;
     color: #4A525A;
     font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; 
+    padding-top: 20px;
 }
 .name a:link {
     color: #4A525A;

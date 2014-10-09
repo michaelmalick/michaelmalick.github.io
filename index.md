@@ -6,13 +6,13 @@ title: Michael Malick | Simon Fraser University
 ---
 
 
-![Michael Malick](images/michael_malick_nice.jpg) 
-
 
 I'm Michael, a budding fisheries oceanographer, data analyst,
 and Ph.D. Candidate in the [School of Resource and Environmental
 Management][REM] at [Simon Fraser University][SFU] working with Drs.
 [Randall Peterman][RMP] and [Sean Cox][SPC].
+
+<img src="images/michael_malick_nice.jpg" alt="Michael Malick" width="210" align="left"/>
 
 
 I am a very quantitative person and enjoy visualizing, simulating,

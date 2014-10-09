@@ -8,18 +8,17 @@ title: Michael Malick | CV
 
 # Selected CV
 
----
 
-<div class = navigation> 
-   <a href="#journals">Journal Articles</a> </br>
-   <a href="#presentations">Presentations</a> </br>
-   <a href="#theses">Theses</a> </br>
-</div>
+<!-- <div class = navigation> --> 
+<!--    <a href="#journals">Journal Articles</a> </br> -->
+<!--    <a href="#presentations">Presentations</a> </br> -->
+<!--    <a href="#theses">Theses</a> </br> -->
+<!-- </div> -->
 
 
 
 <a id="journals"></a>
-### Journal Articles
+## Journal Articles
 
 * **Malick, M.J.**, L.J. Haldorson, J.J. Piccolo, and J.L.
   Boldt. 2011.  Growth and survival in relation to body size of 
@@ -40,7 +39,7 @@ title: Michael Malick | CV
 
 
 <a id="presentations"></a>
-### Presentations
+## Presentations
 
 
 * **Malick, M.J.***, S.P. Cox, F.J. Mueter, R.M. Peterman. North-south
@@ -105,7 +104,7 @@ title: Michael Malick | CV
 
 
 <a id="theses"></a>
-### Theses
+## Theses
 
 * **Malick, M.J.** 2008. Variable effects of biological and
   environmental processes on coho salmon marine survival in Southeast
