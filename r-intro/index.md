@@ -81,8 +81,8 @@ language to analyze independent datasets.
 * [Base Graphics Examples][E1]
 * [Lattice Graphics Examples][E2]
 
-[E1]: /R/tutorials/example_base_graphics.pdf
-[E2]: /R/tutorials/example_lattice_graphics.pdf
+[E1]: /r-intro/tutorials/example_base_graphics.pdf
+[E2]: /r-intro/tutorials/example_lattice_graphics.pdf
 
 
 
@@ -93,7 +93,7 @@ language to analyze independent datasets.
 * [Pink Salmon Problem Set (pinks.R)][P1]
 * [Pink Salmon Data (pinks.csv)][P2]
 
-[P1]: /R/problems/pinks.R
-[P2]: /R/problems/pinks.csv
+[P1]: /r-intro/problems/pinks.R
+[P2]: /r-intro/problems/pinks.csv
 
 
