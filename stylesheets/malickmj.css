@@ -12,28 +12,33 @@
     - Blog Title: #0099EE
 */
 
+
+/* IMPORT GOOGLE FONTS -------------------------------------------------------*/
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 
-body{
+/* BODY ----------------------------------------------------------------------*/
+body {
     font-family: Verdana, Geneva, sans-serif;
     color: #555555;
     font-size: 18px;
     background-color:#FFFFFF;
 }
+
+/* IMAGES --------------------------------------------------------------------*/
 img {
     display: block; 
     margin-left: auto;
     margin-right: auto
 }
 
-/* HEADERS --------------------------------------------------------*/
-h1, h2, h3, h4 {
+/* HEADERS -------------------------------------------------------------------*/
+h1, h2, h3, h4, h5 {
     color: #4A525A;
     font-weight: 400;
     font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; 
 }
-h1, h2, h3, h4, p {
+h1, h2, h3, h4, h5 {
     margin-bottom: 18px;
     margin-top: 12px;
     padding: 0;
@@ -44,6 +49,7 @@ h1 {
 }
 h2 {
     font-size: 28px;
+    margin-top: 60px;
 }
 h3 {
     font-size: 21px;
@@ -51,13 +57,23 @@ h3 {
 }
 h4 {
     font-size: 18px;
+    margin-top: 20px;
 }
 h5 {
     font-size: 16px;
+    margin-top: 20px;
 }
 
+/* PARAGRAPHS ----------------------------------------------------------------*/
+p {
+    margin-bottom: 18px;
+    margin-top: 12px;
+    padding: 0;
+    font-size: 93%;
+    line-height: 24px;
+}
 
-/* LINKS ----------------------------------------------------------*/
+/* LINKS ---------------------------------------------------------------------*/
 a:link {
     color: #888888;
     margin: 0;
@@ -77,20 +93,19 @@ a:visited {
     color: #888888;
 }
 
-/* PARAGRAPHS AND LISTS -------------------------------------------*/
+/* LISTS ---------------------------------------------------------------------*/
 ul, ol {
     padding: 0;
     margin: 40px;
     margin-top: 0px;
 }
-p, ul, ol {
+ul, ol {
     padding: 0;
     font-size: 93%;
     line-height: 24px;
 }
 
-
-/* CODE, BLOCKQUOTES, RULES ---------------------------------------*/
+/* CODE, BLOCKQUOTES, RULES --------------------------------------------------*/
 code {
     font-family: Consolas, Monaco, Andale Mono, monospace;
     line-height: 1;
@@ -117,7 +132,7 @@ hr { /* Horizontal rule */
 }
 
 
-/* MY STYLES ------------------------------------------------------*/
+/* MY STYLES -----------------------------------------------------------------*/
 .sideinfo {
     font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; 
     margin-top: 5px;
@@ -191,29 +206,3 @@ hr { /* Horizontal rule */
 .footer a:visited {
     color: #4A525A;
 }
-.blogtitle {
-    text-align: center;
-    font-size: 52px;
-    padding-bottom: 10px;
-    color: #0099EE;
-    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; 
-}
-.blogsubtitle {
-    text-align: center;
-    font-size: 15px;
-    padding-bottom: 25px;
-    color: #4A525A;
-    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; 
-}
-.postdate {
-    text-align: left;
-    font-size: 15px;
-    color: #4A525A;
-    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; 
-}
-.postlink {
-    font-size: 12px;
-    color: #4A525A;
-    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; 
-}
-
