@@ -15,13 +15,15 @@
 
 /* IMPORT GOOGLE FONTS -------------------------------------------------------*/
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+
 
 
 /* BODY ----------------------------------------------------------------------*/
 body {
-    font-family: Verdana, Geneva, sans-serif;
-    color: #555555;
-    font-size: 18px;
+    font-family: "Open Sans", Helvetica, sans-serif;
+    color: #333333;
+    font-size: 16px;
     background-color:#FFFFFF;
 }
 
@@ -69,8 +71,20 @@ p {
     margin-bottom: 18px;
     margin-top: 12px;
     padding: 0;
-    font-size: 93%;
-    line-height: 24px;
+    font-size: 100%;
+    line-height: 29px;
+}
+
+/* LISTS ---------------------------------------------------------------------*/
+ul, ol {
+    padding: 0;
+    margin: 40px;
+    margin-top: 0px;
+}
+ul, ol {
+    padding: 0;
+    font-size: 100%;
+    line-height: 29px;
 }
 
 /* LINKS ---------------------------------------------------------------------*/
@@ -91,18 +105,6 @@ a:active {
 }
 a:visited {
     color: #888888;
-}
-
-/* LISTS ---------------------------------------------------------------------*/
-ul, ol {
-    padding: 0;
-    margin: 40px;
-    margin-top: 0px;
-}
-ul, ol {
-    padding: 0;
-    font-size: 93%;
-    line-height: 24px;
 }
 
 /* CODE, BLOCKQUOTES, RULES --------------------------------------------------*/
@@ -126,11 +128,13 @@ blockquote {
     color: #111111
 }
 hr { /* Horizontal rule */
-    text-align: left;
-    margin: 0 auto 0;
-    color: #ccc;
+    background: #DDDDDD; 
+    clear: both; 
+    float: none; 
+    width: 100%; 
+    height: 1px;
+    border: none; 
 }
-
 
 /* MY STYLES -----------------------------------------------------------------*/
 .sideinfo {
