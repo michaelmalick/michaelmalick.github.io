@@ -92,9 +92,17 @@ ul, ol {
 table {
     table-layout: fixed; 
 }
-td { 
+.td { 
     width: 20%; 
     text-align: center;
+    border: 10px;
+}
+.tdleft {
+    text-align: left;
+    border: 10px;
+}
+.tdright {
+    text-align: right;
     border: 10px;
 }
 
@@ -160,7 +168,7 @@ hr { /* Horizontal rule */
     font-size: 18px;
     margin-top: 18px;
     margin-top: 15px;
-    margin-botom: 15px;
+    margin-bottom: 15px;
     line-height: 1.75;
 }
 .navigation a:link {
@@ -207,6 +215,7 @@ hr { /* Horizontal rule */
     color: #4A525A;
     line-height: 1.75;
     padding-left: 25px;
+    padding-right: 25px;
     padding-bottom: 25px;
 }
 .footer a:link {
