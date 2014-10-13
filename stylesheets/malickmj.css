@@ -154,6 +154,32 @@ hr { /* Horizontal rule */
     height: 1px;
     border: none; 
 }
+/* DEFINITION LISTS ----------------------------------------------------------*/
+/* See here for example: http://www.maxdesign.com.au/articles/definition/ */
+/* Term text style (i.e., year) */
+dt { 
+	position: relative;
+	left: 0;
+	top: 30px;
+	width: 61px;
+	color: #777777;
+	font-size: 14px;
+}
+
+/* Defintion style */
+dd {
+	border-left: 1px solid #DDDDDD;
+    margin-left: 69px;
+    margin-bottom: -5px;
+    padding-bottom: 2px;
+    padding-left: 11px;
+}
+
+/* Description list */
+dl {
+	margin-bottom: 20px;
+	margin-top: -20px;
+}
 
 /* MY STYLES -----------------------------------------------------------------*/
 .sideinfo {

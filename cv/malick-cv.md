@@ -1,9 +1,9 @@
----
+-----
 
 layout: default
 title: Michael Malick | CV
 
----
+-----
  
 Curriculum Vitae
 ================
@@ -12,9 +12,9 @@ Curriculum Vitae
 
 
 Education
------
+---------
 
-2010-14
+2010--14
 :   *Ph.D. Simon Fraser University*, Burnaby, BC, GPA: 4.00
 <br> 
     *Advisors:* Randall Peterman, Sean Cox, and Franz Mueter
@@ -23,7 +23,7 @@ Education
     Pacific salmon productivity
 
 
-2006-08
+2006--08
 :   *M.Sc. University of Alaska Fairbanks*, Juneau, AK, GPA: 4.00
 <br> 
     *Advisor:* Milo D. Adkison
@@ -31,7 +31,7 @@ Education
     *Thesis:* Variable effects of biological and environmental processes on coho
     salmon marine survival in Southeast Alaska ([PDF][UAF:Msc])
 
-2002-06
+2002--06
 :   *B.Sc. Mansfield University*, Mansfield, PA, GPA: 3.95
 <br> 
     *Senior Thesis:* The influence of climatological factors on the migration
@@ -44,7 +44,7 @@ Education
 
 
 Publications
-------
+------------
 
 In review
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. In Review. Linking
@@ -71,31 +71,31 @@ In review
 
 
 Awards and Honors
----------
+-----------------
 
-2012-13
+2012--13
 :   Ph.D. Graduate Fellowship, Simon Fraser University
 
-2012-13
+2012--13
 :   President's Ph.D. Scholarship, Simon Fraser University
 
-2010-11 
+2010--11 
 :   C.D. Nelson Memorial Graduate Scholarship
 
-2005-06 
+2005--06 
 :   Certificate of Recognition for Academic Achievement in Biology 
 
-2005-06 
+2005--06 
 :   Stanley Henry Nauman Scholarship for Academic Excellence in Fisheries 
 
-2003-04 
+2003--04 
 :   Certificate of Accomplishment for Grantsmanship
 
 
 
 
 Presentations
--------
+-------------
 
 2014
 :   **Malick, M.J.**, R.M. Peterman, S.P. Cox. Stock-recruitment datasets for
@@ -180,7 +180,7 @@ Presentations
 
 
 Teaching Experience
-----------
+-------------------
 
 2014
 :   *Teaching Assistant:* Risk Assessment and Decision Analysis for Management of
@@ -189,28 +189,28 @@ Teaching Experience
 
 2013
 :   *Instructor:* Introduction to R for Data Analysis, Simon Fraser
-    University - A two day short course that covered the basics of the R
+    University -- A two day short course that covered the basics of the R
     programming language.
 
 2013
-:   *Instructor:* Introduction to R, NOAA Northwest Fisheries Science Center -
+:   *Instructor:* Introduction to R, NOAA Northwest Fisheries Science Center --
     A two day short course that covered the basics of the R programming
     language.
 
 2012
-:   *Instructor:* Introduction to R, Simon Fraser University - An 11 week
+:   *Instructor:* Introduction to R, Simon Fraser University -- An 11 week
     voluntary course that covered the basics of the R programming language.
 
 
 
 
 Certifications & Services
--------------
+-------------------------
 
-2007-14
+2007--14
 :   American Fisheries Society Associate Professional
 
-2007-08
+2007--08
 :   Secretary: AFS Student Subunit, University of Alaska Fairbanks
 
 Reviewer
@@ -221,14 +221,14 @@ Reviewer
 
 
 Work Experience
---------
+---------------
 
-2008-10
+2008--10
 :   *Research Associate:* University of Alaska Fairbanks, Juneau, AK. Duties
     included dataset assembly and maintenance, statistical analyses using R,
     Excel, and PRIMER, and manuscript preparation.
 
-2007-08
+2007--08
 :   *Fisheries Contractor:* National Atmospheric and Oceanic Administration, 
     Little Port Walter, AK. Duties included salmon collection, recovery of coded
     wire tags, and salmon weir maintenance.
