@@ -92,8 +92,7 @@ ul, ol {
 table {
     table-layout: fixed; 
 }
-.td { 
-    width: 20%; 
+td { 
     text-align: center;
     border: 10px;
 }
