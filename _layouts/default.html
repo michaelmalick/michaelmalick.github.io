@@ -56,24 +56,26 @@
 <body>
 
   <div class="container">
+
     <div class="sixteen columns">
       <h1 style="margin-top:40px"></h1>
     </div>
-    <div class="four columns">
+
+    <div class="five columns">
       {% include sidebar.html %}
     </div>
-    <div class="eleven columns">
-      <p></p>
-      <ul class="square">
-       {% include topbar.html %}
-        <hr/>
-        {{ content }}
-      </ul>
+
+    <div class="ten columns">
+      {% include topbar.html %}
+      <hr/>
+      {{ content }}
     </div>
-    <div class="sixteen columns">
+
+    <div class="fifteen columns">
       <hr/>
       {% include bottombar.html %}
     </div>
+
   </div>
 
 </body>

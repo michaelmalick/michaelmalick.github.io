@@ -1,16 +1,8 @@
 /* CSS FOR MY PHD RESEARCH WEBSITE
    MICHAEL MALICK
-   UPDATED: 19 Jul 2013
+   UPDATED: 18 Oct 2014
 */
 
-/* Main Color Scheme:
-    - Body Text:  #555555
-    - Headers:    #4A525A
-    - Links:      #888888
-    - Link Hover: #0099EE
-    - Side Bar:   #0099EE
-    - Blog Title: #0099EE
-*/
 
 
 /* IMPORT GOOGLE FONTS -------------------------------------------------------*/
@@ -88,7 +80,7 @@ ul, ol {
     line-height: 29px;
 }
 
-/* TABLES ---------------------------------------------------------*/
+/* TABLES --------------------------------------------------------------------*/
 table {
     table-layout: fixed; 
 }
@@ -153,6 +145,7 @@ hr { /* Horizontal rule */
     height: 1px;
     border: none; 
 }
+
 /* DEFINITION LISTS ----------------------------------------------------------*/
 /* See here for example: http://www.maxdesign.com.au/articles/definition/ */
 /* Term text style (i.e., year) */
@@ -197,20 +190,21 @@ dl {
     line-height: 1.75;
 }
 .navigation a:link {
-    color: #0099EE;
+    /* color: #0099EE; */
+    color: #0077FF;
     vertical-align: baseline;
     text-decoration: none;
 }
 .navigation a:hover {
-    color: #0099EE;
+    color: #0077FF;
     text-decoration: none;
 }
 .navigation a:active {
-    color: #0099EE;
+    color: #0077FF;
     text-decoration: none;
 }
 .navigation a:visited {
-    color: #0099EE;
+    color: #0077FF;
     text-decoration: none
 }
 .name {
