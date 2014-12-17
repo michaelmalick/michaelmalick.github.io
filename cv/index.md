@@ -46,8 +46,8 @@ Education
 Publications
 ------
 
-In review
-:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. In Review. Linking
+Accepted
+:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. Accepted. Linking
     phytoplankton phenology to salmon productivity along a north/south gradient
     in the Northeast Pacific Ocean. Canadian Journal of Fisheries and Aquatic
     Sciences.
