@@ -46,9 +46,9 @@ Education
 Publications
 ------------
 
-Submitted
+In review
 :   **Malick, M.J.**, S.P. Cox, R.M. Peterman, T.C. Wainwright, and W.T.
-    Peterson. Submitted.  Accounting for multiple pathways in the connections
+    Peterson. In Review.  Accounting for multiple pathways in the connections
     among climate variability, ocean processes, and coho salmon recruitment in
     the Northern California Current.
 
@@ -57,6 +57,7 @@ Accepted
     phytoplankton phenology to salmon productivity along a north/south gradient
     in the Northeast Pacific Ocean. Canadian Journal of Fisheries and Aquatic
     Sciences.
+    <http://doi.org/10.1139/cjfas-2014-0298>
 
 2011 
 :   **Malick, M.J.**, L.J. Haldorson, J.J. Piccolo, and J.L. Boldt. 2011. Growth
