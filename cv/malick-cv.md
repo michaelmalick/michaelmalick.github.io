@@ -14,7 +14,7 @@ Curriculum Vitae
 Education
 ---------
 
-2010--14
+2010--15
 :   *Ph.D. Simon Fraser University*, Burnaby, BC, GPA: 4.00
 <br> 
     *Advisors:* Randall Peterman, Sean Cox, and Franz Mueter

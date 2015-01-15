@@ -252,3 +252,9 @@ dl {
 .footer a:visited {
     color: #4A525A;
 }
+.researchlink {
+    font-size: 24px;
+    text-align: left;
+    color: #AAAAAA;
+    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; 
+}
