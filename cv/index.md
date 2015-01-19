@@ -122,8 +122,8 @@ Presentations
     Meeting,  Nanaimo BC, Canada.  October 18, 2013.
 
 2013
-:   **Malick, M.J.**, R.M. Peterman, W.T. Peterson, and T.C. Wainwright.
-    Using Bayesian networks to link climate variability, ocean
+:   **Malick, M.J.**, S.P. Cox, R.M. Peterman, W.T. Peterson, and T.C.
+    Wainwright. Using Bayesian networks to link climate variability, ocean
     processes, and coho salmon marine survival. North Pacific
     Anadromous Fish Commission Workshop, Honolulu, HI. April 26, 2013.
 
