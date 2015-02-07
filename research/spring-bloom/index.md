@@ -24,3 +24,9 @@ and lower productivity for southern populations. Overall, our results suggest
 that changes in spring bloom timing resulting from natural climate variability
 or anthropogenic climate change could potentially cause latitudinal shifts in
 salmon productivity.
+
+**Citation**: Malick, M.J., S.P. Cox, F.J. Mueter, R.M. Peterman. Accepted.
+Linking phytoplankton phenology to salmon productivity along a north/south
+gradient in the Northeast Pacific Ocean. Canadian Journal of Fisheries and
+Aquatic Sciences. <http://doi.org/10.1139/cjfas-2014-0298>
+
