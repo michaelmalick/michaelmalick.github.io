@@ -52,8 +52,8 @@ In review
     among climate variability, ocean processes, and coho salmon recruitment in
     the Northern California Current.
 
-Accepted
-:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. Accepted. Linking
+In press
+:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. In Press. Linking
     phytoplankton phenology to salmon productivity along a north/south gradient
     in the Northeast Pacific Ocean. Canadian Journal of Fisheries and Aquatic
     Sciences.
@@ -79,6 +79,9 @@ Accepted
 
 Awards and Honors
 ---------
+
+2014-15
+:   Ph.D. Graduate Fellowship, Simon Fraser University
 
 2012-13
 :   Ph.D. Graduate Fellowship, Simon Fraser University
