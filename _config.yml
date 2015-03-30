@@ -2,5 +2,4 @@ name: "Michael Malick"
 description: "Small Data"
 url: "http://localhost:4000"
 markdown:  rdiscount
-highlighter:  true
 permalink: none 
