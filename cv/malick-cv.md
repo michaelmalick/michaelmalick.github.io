@@ -103,6 +103,14 @@ Awards and Honors
 
 
 
+Media Coverage
+--------------
+
+2015
+:   Study Details How Timing Of Phytoplankton Blooms off Alaska, B.C. Tied To
+    Salmon Productivity. The Columbia Basin Bulletin. 6 February 2015.
+    ([Article][CBB:2015])
+
 
 Presentations
 -------------
@@ -229,6 +237,15 @@ Reviewer
 
 
 
+Published Datasets
+------------------
+
+2015
+:   *North American pink and chum salmon spawner-recruit database.* Publically
+    released July 2015. The database contains stock-recruitment data for 46 pink
+    and 53 chum salmon stocks throughout their North American ranges.
+    <http://dx.doi.org/10.5281/zenodo.20354>
+
 
 Work Experience
 ---------------
@@ -260,8 +277,8 @@ Work Experience
 
 
 
-
-
+[PinkChum:2015]: https://github.com/MichaelMalick/pink-chum-database
+[CBB:2015]: http://www.cbbulletin.com/433107.aspx
 [Malick:2011]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_etal_2011.pdf
 [Malick:2009]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_etal_2009.pdf
 [UAF:Msc]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_msc_thesis_2008.pdf
