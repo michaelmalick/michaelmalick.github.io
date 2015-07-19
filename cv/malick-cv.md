@@ -8,7 +8,7 @@ title: Michael Malick | CV
 Curriculum Vitae
 ================
 
-
+You can also download a [PDF][MalickCV] copy of my CV.
 
 
 Education
@@ -282,5 +282,4 @@ Work Experience
 [Malick:2011]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_etal_2011.pdf
 [Malick:2009]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_etal_2009.pdf
 [UAF:Msc]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_msc_thesis_2008.pdf
-
 [MalickCV]: https://dl.dropboxusercontent.com/u/43909530/cv/malick-cv.pdf

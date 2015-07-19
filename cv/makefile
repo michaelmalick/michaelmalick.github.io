@@ -4,7 +4,7 @@ cv:
 	cp malick-cv.md index.md
 	perl -p -i -e "s/--/-/g" index.md 
 	# LaTeX processing
-	tail +11 malick-cv.md > cv-body.md
+	tail +14 malick-cv.md > cv-body.md
 	perl -p -i -e "s/<br>/ /g" cv-body.md 
 	# perl -p -i -e "s/<br>/\\\newline/g" cv-body.md 
 	pandoc -S cv-body.md -o cv-body.tex
