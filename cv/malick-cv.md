@@ -59,7 +59,7 @@ Accepted
 
 2015
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. 2015. Linking
-    phytoplankton phenology to salmon productivity along a north/south gradient
+    phytoplankton phenology to salmon productivity along a north-south gradient
     in the Northeast Pacific Ocean. Canadian Journal of Fisheries and Aquatic
     Sciences 72:697-708.
     <http://doi.org/10.1139/cjfas-2014-0298>
@@ -120,6 +120,12 @@ Media Coverage
 Presentations
 -------------
 
+2015
+:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. 2015. Linking
+    phytoplankton phenology to pink salmon productivity along a north-south
+    gradient. American Fisheries Society Annual Meeting, Portland, OR. 
+    August 17, 2015.
+
 2014
 :   **Malick, M.J.**, R.M. Peterman, S.P. Cox. Stock-recruitment datasets for
     wild North American pink and chum salmon stocks. International Salmon Data
@@ -135,7 +141,7 @@ Presentations
 :   Litzow, M., W.J. Sydeman, D. Schoeman, S. Chiba, M. Garcia-Reyes, **M.J.
     Malick**, H. Sugisaki, S.A. Thompson. Nonlinear change in the variability of
     North Pacific climate: are biological systems responding? PICES 2013 Annual
-    Meeting,  Nanaimo BC, Canada.  October 18, 2013.
+    Meeting, Nanaimo BC, Canada.  October 18, 2013.
 
 2013
 :   **Malick, M.J.**, S.P. Cox, R.M. Peterman, W.T. Peterson, and T.C.
