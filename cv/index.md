@@ -50,12 +50,13 @@ In review
 :    **Malick, M.J.** and S.P. Cox. In Review. Regional-scale declines in
      productivity of pink and chum salmon stocks in western North America.
 
-Accepted
+In press
 :   **Malick, M.J.**, S.P. Cox, R.M. Peterman, T.C. Wainwright, and W.T.
-    Peterson. Accepted.  Accounting for multiple pathways in the connections
+    Peterson. In press. Accounting for multiple pathways in the connections
     among climate variability, ocean processes, and coho salmon recruitment in
     the Northern California Current. Canadian Journal of Fisheries and Aquatic
-    Sciences
+    Sciences.
+    <http://doi.org/10.1139/cjfas-2014-0509>
 
 2015
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. 2015. Linking
