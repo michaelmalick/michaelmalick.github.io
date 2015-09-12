@@ -14,7 +14,9 @@ salmon population dynamics. Using a combination of single stock and hierarchical
 models, we estimated the effect of the spring bloom timing on each of 27 pink
 salmon stocks, as well as an overall regional effect across all stocks. 
 
-<a href="./bloom-fig-1200.png"><img src="./bloom-fig-720.png" alt="Bloom Graphic" width="540" height="310" align="left"/></a>
+<a href="./bloom-fig-1200.png"><img src="./bloom-fig-720.png" 
+alt="Bloom Graphic" width="540" height="310" align="left" 
+style="margin-bottom:20px"/></a>
 
 Our results indicated that the spring bloom timing was significantly correlated
 with salmon productivity for both northern (Alaska) and southern (British
@@ -25,8 +27,7 @@ that changes in spring bloom timing resulting from natural climate variability
 or anthropogenic climate change could potentially cause latitudinal shifts in
 salmon productivity.
 
-**Citation**: Malick, M.J., S.P. Cox, F.J. Mueter, R.M. Peterman. Accepted.
-Linking phytoplankton phenology to salmon productivity along a north/south
-gradient in the Northeast Pacific Ocean. Canadian Journal of Fisheries and
-Aquatic Sciences. <http://doi.org/10.1139/cjfas-2014-0298>
-
+**Citation**: Malick, M.J., S.P. Cox, F.J. Mueter, R.M. Peterman. 2015. Linking
+phytoplankton phenology to salmon productivity along a north-south gradient in
+the Northeast Pacific Ocean. Canadian Journal of Fisheries and Aquatic Sciences
+72:697-708. <http://doi.org/10.1139/cjfas-2014-0298>
