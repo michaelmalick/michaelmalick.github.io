@@ -86,6 +86,9 @@ In press
 Awards and Honors
 ---------
 
+2015
+:   Best Student Presentation, Honorable Mention, AFS National Meeting, Portland, OR
+
 2014-15
 :   Ph.D. Graduate Fellowship, Simon Fraser University
 
