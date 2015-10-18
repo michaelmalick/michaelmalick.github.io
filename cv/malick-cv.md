@@ -116,9 +116,15 @@ Media Coverage
 --------------
 
 2015
+:   Warming Coastal Ocean Temperatures May Lead To Negative Effect For Salmon 
+    Recruitment. The Columbia Basin Bulletin. 9 October 2015.
+    ([Article][CBB:2015:network])
+
+2015
 :   Study Details How Timing Of Phytoplankton Blooms off Alaska, B.C. Tied To
     Salmon Productivity. The Columbia Basin Bulletin. 6 February 2015.
-    ([Article][CBB:2015])
+    ([Article][CBB:2015:bloom])
+
 
 
 Presentations
@@ -293,7 +299,8 @@ Work Experience
 
 
 [PinkChum:2015]: https://github.com/MichaelMalick/pink-chum-database
-[CBB:2015]: http://www.cbbulletin.com/433107.aspx
+[CBB:2015:bloom]: http://www.cbbulletin.com/433107.aspx
+[CBB:2015:network]: https://www.cbbulletin.com/435190.aspx
 [Malick:2011]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_etal_2011.pdf
 [Malick:2009]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_etal_2009.pdf
 [UAF:Msc]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_msc_thesis_2008.pdf
