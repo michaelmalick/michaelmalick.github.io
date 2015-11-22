@@ -131,7 +131,7 @@ Presentations
 -------------
 
 2015
-:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. 2015. Linking
+:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. Linking
     phytoplankton phenology to pink salmon productivity along a north-south
     gradient. American Fisheries Society Annual Meeting, Portland, OR. 
     August 17, 2015.
@@ -221,6 +221,11 @@ Presentations
 Teaching Experience
 -------------------
 
+2015
+:   *Instructor:* Designing Publication Quality Graphics in R, Simon Fraser
+    University -- A tutorial on desinging and creating publication
+    figures in R. Tutorial materials are availabe on [github][PubGraph].
+
 2014
 :   *Teaching Assistant:* Risk Assessment and Decision Analysis for Management of
     Natural Resources, Simon Fraser University (REM-625). Lead and developed
@@ -228,12 +233,12 @@ Teaching Experience
 
 2013
 :   *Instructor:* Introduction to R for Data Analysis, Simon Fraser
-    University -- A two day short course that covered the basics of the R
+    University -- A two day course that covered the basics of the R
     programming language.
 
 2013
 :   *Instructor:* Introduction to R, NOAA Northwest Fisheries Science Center --
-    A two day short course that covered the basics of the R programming
+    A two day course that covered the basics of the R programming
     language.
 
 2012
@@ -246,15 +251,15 @@ Teaching Experience
 Certifications & Services
 -------------------------
 
-2007--14
+2007--15
 :   American Fisheries Society Associate Professional
 
 2007--08
 :   Secretary: AFS Student Subunit, University of Alaska Fairbanks
 
 Reviewer
-:   Transactions of the American Fisheries Society, North Pacific Anadromous
-    Fish Commission, North American Journal of Fisheries Management
+:   Ecosphere, Transactions of the American Fisheries Society, North Pacific
+    Anadromous Fish Commission, North American Journal of Fisheries Management
 
 
 
@@ -297,7 +302,7 @@ Work Experience
 
 
 
-
+[PubGraph]: https://github.com/MichaelMalick/pub-graphics
 [PinkChum:2015]: https://github.com/MichaelMalick/pink-chum-database
 [CBB:2015:bloom]: http://www.cbbulletin.com/433107.aspx
 [CBB:2015:network]: https://www.cbbulletin.com/435190.aspx
