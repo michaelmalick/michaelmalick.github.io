@@ -14,7 +14,7 @@ You can also download a [PDF][MalickCV] copy of my CV.
 Education
 -----
 
-2010-15
+2010-16
 :   *Ph.D. Simon Fraser University*, Burnaby, BC, GPA: 4.00
 <br> 
     *Advisors:* Randall Peterman, Sean Cox, and Franz Mueter
@@ -46,9 +46,10 @@ Education
 Publications
 ------
 
-In review
-:    **Malick, M.J.** and S.P. Cox. In Review. Regional-scale declines in
-     productivity of pink and chum salmon stocks in western North America.
+Accepted
+:    **Malick, M.J.** and S.P. Cox. Accepted. Regional-scale declines in
+     productivity of pink and chum salmon stocks in western North America. PLOS
+     ONE.
 
 2015
 :   **Malick, M.J.**, S.P. Cox, R.M. Peterman, T.C. Wainwright, and W.T.
@@ -251,7 +252,7 @@ Teaching Experience
 Certifications & Services
 -------------
 
-2007-15
+2007-16
 :   American Fisheries Society Associate Professional
 
 2007-08
