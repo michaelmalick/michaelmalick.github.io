@@ -46,10 +46,12 @@ Education
 Publications
 ------
 
-Accepted
-:    **Malick, M.J.** and S.P. Cox. Accepted. Regional-scale declines in
-     productivity of pink and chum salmon stocks in western North America. PLOS
-     ONE.
+2016
+:   **Malick, M.J.** and S.P. Cox. 2016. Regional-scale declines in
+    productivity of pink and chum salmon stocks in western North America. PLoS
+    ONE 11:e0146009.
+    ([PDF][Malick:2016])
+    <http://doi.org/10.1371/journal.pone.0146009>
 
 2015
 :   **Malick, M.J.**, S.P. Cox, R.M. Peterman, T.C. Wainwright, and W.T.
@@ -307,6 +309,7 @@ Work Experience
 [PinkChum:2015]: https://github.com/MichaelMalick/pink-chum-database
 [CBB:2015:bloom]: http://www.cbbulletin.com/433107.aspx
 [CBB:2015:network]: https://www.cbbulletin.com/435190.aspx
+[Malick:2016]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_cox_2016.pdf
 [Malick:2011]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_etal_2011.pdf
 [Malick:2009]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_etal_2009.pdf
 [UAF:Msc]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_msc_thesis_2008.pdf
