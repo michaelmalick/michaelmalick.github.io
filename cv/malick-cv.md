@@ -224,9 +224,15 @@ Presentations
 Teaching Experience
 -------------------
 
+2016
+:   *Guest Lecture:* Designing Publication Quality Graphics in R. Guest Lecture
+    in REM 612 Simulation Modelling in Natural Resource Management, Simon Fraser
+    University (2 hrs.) -- A tutorial on designing and creating publication
+    figures in R. Tutorial materials are availabe on [github][PubGraph].
+
 2015
 :   *Instructor:* Designing Publication Quality Graphics in R, Simon Fraser
-    University -- A tutorial on desinging and creating publication
+    University -- A tutorial on designing and creating publication
     figures in R. Tutorial materials are availabe on [github][PubGraph].
 
 2014
