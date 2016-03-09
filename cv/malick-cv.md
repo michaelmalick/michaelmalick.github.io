@@ -133,6 +133,12 @@ Media Coverage
 Presentations
 -------------
 
+2016
+:   **Malick, M.J.** Environmental drivers of spatial and temporal variability
+    in Pacific salmon productivity. Resource & Environmental Management
+    Departmental Seminar, Simon Fraser University, Burnaby, BC. March 7, 2016.
+
+
 2015
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. Linking
     phytoplankton phenology to pink salmon productivity along a north-south
