@@ -16,7 +16,7 @@ large-scale climate variability, we used probabilistic networks to investigate
 17 potential ecological pathways linking climate to salmon recruitment. 
 
 <a href="./network-fig-1200.png"><img src="./network-fig-720.png"
-alt="Ecological Network" width="550" height="315" align="left"
+alt="Ecological Network" width="565" height="320" align="left"
 style="margin-bottom:20px"/></a>
 
 We found that pathways originating with the Pacific Decadal Oscillation were the

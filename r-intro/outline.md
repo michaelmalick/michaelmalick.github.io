@@ -10,8 +10,8 @@ title: Michael Malick | Intro to R for Data Analysis
 
 
 
-<a id="outline"></a>
 ## Course Outline
+<a id="outline"></a>
 
 1. R Basics
     - Overview of R

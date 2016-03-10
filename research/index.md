@@ -19,10 +19,10 @@ src="./prod-trends/kalman-fig-chum-150.png"
 style="width: 160px; padding-top: 10px" align="left"/></a>
 
 
-<div class = researchlink>
+<div class = "researchlink">
     <a href="./prod-trends/index.html">Regional-scale declines in productivity
     of pink and chum salmon stocks in western North America </a> <br> 
-  </div>
+</div>
 
 <h1 style="margin-top:60px"></h1>
 In this study, we tested the hypothesis that North American pink (*Oncorhynchus
@@ -39,7 +39,7 @@ in productivity...
 src="./bayes-network/network-fig-150.png" 
 style="width: 190px; padding-top: 10px" align="left"/></a>
 
-<div class = researchlink>
+<div class = "researchlink">
     <a href="./bayes-network/index.html">Accounting for multiple pathways in the
     connections among climate variability, ocean processes, and coho salmon
     recruitment in the Northern California Current</a> <br> 
@@ -59,7 +59,7 @@ kisutch*) recruitment...
 <a href="./spring-bloom/index.html"><img src="./spring-bloom/bloom-fig-150.png" 
 style="width: 190px" align="left"/></a>
 
-<div class = researchlink>
+<div class = "researchlink">
     <a href="./spring-bloom/index.html">Linking phytoplankton phenology to salmon productivity along a north/south gradient</a> <br>
   </div>
 

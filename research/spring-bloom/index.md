@@ -15,7 +15,7 @@ models, we estimated the effect of the spring bloom timing on each of 27 pink
 salmon stocks, as well as an overall regional effect across all stocks. 
 
 <a href="./bloom-fig-1200.png"><img src="./bloom-fig-720.png" 
-alt="Bloom Graphic" width="540" height="310" align="left" 
+alt="Bloom Graphic" width="560" height="315" align="left" 
 style="margin-bottom:20px"/></a>
 
 Our results indicated that the spring bloom timing was significantly correlated

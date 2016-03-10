@@ -9,8 +9,8 @@ title: Michael Malick | Intro to R for Data Analysis
 # Intro to R for Data Analysis
 
 
-*  <a href="/r-intro/outline.html">Course Outline</a> </br>
-*  <a href="/r-intro/resources.html">R Resources</a> </br>
+* <a href="/r-intro/outline.html">Course Outline</a>
+* <a href="/r-intro/resources.html">R Resources</a>
    <!-- <a href="#overview">Course Overview</a> </br> -->
    <!-- <a href="#tutorials">Tutorials</a> </br> -->
    <!-- <a href="#scripts">Scripts</a> </br> -->
@@ -19,8 +19,9 @@ title: Michael Malick | Intro to R for Data Analysis
 
 
 
-<a id="overview"></a>
+
 ## Course Overview
+<a id="overview"></a>
 This page provides the materials for a two-day workshop that
 introduces the R programming environment. The objective of the
 workshop is to provide participants with a foundational knowledge of
@@ -31,8 +32,8 @@ language to analyze independent datasets.
 
 
 
-<a id="tutorials"></a>
 ## Tutorials
+<a id="tutorials"></a>
 
 1.  [R Basics][T1]
 2.  [Data Structures][T2]
@@ -59,8 +60,8 @@ language to analyze independent datasets.
 
 
 
-<a id="scripts"></a>
 ## Scripts
+<a id="scripts"></a>
 
 * [Intro to R Script][script1]
 * [Linear Model Diagnostics Function][script2] 
@@ -70,10 +71,8 @@ language to analyze independent datasets.
 
 
 
-
-
-<a id="graphicsexamples"></a>
 ## Graphics Examples
+<a id="graphicsexamples"></a>
 
 * [Base Graphics Examples][E1]
 * [Lattice Graphics Examples][E2]
@@ -83,9 +82,8 @@ language to analyze independent datasets.
 
 
 
-
-<a id="problems"></a>
 ## Problem Sets
+<a id="problems"></a>
 
 * [Pink Salmon Problem Set (pinks.R)][P1]
 * [Pink Salmon Data (pinks.csv)][P2]
