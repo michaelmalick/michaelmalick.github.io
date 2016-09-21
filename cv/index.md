@@ -4,7 +4,7 @@ layout: default
 title: Michael Malick | CV
 
 ---
- 
+
 Curriculum Vitae
 ================
 
@@ -14,29 +14,29 @@ You can also download a [PDF][MalickCV] copy of my CV.
 Education
 -----
 
-2010-16
+Current
 :   *Ph.D. Simon Fraser University*, Burnaby, BC, GPA: 4.00
-<br> 
+<br>
     *Advisors:* Randall Peterman, Sean Cox, and Franz Mueter
-<br> 
+<br>
     *Dissertation:* Ecological drivers of spatial and temporal variability in
     Pacific salmon productivity
 
 
 2006-08
 :   *M.Sc. University of Alaska Fairbanks*, Juneau, AK, GPA: 4.00
-<br> 
+<br>
     *Advisor:* Milo D. Adkison
-<br> 
+<br>
     *Thesis:* Variable effects of biological and environmental processes on coho
     salmon marine survival in Southeast Alaska ([PDF][UAF:Msc])
 
 2002-06
 :   *B.Sc. Mansfield University*, Mansfield, PA, GPA: 3.95
-<br> 
+<br>
     *Senior Thesis:* The influence of climatological factors on the migration
     timing of sockeye salmon into freshwater (Advisor: Dr. Richard W. Soderberg)
-<br> 
+<br>
     *Independent Research:* Chemical and biological study of the Tioga River
     (Advisor: Dr. Gregory A. Carson)
 
@@ -45,6 +45,11 @@ Education
 
 Publications
 ------
+
+Accepted
+:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, B. Dorner, R.M. Peterman.
+    Accepted. Effects of the North Pacific Current on productivity of 163
+    Pacific salmon stocks. Fisheries Oceanography.
 
 2016
 :   **Malick, M.J.** and S.P. Cox. 2016. Regional-scale declines in
@@ -68,10 +73,10 @@ Publications
     Sciences 72:697-708.
     <http://doi.org/10.1139/cjfas-2014-0298>
 
-2011 
+2011
 :   **Malick, M.J.**, L.J. Haldorson, J.J. Piccolo, and J.L. Boldt. 2011. Growth
     and survival in relation to body size of juvenile pink salmon in the
-    Northern Gulf of Alaska. Marine and Coastal Fisheries 3:261-270. 
+    Northern Gulf of Alaska. Marine and Coastal Fisheries 3:261-270.
     ([PDF][Malick:2011])
     <http://doi.org/10.1080/19425120.2011.593467>
 
@@ -79,7 +84,7 @@ Publications
 :   **Malick, M.J.**, M.D. Adkison, and A.C. Wertheimer. 2009.
     Variable effects of biological and environmental processes on coho
     salmon marine survival in Southeast Alaska. Transactions of the
-    American Fisheries Society 138:846-860. 
+    American Fisheries Society 138:846-860.
     ([PDF][Malick:2009])
     <http://doi.org/10.1577/T08-177.1>
 
@@ -101,16 +106,16 @@ Awards and Honors
 2012-13
 :   President's Ph.D. Scholarship, Simon Fraser University
 
-2010-11 
+2010-11
 :   C.D. Nelson Memorial Graduate Scholarship
 
-2005-06 
-:   Certificate of Recognition for Academic Achievement in Biology 
+2005-06
+:   Certificate of Recognition for Academic Achievement in Biology
 
-2005-06 
-:   Stanley Henry Nauman Scholarship for Academic Excellence in Fisheries 
+2005-06
+:   Stanley Henry Nauman Scholarship for Academic Excellence in Fisheries
 
-2003-04 
+2003-04
 :   Certificate of Accomplishment for Grantsmanship
 
 
@@ -119,7 +124,7 @@ Media Coverage
 -------
 
 2015
-:   Warming Coastal Ocean Temperatures May Lead To Negative Effect For Salmon 
+:   Warming Coastal Ocean Temperatures May Lead To Negative Effect For Salmon
     Recruitment. The Columbia Basin Bulletin. 9 October 2015.
     ([Article][CBB:2015:network])
 
@@ -142,7 +147,7 @@ Presentations
 2015
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. Linking
     phytoplankton phenology to pink salmon productivity along a north-south
-    gradient. American Fisheries Society Annual Meeting, Portland, OR. 
+    gradient. American Fisheries Society Annual Meeting, Portland, OR.
     August 17, 2015.
 
 2014
@@ -153,7 +158,7 @@ Presentations
 2014
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. North-south
     differences in the effects of the initiation date of the spring bloom on pink
-    salmon survival. Salmon Ocean Ecology Annual Meeting, Santa Cruz, CA. 
+    salmon survival. Salmon Ocean Ecology Annual Meeting, Santa Cruz, CA.
     March 14, 2014.
 
 2013
@@ -297,7 +302,7 @@ Work Experience
     Excel, and PRIMER, and manuscript preparation.
 
 2007-08
-:   *Fisheries Contractor:* National Atmospheric and Oceanic Administration, 
+:   *Fisheries Contractor:* National Atmospheric and Oceanic Administration,
     Little Port Walter, AK. Duties included salmon collection, recovery of coded
     wire tags, and salmon weir maintenance.
 
