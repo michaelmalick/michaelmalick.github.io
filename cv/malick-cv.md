@@ -248,8 +248,8 @@ Teaching Experience
 
 2014
 :   *Teaching Assistant:* Risk Assessment and Decision Analysis for Management of
-    Natural Resources, Simon Fraser University (REM-625). Lead and developed
-    computer labs, graded assignments, lead reading discussions.
+    Natural Resources, Simon Fraser University (REM-625). Developed and led
+    computer labs, graded assignments, organized reading discussions.
 
 2013
 :   *Instructor:* Introduction to R for Data Analysis, Simon Fraser
