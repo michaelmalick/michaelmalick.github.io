@@ -96,6 +96,7 @@ Awards and Honors
 
 2015
 :   Best Student Presentation, Honorable Mention, AFS National Meeting, Portland, OR
+    ([Slides][Slides:afs-2015], [Extended abstract][Abstract:afs-2015])
 
 2014--15
 :   Ph.D. Graduate Fellowship, Simon Fraser University
@@ -141,14 +142,15 @@ Presentations
 2016
 :   **Malick, M.J.** Environmental drivers of spatial and temporal variability
     in Pacific salmon productivity. Resource & Environmental Management
-    Departmental Seminar, Simon Fraser University, Burnaby, BC. March 7, 2016.
+    Departmental Seminar, Simon Fraser University, Burnaby, BC. March 7, 2016
+    ([Slides][Slides:sfu-seminar-2016]).
 
 
 2015
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. Linking
     phytoplankton phenology to pink salmon productivity along a north-south
     gradient. American Fisheries Society Annual Meeting, Portland, OR.
-    August 17, 2015.
+    August 17, 2015 ([Slides][Slides:afs-2015], [Extended abstract][Abstract:afs-2015]).
 
 2014
 :   **Malick, M.J.**, R.M. Peterman, S.P. Cox. Stock-recruitment datasets for
@@ -331,3 +333,6 @@ Work Experience
 [Malick:2009]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_etal_2009.pdf
 [UAF:Msc]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_msc_thesis_2008.pdf
 [MalickCV]: https://dl.dropboxusercontent.com/u/43909530/cv/malick-cv.pdf
+[Slides:sfu-seminar-2016]: https://dl.dropboxusercontent.com/u/43909530/slides/malick_sfu_seminar_2016.pdf
+[Slides:afs-2015]: https://dl.dropboxusercontent.com/u/43909530/slides/malick_etal_afs2015_slides.pdf
+[Abstract:afs-2015]: https://dl.dropboxusercontent.com/u/43909530/slides/malick_etal_afs2015_extended_abstract.pdf
