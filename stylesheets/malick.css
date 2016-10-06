@@ -182,7 +182,8 @@ dl {
     padding-left: 25px;
 }
 .navigation {
-    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; 
+    /* font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; */ 
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif; 
     font-size: 18px;
     margin-top: 18px;
     margin-top: 15px;
@@ -191,20 +192,21 @@ dl {
 }
 .navigation a:link {
     /* color: #0099EE; */
-    color: #0077FF;
+    /* color: #0077FF; */
+    color: #005599;
     vertical-align: baseline;
     text-decoration: none;
 }
 .navigation a:hover {
-    color: #0077FF;
+    color: #005599;
     text-decoration: none;
 }
 .navigation a:active {
-    color: #0077FF;
+    color: #005599;
     text-decoration: none;
 }
 .navigation a:visited {
-    color: #0077FF;
+    color: #005599;
     text-decoration: none
 }
 .name {
