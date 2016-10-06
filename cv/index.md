@@ -165,7 +165,7 @@ Presentations
 :   Litzow, M., W.J. Sydeman, D. Schoeman, S. Chiba, M. Garcia-Reyes, **M.J.
     Malick**, H. Sugisaki, S.A. Thompson. Nonlinear change in the variability of
     North Pacific climate: are biological systems responding? PICES 2013 Annual
-    Meeting, Nanaimo BC, Canada.  October 18, 2013.
+    Meeting, Nanaimo BC, Canada.  October 18, 2013. (Presented by M. Litzow)
 
 2013
 :   **Malick, M.J.**, S.P. Cox, R.M. Peterman, W.T. Peterson, and T.C.
@@ -177,7 +177,7 @@ Presentations
 :   Adkison, M., R. Briscoe, J. Robins, **M.J. Malick**, A. Wertheimer,
     and S.G. Taylor. Marine survival and interspecific interactions of
     coho salmon in SE Alaska. Poster. North Pacific Anadromous Fish
-    Commission Workshop, Honolulu, HI. April 25, 2013.
+    Commission Workshop, Honolulu, HI. April 25, 2013. (Presented by M. Adkison)
 
 2013
 :   **Malick, M.J.** Modeling causal networks to link climate
