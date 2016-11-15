@@ -17,10 +17,9 @@ Education
 Current
 :   *Ph.D. Simon Fraser University*, Burnaby, BC, GPA: 4.00
 <br>
-    *Advisors:* Randall Peterman, Sean Cox, and Franz Mueter
+    *Advisors:* Sean Cox and Randall Peterman
 <br>
-    *Dissertation:* Ecological drivers of spatial and temporal variability in
-    Pacific salmon productivity
+    *Thesis:* Environmental forcing of Pacific salmon population dynamics
 
 
 2006-08
@@ -35,67 +34,69 @@ Current
 :   *B.Sc. Mansfield University*, Mansfield, PA, GPA: 3.95
 <br>
     *Senior Thesis:* The influence of climatological factors on the migration
-    timing of sockeye salmon into freshwater (Advisor: Dr. Richard W. Soderberg)
+    timing of sockeye salmon into freshwater
 <br>
     *Independent Research:* Chemical and biological study of the Tioga River
-    (Advisor: Dr. Gregory A. Carson)
-
 
 
 
 Publications
 ------
 
-Accepted
-:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, B. Dorner, R.M. Peterman.
-    Accepted. Effects of the North Pacific Current on productivity of 163
+In press
+:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, B. Dorner, and R.M. Peterman.
+    In press. Effects of the North Pacific Current on productivity of 163
     Pacific salmon stocks. Fisheries Oceanography.
 
 2016
 :   **Malick, M.J.** and S.P. Cox. 2016. Regional-scale declines in
     productivity of pink and chum salmon stocks in western North America. PLoS
-    ONE 11:e0146009.
-    ([PDF][Malick:2016])
+    ONE 11:e0146009
     <http://doi.org/10.1371/journal.pone.0146009>
+    ([PDF][Malick:2016]).
 
 2015
 :   **Malick, M.J.**, S.P. Cox, R.M. Peterman, T.C. Wainwright, and W.T.
     Peterson. 2015. Accounting for multiple pathways in the connections
     among climate variability, ocean processes, and coho salmon recruitment in
     the Northern California Current. Canadian Journal of Fisheries and Aquatic
-    Sciences 72:1552-1564.
-    <http://doi.org/10.1139/cjfas-2014-0509>
+    Sciences 72:1552-1564
+    <http://doi.org/10.1139/cjfas-2014-0509>.
 
 2015
-:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. 2015. Linking
+:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, and R.M. Peterman. 2015. Linking
     phytoplankton phenology to salmon productivity along a north-south gradient
     in the Northeast Pacific Ocean. Canadian Journal of Fisheries and Aquatic
-    Sciences 72:697-708.
-    <http://doi.org/10.1139/cjfas-2014-0298>
+    Sciences 72:697-708
+    <http://doi.org/10.1139/cjfas-2014-0298>.
 
 2011
 :   **Malick, M.J.**, L.J. Haldorson, J.J. Piccolo, and J.L. Boldt. 2011. Growth
     and survival in relation to body size of juvenile pink salmon in the
-    Northern Gulf of Alaska. Marine and Coastal Fisheries 3:261-270.
-    ([PDF][Malick:2011])
+    Northern Gulf of Alaska. Marine and Coastal Fisheries 3:261-270
     <http://doi.org/10.1080/19425120.2011.593467>
+    ([PDF][Malick:2011]).
 
 2009
 :   **Malick, M.J.**, M.D. Adkison, and A.C. Wertheimer. 2009.
-    Variable effects of biological and environmental processes on coho
-    salmon marine survival in Southeast Alaska. Transactions of the
-    American Fisheries Society 138:846-860.
-    ([PDF][Malick:2009])
+    Variable effects of biological and environmental processes on coho salmon
+    marine survival in Southeast Alaska. Transactions of the American Fisheries
+    Society 138:846-860
     <http://doi.org/10.1577/T08-177.1>
-
+    ([PDF][Malick:2009]).
 
 
 
 Awards and Honors
 ---------
 
+2016
+:   Best Poster Presentation, PICES Annual Meeting, San Diego, CA,
+    Fisheries Science Section ([Poster][Poster:pices-2016])
+
 2015
-:   Best Student Presentation, Honorable Mention, AFS National Meeting, Portland, OR
+:   Best Student Presentation, AFS National Meeting, Portland, OR,
+    Honorable Mention
     ([Slides][Slides:afs-2015], [Extended abstract][Abstract:afs-2015])
 
 2014-15
@@ -126,13 +127,13 @@ Media Coverage
 
 2015
 :   Warming Coastal Ocean Temperatures May Lead To Negative Effect For Salmon
-    Recruitment. The Columbia Basin Bulletin. 9 October 2015.
-    ([Article][CBB:2015:network])
+    Recruitment. The Columbia Basin Bulletin. October 9, 2015
+    ([Article][CBB:2015:network]).
 
 2015
 :   Study Details How Timing Of Phytoplankton Blooms off Alaska, B.C. Tied To
-    Salmon Productivity. The Columbia Basin Bulletin. 6 February 2015.
-    ([Article][CBB:2015:bloom])
+    Salmon Productivity. The Columbia Basin Bulletin. February 6, 2015
+    ([Article][CBB:2015:bloom]).
 
 
 
@@ -140,34 +141,41 @@ Presentations
 -------
 
 2016
+:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, B. Dorner, and R.M. Peterman.
+    Effects of the North Pacific Current on productivity of 163 Pacific salmon
+    stocks. Poster. PICES Annual Meeting, San Diego, CA. November 15, 2016
+    ([Poster][Poster:pices-2016]).
+
+2016
 :   **Malick, M.J.** Environmental drivers of spatial and temporal variability
     in Pacific salmon productivity. Resource & Environmental Management
     Departmental Seminar, Simon Fraser University, Burnaby, BC. March 7, 2016
     ([Slides][Slides:sfu-seminar-2016]).
 
-
 2015
-:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. Linking
+:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, and R.M. Peterman. Linking
     phytoplankton phenology to pink salmon productivity along a north-south
     gradient. American Fisheries Society Annual Meeting, Portland, OR.
-    August 17, 2015 ([Slides][Slides:afs-2015], [Extended abstract][Abstract:afs-2015]).
+    August 17, 2015 ([Slides][Slides:afs-2015],
+    [Extended abstract][Abstract:afs-2015]).
 
 2014
-:   **Malick, M.J.**, R.M. Peterman, S.P. Cox. Stock-recruitment datasets for
-    wild North American pink and chum salmon stocks. International Salmon Data
-    Workshop, Seattle, WA. September 9, 2014.
+:   **Malick, M.J.**, R.M. Peterman, and S.P. Cox. Stock-recruitment data sets
+    for wild North American pink and chum salmon stocks. International Salmon
+    Data Workshop, Seattle, WA. September 9, 2014.
 
 2014
-:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, R.M. Peterman. North-south
-    differences in the effects of the initiation date of the spring bloom on pink
-    salmon survival. Salmon Ocean Ecology Annual Meeting, Santa Cruz, CA.
+:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, and R.M. Peterman. North-south
+    differences in the effects of the initiation date of the spring bloom on
+    pink salmon survival. Salmon Ocean Ecology Annual Meeting, Santa Cruz, CA.
     March 14, 2014.
 
 2013
 :   Litzow, M., W.J. Sydeman, D. Schoeman, S. Chiba, M. Garcia-Reyes, **M.J.
-    Malick**, H. Sugisaki, S.A. Thompson. Nonlinear change in the variability of
-    North Pacific climate: are biological systems responding? PICES 2013 Annual
-    Meeting, Nanaimo BC, Canada.  October 18, 2013. (Presented by M. Litzow)
+    Malick**, H. Sugisaki, and S.A. Thompson. Nonlinear change in the
+    variability of North Pacific climate: are biological systems responding?
+    PICES Annual Meeting, Nanaimo, BC, Canada. October 18, 2013 (Presented
+    by M. Litzow).
 
 2013
 :   **Malick, M.J.**, S.P. Cox, R.M. Peterman, W.T. Peterson, and T.C.
@@ -179,7 +187,7 @@ Presentations
 :   Adkison, M., R. Briscoe, J. Robins, **M.J. Malick**, A. Wertheimer,
     and S.G. Taylor. Marine survival and interspecific interactions of
     coho salmon in SE Alaska. Poster. North Pacific Anadromous Fish
-    Commission Workshop, Honolulu, HI. April 25, 2013. (Presented by M. Adkison)
+    Commission Workshop, Honolulu, HI. April 25, 2013 (Presented by M. Adkison).
 
 2013
 :   **Malick, M.J.** Modeling causal networks to link climate
@@ -218,7 +226,7 @@ Presentations
 2008
 :   **Malick, M.J.** Variable effects of hatchery pink and chum salmon
     on coho salmon marine survival in Southeast Alaska. University of
-    Alaska Chapter, Juneau Subunit, American Fisheries Society Annual
+    Alaska Chapter (Juneau Subunit) of the American Fisheries Society, Annual
     Meeting, Juneau, AK. April 14, 2008.
 
 2007
@@ -230,7 +238,7 @@ Presentations
 2004
 :   **Malick, M.J.**, C. Oppel, R. Sweater, and G. Carson. Chemical and
     biological study of the Tioga River. Poster. Pennsylvania Academy
-    of Science Annual Meeting, Pittsburg, PA. March 26, 2004.
+    of Science Annual Meeting, Pittsburgh, PA. March 26, 2004.
 
 
 
@@ -238,35 +246,33 @@ Teaching Experience
 ----------
 
 2016
-:   *Guest Lecture:* Designing Publication Quality Graphics in R. Guest Lecture
-    in REM 612 Simulation Modelling in Natural Resource Management, Simon Fraser
-    University (2 hrs.) - A tutorial on designing and creating publication
-    figures in R. Tutorial materials are availabe on [github][PubGraph].
+:   *Guest Lecture:* Designing Publication Quality Graphics in R. Guest lecture
+    in Simulation Modelling in Natural Resource Management (REM-612), Simon
+    Fraser University (2 hours).
 
 2015
 :   *Instructor:* Designing Publication Quality Graphics in R, Simon Fraser
     University - A tutorial on designing and creating publication
-    figures in R. Tutorial materials are availabe on [github][PubGraph].
+    figures in R. Tutorial materials are available on [github][PubGraph].
 
 2014
-:   *Teaching Assistant:* Risk Assessment and Decision Analysis for Management of
-    Natural Resources, Simon Fraser University (REM-625). Developed and led
-    computer labs, graded assignments, organized reading discussions.
+:   *Teaching Assistant:* Risk Assessment and Decision Analysis for Management
+    of Natural Resources (REM-625), Simon Fraser University. Developed and led
+    computer labs, graded assignments, and organized reading discussions.
 
 2013
 :   *Instructor:* Introduction to R for Data Analysis, Simon Fraser
-    University - A two day course that covered the basics of the R
+    University - A two day course that covered the fundamentals of the R
     programming language.
 
 2013
 :   *Instructor:* Introduction to R, NOAA Northwest Fisheries Science Center -
-    A two day course that covered the basics of the R programming
+    A two day course that covered the fundamentals of the R programming
     language.
 
 2012
 :   *Instructor:* Introduction to R, Simon Fraser University - An 11 week
-    voluntary course that covered the basics of the R programming language.
-
+    voluntary course that covered the fundamentals of the R programming language.
 
 
 
@@ -277,7 +283,7 @@ Certifications & Services
 :   American Fisheries Society Associate Professional
 
 2007-08
-:   Secretary: AFS Student Subunit, University of Alaska Fairbanks
+:   *Secretary:* AFS Student Subunit, University of Alaska Fairbanks
 
 Reviewer
 :   Ecosphere, Transactions of the American Fisheries Society, North Pacific
@@ -285,34 +291,34 @@ Reviewer
 
 
 
-Published Datasets
+Published Data Sets
 ---------
 
 2015
-:   *North American pink and chum salmon spawner-recruit database.* Publically
+:   *North American pink and chum salmon spawner-recruit database.* Publicly
     released July 2015. The database contains stock-recruitment data for 46 pink
-    and 53 chum salmon stocks throughout their North American ranges.
-    <http://dx.doi.org/10.5281/zenodo.20354>
+    and 53 chum salmon stocks throughout their North American ranges
+    (Available: <http://dx.doi.org/10.5281/zenodo.20354>).
 
 
-Work Experience
+
+Field & Work Experience
 --------
 
 2008-10
 :   *Research Associate:* University of Alaska Fairbanks, Juneau, AK. Duties
-    included dataset assembly and maintenance, statistical analyses using R,
-    Excel, and PRIMER, and manuscript preparation.
+    included ecological data set assembly and maintenance, statistical analyses,
+    and manuscript preparation.
 
 2007-08
 :   *Fisheries Contractor:* National Atmospheric and Oceanic Administration,
     Little Port Walter, AK. Duties included salmon collection, recovery of coded
     wire tags, and salmon weir maintenance.
 
-
 2006
 :   *Fisheries Technician:* Wyoming Game & Fish Department, Laramie, WY. Duties
     included fish sampling using backpack electro-fishing, raft electro-fishing,
-    seins, gillnets, trap nets, and trammel nets, habitat mapping, and rotenone
+    seines, gillnets, trap nets, and trammel nets, habitat mapping, and rotenone
     treatments.
 
 2004
@@ -320,7 +326,6 @@ Work Experience
     King Salmon, AK. Duties included remote field camp and salmon weir
     construction and maintenance, daily salmon counts both manually and using
     underwater motion detection cameras.
-
 
 
 
@@ -336,3 +341,4 @@ Work Experience
 [Slides:sfu-seminar-2016]: https://dl.dropboxusercontent.com/u/43909530/slides/malick_sfu_seminar_2016.pdf
 [Slides:afs-2015]: https://dl.dropboxusercontent.com/u/43909530/slides/malick_etal_afs2015_slides.pdf
 [Abstract:afs-2015]: https://dl.dropboxusercontent.com/u/43909530/slides/malick_etal_afs2015_extended_abstract.pdf
+[Poster:pices-2016]: https://dl.dropboxusercontent.com/u/43909530/slides/malick_etal_pices2016_poster.pdf
