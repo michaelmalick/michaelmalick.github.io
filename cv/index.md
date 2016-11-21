@@ -15,7 +15,7 @@ Education
 -----
 
 Current
-:   *Ph.D. Simon Fraser University*, Burnaby, BC, GPA: 4.00
+:   *Ph.D. Simon Fraser University*, Burnaby, BC
 <br>
     *Advisors:* Sean Cox and Randall Peterman
 <br>
@@ -23,7 +23,7 @@ Current
 
 
 2006-08
-:   *M.Sc. University of Alaska Fairbanks*, Juneau, AK, GPA: 4.00
+:   *M.Sc. University of Alaska Fairbanks*, Juneau, AK
 <br>
     *Advisor:* Milo D. Adkison
 <br>
@@ -31,7 +31,7 @@ Current
     salmon marine survival in Southeast Alaska ([PDF][UAF:Msc])
 
 2002-06
-:   *B.Sc. Mansfield University*, Mansfield, PA, GPA: 3.95
+:   *B.Sc. Mansfield University, summa cum laude*, Mansfield, PA
 <br>
     *Senior Thesis:* The influence of climatological factors on the migration
     timing of sockeye salmon into freshwater
@@ -45,8 +45,9 @@ Publications
 
 In press
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, B. Dorner, and R.M. Peterman.
-    In press. Effects of the North Pacific Current on productivity of 163
+    In press. Effects of the North Pacific Current on the productivity of 163
     Pacific salmon stocks. Fisheries Oceanography.
+    <http://doi.org/10.1111/fog.12190>.
 
 2016
 :   **Malick, M.J.** and S.P. Cox. 2016. Regional-scale declines in
