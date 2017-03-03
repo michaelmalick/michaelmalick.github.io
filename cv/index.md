@@ -1,8 +1,6 @@
 ---
-
 layout: default
-title: Michael Malick | CV
-
+title:  Michael Malick | CV
 ---
 
 Curriculum Vitae
@@ -12,7 +10,7 @@ You can also download a [PDF][MalickCV] copy of my CV.
 
 
 Education
------
+---------
 
 Current
 :   *Ph.D. Simon Fraser University*, Burnaby, BC
@@ -23,7 +21,7 @@ Current
     dynamics
 
 
-2006-08
+2006--08
 :   *M.Sc. University of Alaska Fairbanks*, Juneau, AK
 <br>
     *Advisor:* Milo D. Adkison
@@ -31,7 +29,7 @@ Current
     *Thesis:* Variable effects of biological and environmental processes on coho
     salmon marine survival in Southeast Alaska ([PDF][UAF:Msc])
 
-2002-06
+2002--06
 :   *B.Sc. Mansfield University, summa cum laude*, Mansfield, PA
 <br>
     *Senior Thesis:* The influence of climatological factors on the migration
@@ -42,7 +40,7 @@ Current
 
 
 Publications
-------
+------------
 
 In press
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, B. Dorner, and R.M. Peterman.
@@ -90,7 +88,7 @@ In press
 
 
 Awards and Honors
----------
+-----------------
 
 2016
 :   Best Poster Presentation, PICES Annual Meeting, San Diego, CA,
@@ -101,31 +99,31 @@ Awards and Honors
     Honorable Mention
     ([Slides][Slides:afs-2015], [Extended abstract][Abstract:afs-2015])
 
-2014-15
+2014--15
 :   Ph.D. Graduate Fellowship, Simon Fraser University
 
-2012-13
+2012--13
 :   Ph.D. Graduate Fellowship, Simon Fraser University
 
-2012-13
+2012--13
 :   President's Ph.D. Scholarship, Simon Fraser University
 
-2010-11
+2010--11
 :   C.D. Nelson Memorial Graduate Scholarship
 
-2005-06
+2005--06
 :   Certificate of Recognition for Academic Achievement in Biology
 
-2005-06
+2005--06
 :   Stanley Henry Nauman Scholarship for Academic Excellence in Fisheries
 
-2003-04
+2003--04
 :   Certificate of Accomplishment for Grantsmanship
 
 
 
 Media Coverage
--------
+--------------
 
 2015
 :   Warming Coastal Ocean Temperatures May Lead To Negative Effect For Salmon
@@ -140,7 +138,7 @@ Media Coverage
 
 
 Presentations
--------
+-------------
 
 2016
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, B. Dorner, and R.M. Peterman.
@@ -245,7 +243,7 @@ Presentations
 
 
 Teaching Experience
-----------
+-------------------
 
 2016
 :   *Guest Lecture:* Designing Publication Quality Graphics in R. Guest lecture
@@ -254,7 +252,7 @@ Teaching Experience
 
 2015
 :   *Instructor:* Designing Publication Quality Graphics in R, Simon Fraser
-    University - A tutorial on designing and creating publication
+    University -- A tutorial on designing and creating publication
     figures in R. Tutorial materials are available on [github][PubGraph].
 
 2014
@@ -264,27 +262,28 @@ Teaching Experience
 
 2013
 :   *Instructor:* Introduction to R for Data Analysis, Simon Fraser
-    University - A two day course that covered the fundamentals of the R
+    University -- A two day course that covered the fundamentals of the R
     programming language.
 
 2013
-:   *Instructor:* Introduction to R, NOAA Northwest Fisheries Science Center -
+:   *Instructor:* Introduction to R, NOAA Northwest Fisheries Science Center --
     A two day course that covered the fundamentals of the R programming
     language.
 
 2012
-:   *Instructor:* Introduction to R, Simon Fraser University - An 11 week
-    voluntary course that covered the fundamentals of the R programming language.
+:   *Instructor:* Introduction to R, Simon Fraser University -- An 11 week
+    voluntary course that covered the fundamentals of the R programming
+    language.
 
 
 
 Certifications & Services
--------------
+-------------------------
 
-2007-16
+2007--16
 :   American Fisheries Society Associate Professional
 
-2007-08
+2007--08
 :   *Secretary:* AFS Student Subunit, University of Alaska Fairbanks
 
 Reviewer
@@ -294,7 +293,7 @@ Reviewer
 
 
 Published Data Sets
----------
+------------------
 
 2015
 :   *North American pink and chum salmon spawner-recruit database.* Publicly
@@ -305,14 +304,14 @@ Published Data Sets
 
 
 Field & Work Experience
-------------
+-----------------------
 
-2008-10
+2008--10
 :   *Research Associate:* University of Alaska Fairbanks, Juneau, AK. Duties
     included ecological data set assembly and maintenance, statistical analyses,
     and manuscript preparation.
 
-2007-08
+2007--08
 :   *Fisheries Contractor:* National Atmospheric and Oceanic Administration,
     Little Port Walter, AK. Duties included salmon collection, recovery of coded
     wire tags, and salmon weir maintenance.
@@ -336,7 +335,7 @@ Field & Work Experience
 [CBB:2015:bloom]: http://www.cbbulletin.com/433107.aspx
 [CBB:2015:network]: https://www.cbbulletin.com/435190.aspx
 
-[MalickCV]: http://michaelmalick.com/cv/malick-cv.pdf
+[MalickCV]: ../malick-cv.pdf
 
 [Malick:2016]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_cox_2016.pdf
 [Malick:2011]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2011.pdf

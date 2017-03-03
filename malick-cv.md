@@ -1,9 +1,7 @@
------
-
+---
 layout: default
-title: Michael Malick | CV
-
------
+title:  Michael Malick | CV
+---
 
 Curriculum Vitae
 ================
@@ -274,7 +272,8 @@ Teaching Experience
 
 2012
 :   *Instructor:* Introduction to R, Simon Fraser University -- An 11 week
-    voluntary course that covered the fundamentals of the R programming language.
+    voluntary course that covered the fundamentals of the R programming
+    language.
 
 
 
@@ -336,7 +335,7 @@ Field & Work Experience
 [CBB:2015:bloom]: http://www.cbbulletin.com/433107.aspx
 [CBB:2015:network]: https://www.cbbulletin.com/435190.aspx
 
-[MalickCV]: http://michaelmalick.com/cv/malick-cv.pdf
+[MalickCV]: ../malick-cv.pdf
 
 [Malick:2016]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_cox_2016.pdf
 [Malick:2011]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2011.pdf

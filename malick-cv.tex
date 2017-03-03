@@ -1,0 +1,73 @@
+%% LaTeX Layout for CV
+%% Michael Malick
+
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1.25in]{geometry}
+
+% setup description list
+\usepackage{enumitem}
+\setlist[description]{font=\normalfont\small,leftmargin=50pt,style=nextline, topsep=1em,itemsep=1pt}
+
+% remove section numbers
+\setcounter{secnumdepth}{0}
+
+% make header larger
+\usepackage{titlesec}
+\titleformat*{\section}{\LARGE\bfseries}
+\titleformat*{\subsection}{\Large\bfseries}
+% \titleformat*{\section}{\huge\bfseries}
+% \titleformat*{\subsection}{\LARGE\bfseries}
+
+% needed to fix \tightlist definition used in pandoc
+\providecommand{\tightlist}{ }
+
+% header and footer
+\usepackage{fancyhdr}
+\setlength{\headheight}{15.2pt}
+\renewcommand{\headrulewidth}{0pt} % remove hrule
+\renewcommand{\footrulewidth}{0.2pt}
+\fancyhf{} % clears default headers/footers
+\pagestyle{fancy}
+\fancypagestyle{firststyle} {
+  \fancyhf{}
+  \rfoot{\textit{\thepage}}
+  \lfoot{\textit{\headerdate\today}}
+}
+\rhead{\textit{Michael J. Malick}}
+\lfoot{\textit{\headerdate\today}}
+\rfoot{\textit{\thepage}}
+
+% use and color hyperlinks
+\usepackage[usenames,dvipsnames]{color}
+\usepackage[colorlinks=true,urlcolor=MidnightBlue]{hyperref}
+
+% change font of hyperlinks
+\usepackage{url}
+\urlstyle{rm}
+
+% change date format for footer
+\usepackage{datetime}
+\newdateformat{headerdate}{\monthname[\THEMONTH] \THEYEAR}
+
+
+% ----------------------------------------------------------
+
+\begin{document}
+\thispagestyle{firststyle}
+
+\begin{center}
+  {\huge \textbf{Michael J. Malick}}
+  \vspace*{0.25cm}
+
+  Ph.D. Candidate, Simon Fraser University \\
+  School of Resource and Environmental Management \\
+  Burnaby, BC, Canada \\
+  mmalick@sfu.ca \\
+
+\end{center}
+
+\vspace*{0.25cm}
+\input{cv-body.tex}
+
+\end{document}
