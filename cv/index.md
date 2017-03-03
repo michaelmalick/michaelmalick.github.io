@@ -19,7 +19,8 @@ Current
 <br>
     *Advisors:* Sean Cox and Randall Peterman
 <br>
-    *Thesis:* Environmental forcing of Pacific salmon population dynamics
+    *Thesis:* Multi-scale environmental forcing of Pacific salmon population
+    dynamics
 
 
 2006-08
