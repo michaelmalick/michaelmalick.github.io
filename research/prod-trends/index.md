@@ -1,11 +1,9 @@
 ---
-
 layout: default
-title: Salmon Productivity Trends
-
+title:  Salmon Productivity Trends
 ---
 
-# Regional-scale declines in productivity of pink and chum salmon stocks in western North America 
+# Regional-scale declines in productivity of pink and chum salmon stocks in western North America
 
 In this study, we tested the hypothesis that North American pink (*Oncorhynchus
 gorbuscha*) and chum (*O. keta*) salmon stocks have experienced recent declines
@@ -14,27 +12,15 @@ investigating temporal and spatial trends in productivity of 99 wild North
 American pink and chum salmon stocks. We used a combination of population
 dynamics and time series models to quantify individual stock trends as well as
 common temporal trends in pink and chum salmon productivity across local,
-regional, and continental spatial scales. 
+regional, and continental spatial scales.
 
-
-<!--
-<a href="./kalman-fig-chum-1200.png"><img src="./kalman-fig-chum-720.png" 
-alt="Chum Graphic" width="375" height="310" align="left" 
+<a href="./kalman-fig-chum-1200.png"><img src="./kalman-fig-chum-720.png"
+alt="Chum Graphic" width="275" height="220" align="left"
 style="margin-bottom:20px"/></a>
 
-<a href="./kalman-fig-chum-1200.png"><img src="./kalman-fig-chum-720.png" 
-alt="Chum Graphic" width="375" height="310" align="left" 
+<a href="./kalman-fig-pink-1200.png"><img src="./kalman-fig-pink-720.png"
+alt="Chum Graphic" width="275" height="220" align="left"
 style="margin-bottom:20px"/></a>
--->
-
-<a href="./kalman-fig-chum-1200.png"><img src="./kalman-fig-chum-720.png" 
-alt="Chum Graphic" width="275" height="220" align="left" 
-style="margin-bottom:20px"/></a>
-
-<a href="./kalman-fig-pink-1200.png"><img src="./kalman-fig-pink-720.png" 
-alt="Chum Graphic" width="275" height="220" align="left" 
-style="margin-bottom:20px"/></a>
-
 
 Our results indicated widespread declines in productivity of wild chum salmon
 stocks throughout Washington (WA) and British Columbia (BC) with 81% of stocks
@@ -55,11 +41,10 @@ in western North America and that the effects of these process on productivity
 may change over time.
 
 
-
-**Citation** Malick, M.J. and S.P. Cox. 2016. Regional-scale declines in
+**Citation**: Malick, M.J. and S.P. Cox. 2016. Regional-scale declines in
 productivity of pink and chum salmon stocks in western North America. PLoS
-ONE 11:e0146009. ([PDF][Malick:2016]) 
-<http://doi.org/10.1371/journal.pone.0146009>
+ONE 11:e0146009. ([PDF][Malick:2016]) <http://doi.org/10.1371/journal.pone.0146009>
 
 
-[Malick:2016]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_cox_2016.pdf
+[Malick:2016]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_cox_2016.pdf
+

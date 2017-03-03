@@ -1,14 +1,10 @@
 ---
-
 layout: default
-title: Michael Malick | Intro to R for Data Analysis
-
+title:  Michael Malick | Intro to R for Data Analysis
 ---
- 
+
 
 # Intro to R for Data Analysis
-
-
 
 ## Resources
 
@@ -38,10 +34,10 @@ title: Michael Malick | Intro to R for Data Analysis
     - [R Mailing Lists][R9]
     - [R Help Archive][R10]
 
-[R7]:  http://cran.r-project.org/bin/windows/base/rw-FAQ.html 
+[R7]:  http://cran.r-project.org/bin/windows/base/rw-FAQ.html
 [R8]:  http://cran.r-project.org/bin/macosx/RMacOSX-FAQ.html
 [R9]:  https://stat.ethz.ch/mailman/listinfo
-[R10]: http://tolstoy.newcastle.edu.au/R/ 
+[R10]: http://tolstoy.newcastle.edu.au/R/
 
 
 * Other R Documents

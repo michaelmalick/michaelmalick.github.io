@@ -1,8 +1,6 @@
 ---
-
 layout: default
-title: Michael Malick | Intro to R for Data Analysis
-
+title:  Michael Malick | Intro to R for Data Analysis
 ---
 
 

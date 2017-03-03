@@ -7,7 +7,7 @@
 #####################################################################
 #
 # The data for this problem set are contained in the pinks.csv file.
-# 
+#
 # There are four columns of data:
 #   - Stock: identifies the pink salmon stock (there are four)
 #   - BY: identifies the brood year (i.e., the year of reproduction)
@@ -41,8 +41,8 @@
 
 
 #####################################################################
-# PROBLEM 3. 
-# 
+# PROBLEM 3.
+#
 # - Create four new dataframes, each a subset of the pinks objects.
 #   Each new dataframe should only include data for a single stock.
 #   Name each new dataframe according to the stock it subsets out.
@@ -58,7 +58,7 @@
 # - Compute summary statistics for the recruits variable in the pinks
 #   dataframe
 #   - HINT: use the summary() function
-# 
+#
 # - Compute summary statistics for the recruits variable for each
 #   stock separately
 #   - HINT: use the dataframes you created in problem 3
@@ -109,7 +109,7 @@
 # PROBLEM 8.
 #
 # - Recreate the plots in problems 6 and 7 using the xyplot()
-#   function 
+#   function
 #   - HINT: you need to load the lattice library
 #
 #####################################################################

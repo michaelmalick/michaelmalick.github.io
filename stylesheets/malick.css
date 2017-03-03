@@ -1,17 +1,16 @@
-/* CSS FOR MY PHD RESEARCH WEBSITE
+/* CSS FOR MY RESEARCH WEBSITE
    MICHAEL MALICK
-   UPDATED: 18 Oct 2014
 */
 
 
 
-/* IMPORT GOOGLE FONTS -------------------------------------------------------*/
+/* IMPORT GOOGLE FONTS -----------------------------------*/
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
 
 
 
-/* BODY ----------------------------------------------------------------------*/
+/* BODY --------------------------------------------------*/
 body {
     font-family: "Open Sans", Helvetica, sans-serif;
     color: #333333;
@@ -19,18 +18,18 @@ body {
     background-color:#FFFFFF;
 }
 
-/* IMAGES --------------------------------------------------------------------*/
+/* IMAGES ------------------------------------------------*/
 img {
-    display: block; 
+    display: block;
     margin-left: auto;
     margin-right: 15px;
 }
 
-/* HEADERS -------------------------------------------------------------------*/
+/* HEADERS -----------------------------------------------*/
 h1, h2, h3, h4, h5 {
     color: #4A525A;
     font-weight: 400;
-    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; 
+    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif;
 }
 h1, h2, h3, h4, h5 {
     margin-bottom: 18px;
@@ -59,7 +58,7 @@ h5 {
     margin-top: 20px;
 }
 
-/* PARAGRAPHS ----------------------------------------------------------------*/
+/* PARAGRAPHS --------------------------------------------*/
 p {
     margin-bottom: 18px;
     margin-top: 12px;
@@ -68,7 +67,7 @@ p {
     line-height: 29px;
 }
 
-/* LISTS ---------------------------------------------------------------------*/
+/* LISTS -------------------------------------------------*/
 ul, ol {
     padding: 0;
     margin: 40px;
@@ -80,11 +79,11 @@ ul, ol {
     line-height: 29px;
 }
 
-/* TABLES --------------------------------------------------------------------*/
+/* TABLES ------------------------------------------------*/
 table {
-    table-layout: fixed; 
+    table-layout: fixed;
 }
-td { 
+td {
     text-align: center;
     border: 10px;
 }
@@ -97,7 +96,7 @@ td {
     border: 10px;
 }
 
-/* LINKS ---------------------------------------------------------------------*/
+/* LINKS -------------------------------------------------*/
 a:link {
     color: #005599;
     margin: 0;
@@ -117,7 +116,7 @@ a:visited {
     color: #888888;
 }
 
-/* CODE, BLOCKQUOTES, RULES --------------------------------------------------*/
+/* CODE, BLOCKQUOTES, RULES ------------------------------*/
 code {
     font-family: Consolas, Monaco, Andale Mono, monospace;
     line-height: 1;
@@ -125,7 +124,7 @@ code {
 }
 pre {
   padding:8px 15px;
-  background: #EEEEEE;  
+  background: #EEEEEE;
   border-radius:5px;
   overflow-x: auto;
 }
@@ -138,18 +137,18 @@ blockquote {
     color: #111111
 }
 hr { /* Horizontal rule */
-    background: #DDDDDD; 
-    clear: both; 
-    float: none; 
-    width: 100%; 
+    background: #DDDDDD;
+    clear: both;
+    float: none;
+    width: 100%;
     height: 1px;
-    border: none; 
+    border: none;
 }
 
-/* DEFINITION LISTS ----------------------------------------------------------*/
+/* DEFINITION LISTS --------------------------------------*/
 /* See here for example: http://www.maxdesign.com.au/articles/definition/ */
 /* Term text style (i.e., year) */
-dt { 
+dt {
 	position: relative;
 	left: 0;
 	top: 20px;
@@ -173,18 +172,18 @@ dl {
 	margin-top: -20px;
 }
 
-/* MY STYLES -----------------------------------------------------------------*/
+/* MY STYLES ---------------------------------------------*/
 .sideinfo {
-    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; 
+    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif;
     margin-top: 5px;
     font-size: 17px;
     line-height: 1.2;
     padding-left: 25px;
 }
 .navigation {
-    /* font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; */ 
-    font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif; 
-    /* font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif; */ 
+    /* font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; */
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+    /* font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif; */
     font-size: 18px;
     margin-top: 18px;
     margin-top: 15px;
@@ -213,7 +212,7 @@ dl {
 .name {
     font-size: 32px;
     color: #4A525A;
-    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; 
+    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif;
     padding-top: 20px;
 }
 .name a:link {
@@ -232,7 +231,7 @@ dl {
     color: #4A525A;
 }
 .footer {
-    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; 
+    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 16px;
     color: #4A525A;
     line-height: 1.75;
@@ -259,5 +258,5 @@ dl {
     font-size: 24px;
     text-align: left;
     color: #AAAAAA;
-    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; 
+    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif;
 }

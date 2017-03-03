@@ -1,14 +1,10 @@
 ---
-
 layout: default
-title: Michael Malick | Intro to R for Data Analysis
-
+title:  Michael Malick | Intro to R for Data Analysis
 ---
- 
+
 
 # Intro to R for Data Analysis
-
-
 
 ## Course Outline
 <a id="outline"></a>
@@ -38,7 +34,7 @@ title: Michael Malick | Intro to R for Data Analysis
 
 4. Data Manipulation
     - Order vectors and dataframes
-    - Add and remove columns in dataframes 
+    - Add and remove columns in dataframes
     - Missing values
     - Combining datasets: `rbind()`
     - Merging datasets: `merge()`
@@ -48,23 +44,23 @@ title: Michael Malick | Intro to R for Data Analysis
     - Graphics overview
     - Plotting functions
     - Graphics devices
-    - Graphical parameters: `par()` 
+    - Graphical parameters: `par()`
     - Low level plotting commands
 
 6. Lattice Graphics
     - Grid graphics overview
-    - Formulas and conditioning 
+    - Formulas and conditioning
     - Groups, scales, legends
     - Panel functions
 
 7. Data Summaries: apply family of functions
     - Why apply?
-    - Summarize by row and columns: `apply()` 
+    - Summarize by row and columns: `apply()`
     - Summarize by groups: `tapply()` and `by()`
 
 8. Intro to Statistical Models
     - Overview of linear models
-    - Fitting a linear regression model 
+    - Fitting a linear regression model
     - Model diagnostics
     - Model comparisons: `AIC()`
 
@@ -74,9 +70,9 @@ title: Michael Malick | Intro to R for Data Analysis
     - Data and graphics examples
 
 10. Automation: writing functions
-    - Why write a function? 
+    - Why write a function?
     - Function syntax
     - Errors and warnings
-    - Debugging: `browser()` 
+    - Debugging: `browser()`
     - Pass through: `...`
 

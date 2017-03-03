@@ -1,8 +1,6 @@
 ---
-
-layout: default 
-title: Colophon | Simon Fraser University
-
+layout: default
+title:  Colophon
 ---
 
 # Colophon
@@ -14,3 +12,4 @@ elegant website generator where the input is based on simple
 Pages](https://pages.github.com/) feature. Source code for this website can be
 browsed on Github
 [here](https://github.com/MichaelMalick/michaelmalick.github.io).
+

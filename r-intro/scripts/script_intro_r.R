@@ -4,7 +4,7 @@
 # Michael Malick
 # 02 Jan 2013
 #
-# If you are a beginner R user, it is suggested that you work through 
+# If you are a beginner R user, it is suggested that you work through
 # this script by typing each of the lines not preceded by an # into
 # the R console. The more time you spend exploring and experimenting
 # with the examples in this script, the faster you will learn the
@@ -78,8 +78,8 @@ help(seq)
 ?rep
 
 
-# Vectors can easily be subsetted using brackets 
-# Extract the third element of the vector pp 
+# Vectors can easily be subsetted using brackets
+# Extract the third element of the vector pp
 pp[3]
 # Extract the first five elements of the vector pp
 pp[1:5]
@@ -95,7 +95,7 @@ oo[11]
 # R maintains a history of the commands that are run. You can use the
 # up and down arrow keys in the R console to cycle through the
 # history. The right assignment -> operator can be useful here.
-vector(mode = "numeric", length = 10) 
+vector(mode = "numeric", length = 10)
 vector(mode = "numeric", length = 10) -> rr
 
 
@@ -139,7 +139,7 @@ summary(xx)
 
 
 # Vectors can be members of multi-dimensional matrices and arrays.
-# Matrices are 2 dimensional arrays (i.e. rows x columns) where each 
+# Matrices are 2 dimensional arrays (i.e. rows x columns) where each
 # column and row can be considered a vector. Note that all elements
 # in arrays and matrices have to be of the same class, that is all
 # objects need to be numberic or character but a mix of the two.

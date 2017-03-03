@@ -1,8 +1,6 @@
 ---
-
 layout: default
-title: Ecological Networks
-
+title:  Ecological Networks
 ---
 
 # Accounting for multiple pathways in the connections among climate variability, ocean processes, and coho salmon recruitment in the Northern California Current
@@ -13,7 +11,7 @@ kisutch*) recruitment. Because pathways linking climate to population dynamics
 of higher-trophic-level fish species often involve a hierarchy in which
 regional-scale physical and biological processes mediate the effects of
 large-scale climate variability, we used probabilistic networks to investigate
-17 potential ecological pathways linking climate to salmon recruitment. 
+17 potential ecological pathways linking climate to salmon recruitment.
 
 <a href="./network-fig-1200.png"><img src="./network-fig-720.png"
 alt="Ecological Network" width="565" height="320" align="left"
@@ -37,6 +35,5 @@ higher-trophic-level species.
 Peterson. 2015. Accounting for multiple pathways in the connections among
 climate variability, ocean processes, and coho salmon recruitment in the
 Northern California Current. Canadian Journal of Fisheries and Aquatic Sciences
-72:1552-1564.
-<http://doi.org/10.1139/cjfas-2014-0509> 
+72:1552-1564. <http://doi.org/10.1139/cjfas-2014-0509>
 

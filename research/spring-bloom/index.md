@@ -1,8 +1,6 @@
 ---
-
 layout: default
-title: Phytoplankton and Salmon
-
+title:  Phytoplankton and Salmon
 ---
 
 # Linking phytoplankton phenology to salmon productivity along a north/south gradient
@@ -12,10 +10,10 @@ We analyzed the effects of the spring bloom timing on pink salmon productivity
 understand the mechanisms linking biological oceanographic conditions to Pacific
 salmon population dynamics. Using a combination of single stock and hierarchical
 models, we estimated the effect of the spring bloom timing on each of 27 pink
-salmon stocks, as well as an overall regional effect across all stocks. 
+salmon stocks, as well as an overall regional effect across all stocks.
 
-<a href="./bloom-fig-1200.png"><img src="./bloom-fig-720.png" 
-alt="Bloom Graphic" width="560" height="315" align="left" 
+<a href="./bloom-fig-1200.png"><img src="./bloom-fig-720.png"
+alt="Bloom Graphic" width="560" height="315" align="left"
 style="margin-bottom:20px"/></a>
 
 Our results indicated that the spring bloom timing was significantly correlated
@@ -31,3 +29,4 @@ salmon productivity.
 phytoplankton phenology to salmon productivity along a north-south gradient in
 the Northeast Pacific Ocean. Canadian Journal of Fisheries and Aquatic Sciences
 72:697-708. <http://doi.org/10.1139/cjfas-2014-0298>
+
