@@ -304,7 +304,7 @@ Published Data Sets
 
 
 Field & Work Experience
---------
+------------
 
 2008-10
 :   *Research Associate:* University of Alaska Fairbanks, Juneau, AK. Duties
@@ -330,16 +330,20 @@ Field & Work Experience
 
 
 
-[PubGraph]: https://github.com/MichaelMalick/pub-graphics
-[PinkChum:2015]: https://github.com/MichaelMalick/pink-chum-database
+[PubGraph]: https://github.com/michaelmalick/pub-graphics
+[PinkChum:2015]: https://github.com/michaelmalick/pink-chum-database
 [CBB:2015:bloom]: http://www.cbbulletin.com/433107.aspx
 [CBB:2015:network]: https://www.cbbulletin.com/435190.aspx
-[Malick:2016]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_cox_2016.pdf
-[Malick:2011]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_etal_2011.pdf
-[Malick:2009]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_etal_2009.pdf
-[UAF:Msc]: https://dl.dropboxusercontent.com/u/43909530/papers/malick_msc_thesis_2008.pdf
-[MalickCV]: https://dl.dropboxusercontent.com/u/43909530/cv/malick-cv.pdf
-[Slides:sfu-seminar-2016]: https://dl.dropboxusercontent.com/u/43909530/slides/malick_sfu_seminar_2016.pdf
-[Slides:afs-2015]: https://dl.dropboxusercontent.com/u/43909530/slides/malick_etal_afs2015_slides.pdf
-[Abstract:afs-2015]: https://dl.dropboxusercontent.com/u/43909530/slides/malick_etal_afs2015_extended_abstract.pdf
-[Poster:pices-2016]: https://dl.dropboxusercontent.com/u/43909530/slides/malick_etal_pices2016_poster.pdf
+
+[MalickCV]: http://michaelmalick.com/cv/malick-cv.pdf
+
+[Malick:2016]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_cox_2016.pdf
+[Malick:2011]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2011.pdf
+[Malick:2009]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2009.pdf
+[UAF:Msc]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_msc_thesis_2008.pdf
+
+
+[Slides:sfu-seminar-2016]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_sfu_seminar_2016.pdf
+[Slides:afs-2015]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_afs2015_slides.pdf
+[Abstract:afs-2015]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_afs2015_extended_abstract.pdf
+[Poster:pices-2016]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_pices2016_poster.pdf
