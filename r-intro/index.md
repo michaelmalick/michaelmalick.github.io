@@ -4,7 +4,7 @@ layout: default
 title: Michael Malick | Intro to R for Data Analysis
 
 ---
- 
+
 
 # Intro to R for Data Analysis
 
@@ -18,8 +18,6 @@ title: Michael Malick | Intro to R for Data Analysis
    <!-- <a href="#problems">Problem Sets</a> </br> -->
 
 
-
-
 ## Course Overview
 <a id="overview"></a>
 This page provides the materials for a two-day workshop that
@@ -29,7 +27,6 @@ the R programming language and its applications for data analysis.
 The course uses lecture, examples, and problem sets to help
 participants learn the necessary skills and concepts to use the R
 language to analyze independent datasets.
-
 
 
 ## Tutorials
@@ -47,28 +44,14 @@ language to analyze independent datasets.
 10. [Writing Functions][T10]
 
 
-[T1]:  /r-intro/tutorials/1_basics.pdf
-[T2]:  /r-intro/tutorials/2_data_structures.pdf
-[T3]:  /r-intro/tutorials/3_reading_writing_data.pdf
-[T4]:  /r-intro/tutorials/4_data_manipulation.pdf
-[T5]:  /r-intro/tutorials/5_base_graphics.pdf
-[T6]:  /r-intro/tutorials/6_lattice_graphics.pdf
-[T7]:  /r-intro/tutorials/7_data_summaries.pdf
-[T8]:  /r-intro/tutorials/8_statistical_models.pdf
-[T9]:  /r-intro/tutorials/9_for_loops.pdf
-[T10]: /r-intro/tutorials/10_writing_functions.pdf
-
-
-
 ## Scripts
 <a id="scripts"></a>
 
 * [Intro to R Script][script1]
-* [Linear Model Diagnostics Function][script2] 
+* [Linear Model Diagnostics Function][script2]
 
 [script1]: /r-intro/scripts/script_intro_r.R
 [script2]: /r-intro/scripts/script_lm_diag.R
-
 
 
 ## Graphics Examples
@@ -76,10 +59,6 @@ language to analyze independent datasets.
 
 * [Base Graphics Examples][E1]
 * [Lattice Graphics Examples][E2]
-
-[E1]: /r-intro/tutorials/example_base_graphics.pdf
-[E2]: /r-intro/tutorials/example_lattice_graphics.pdf
-
 
 
 ## Problem Sets
@@ -91,4 +70,18 @@ language to analyze independent datasets.
 [P1]: /r-intro/problems/pinks.R
 [P2]: /r-intro/problems/pinks.csv
 
+
+[T1]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/1_basics.pdf
+[T2]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/2_data_structures.pdf
+[T3]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/3_reading_writing_data.pdf
+[T4]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/4_data_manipulation.pdf
+[T5]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/5_base_graphics.pdf
+[T6]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/6_lattice_graphics.pdf
+[T7]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/7_data_summaries.pdf
+[T8]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/8_statistical_models.pdf
+[T9]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/9_for_loops.pdf
+[T10]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/10_writing_functions.pdf
+
+[E1]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/example_base_graphics.pdf
+[E2]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/example_lattice_graphics.pdf
 
