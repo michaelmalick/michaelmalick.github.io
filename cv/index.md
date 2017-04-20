@@ -42,10 +42,10 @@ Current
 Publications
 ------------
 
-In press
-:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, B. Dorner, and R.M. Peterman.
-    In press. Effects of the North Pacific Current on the productivity of 163
-    Pacific salmon stocks. Fisheries Oceanography.
+2017
+:   **Malick, M.J.**, S.P. Cox, F.J. Mueter, B. Dorner, and R.M. Peterman. 2017.
+    Effects of the North Pacific Current on the productivity of 163
+    Pacific salmon stocks. Fisheries Oceanography 26:268--281
     <http://doi.org/10.1111/fog.12190>.
 
 2016
@@ -60,20 +60,20 @@ In press
     Peterson. 2015. Accounting for multiple pathways in the connections
     among climate variability, ocean processes, and coho salmon recruitment in
     the Northern California Current. Canadian Journal of Fisheries and Aquatic
-    Sciences 72:1552-1564
+    Sciences 72:1552--1564
     <http://doi.org/10.1139/cjfas-2014-0509>.
 
 2015
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, and R.M. Peterman. 2015. Linking
     phytoplankton phenology to salmon productivity along a north-south gradient
     in the Northeast Pacific Ocean. Canadian Journal of Fisheries and Aquatic
-    Sciences 72:697-708
+    Sciences 72:697--708
     <http://doi.org/10.1139/cjfas-2014-0298>.
 
 2011
 :   **Malick, M.J.**, L.J. Haldorson, J.J. Piccolo, and J.L. Boldt. 2011. Growth
     and survival in relation to body size of juvenile pink salmon in the
-    Northern Gulf of Alaska. Marine and Coastal Fisheries 3:261-270
+    Northern Gulf of Alaska. Marine and Coastal Fisheries 3:261--270
     <http://doi.org/10.1080/19425120.2011.593467>
     ([PDF][Malick:2011]).
 
@@ -81,7 +81,7 @@ In press
 :   **Malick, M.J.**, M.D. Adkison, and A.C. Wertheimer. 2009.
     Variable effects of biological and environmental processes on coho salmon
     marine survival in Southeast Alaska. Transactions of the American Fisheries
-    Society 138:846-860
+    Society 138:846--860
     <http://doi.org/10.1577/T08-177.1>
     ([PDF][Malick:2009]).
 
