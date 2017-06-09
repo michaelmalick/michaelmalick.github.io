@@ -29,6 +29,7 @@ img {
 h1, h2, h3, h4, h5 {
     color: #4A525A;
     font-weight: 400;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
     font-family: Lato, "Helvetica Neue", Helvetica, sans-serif;
 }
 h1, h2, h3, h4, h5 {
@@ -174,11 +175,12 @@ dl {
 
 /* MY STYLES ---------------------------------------------*/
 .sideinfo {
-    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+    /* font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; */
     margin-top: 5px;
-    font-size: 17px;
-    line-height: 1.2;
-    padding-left: 25px;
+    font-size: 15px;
+    line-height: 1.4;
+    /* padding-left: 25px; */
 }
 .navigation {
     /* font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; */
@@ -212,7 +214,8 @@ dl {
 .name {
     font-size: 32px;
     color: #4A525A;
-    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+    /* font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; */
     padding-top: 20px;
 }
 .name a:link {
@@ -231,8 +234,9 @@ dl {
     color: #4A525A;
 }
 .footer {
-    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif;
-    font-size: 16px;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+    /* font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; */
+    font-size: 15px;
     color: #4A525A;
     line-height: 1.75;
     padding-left: 25px;
@@ -258,5 +262,6 @@ dl {
     font-size: 24px;
     text-align: left;
     color: #AAAAAA;
-    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif;
+    /* font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; */
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
 }
