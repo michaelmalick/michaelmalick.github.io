@@ -9,16 +9,30 @@ Curriculum Vitae
 You can also download a [PDF][MalickCV] copy of my CV.
 
 
+Professional Experience
+-----------------------
+
+Current
+:   *Post-doctoral Researcher:* Oregon State University and the National Marine
+    Fisheries Service, Seattle, WA.
+
+
+2008--10
+:   *Research Associate:* University of Alaska Fairbanks, School of Fisheries
+    and Ocean Sciences, Juneau, AK.
+
+
+
 Education
 ---------
 
-Current
+2010--17
 :   *Ph.D. Simon Fraser University*, Burnaby, BC
 <br>
     *Advisors:* Sean Cox and Randall Peterman
 <br>
     *Thesis:* Multi-scale environmental forcing of Pacific salmon population
-    dynamics
+    dynamics ([PDF][SFU:Phd])
 
 
 2006--08
@@ -139,6 +153,13 @@ Media Coverage
 
 Presentations
 -------------
+
+2017
+:   **Malick, M.J.** Multi-scale environmental forcing of Pacific salmon
+    population dynamics. Ph.D. thesis defense. School of Resource and
+    Environmental Management, Simon Fraser University, Burnaby, BC. May 16, 2017
+    ([Slides][Slides:phd-defense-2017]).
+
 
 2016
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, B. Dorner, and R.M. Peterman.
@@ -277,6 +298,17 @@ Teaching Experience
 
 
 
+Working Groups
+--------------
+
+2017
+:   NCEAS (National Center for Ecological Analysis and Synthesis, Santa Barbara, CA).
+    State of Alaska's Salmon and People: Interacting effects of ocean climate
+    and at-sea competition on Alaskan
+    salmon [(website).](https://www.nceas.ucsb.edu/projects/12760)
+
+
+
 Certifications & Services
 -------------------------
 
@@ -303,13 +335,8 @@ Published Data Sets
 
 
 
-Field & Work Experience
------------------------
-
-2008--10
-:   *Research Associate:* University of Alaska Fairbanks, Juneau, AK. Duties
-    included ecological data set assembly and maintenance, statistical analyses,
-    and manuscript preparation.
+Field Experience
+----------------
 
 2007--08
 :   *Fisheries Contractor:* National Atmospheric and Oceanic Administration,
@@ -337,12 +364,13 @@ Field & Work Experience
 
 [MalickCV]: ../malick-cv.pdf
 
+[SFU:Phd]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_phd_thesis_2017.pdf
 [Malick:2016]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_cox_2016.pdf
 [Malick:2011]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2011.pdf
 [Malick:2009]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2009.pdf
 [UAF:Msc]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_msc_thesis_2008.pdf
 
-
+[Slides:phd-defense-2017]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_phd_defense_2017.pdf
 [Slides:sfu-seminar-2016]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_sfu_seminar_2016.pdf
 [Slides:afs-2015]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_afs2015_slides.pdf
 [Abstract:afs-2015]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_afs2015_extended_abstract.pdf
