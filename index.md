@@ -1,40 +1,36 @@
 ---
 layout: default
-title:  Michael Malick | Simon Fraser University
+title:  Michael Malick | About
 ---
 
 
-I'm Michael, an aspiring fisheries scientist, data analyst,
-fly fisher, and Ph.D. Candidate in the [School of Resource and
-Environmental Management][REM] at [Simon Fraser University][SFU] working with
-Drs. [Randall Peterman][RMP] and [Sean Cox][SPC].
+I'm Michael, a fisheries oceanographer, data analyst, fly fisher, and
+post-doctoral researcher affiliated with [Oregon State University][OSU] and the
+[National Marine Fisheries Service][NMFS] in Seattle, Washington.
 
 <img src="images/michael_malick_nice.jpg" alt="Michael Malick" width="210" align="left"/>
 
-My research uses macroecological and cross-system comparative approaches to
-better understand the dynamics of marine ecosystems. In particular, I am
-interested in the spatial and temporal dynamics of marine and anadromous fish
-populations and how perturbations to marine ecosystems (e.g., climate
-variability, fishing, etc.) alter these dynamics.
+Being an analytical person by nature, my research is guided by the idea that the
+careful application of quantitative models and thoughtful data visualizations
+are fundamental to furthering our understanding of complex natural systems. My
+research uses macroecological and cross-system comparative approaches to better
+understand the dynamics of marine ecosystems. I am particularly interested in
+the spatial and temporal dynamics of marine and anadromous fish populations and
+how perturbations to marine ecosystems (e.g., climate variability, fishing,
+etc.) alter these dynamics.
 
-Being an analytical person by nature, my research is guided by the idea that
-thoughtful data visualizations and the careful application of simulation and
-statistical models are fundamental to furthering our understanding of complex
-natural systems. I particularly enjoy leveraging novel data visualization
-methods to better communicate scientific results and associated uncertainties.
+My Ph.D. thesis at [Simon Fraser University][SFU] examined environmental forcing
+pathways linking climatic and ocean processes to dynamics of Pacific salmon
+populations in the Northeast Pacific Ocean. In this work, I used a range of
+quantitative modeling techniques (e.g., Bayesian hierarchical models,
+probabilistic networks, and state-space models) to identify spatially coherent
+effects of environmental forcing on productivity of salmon populations
+throughout North America. In my M.Sc. thesis at
+the [University of Alaska Fairbanks][UAF], I examined how environmental forcing
+impacts the spatial and temporal dynamics of coho salmon populations throughout
+Southeast Alaska.
 
-I completed my Master's degree at the [University of Alaska Fairbanks][UAF] with
-[Dr. Milo Adkison][MA] where I studied the spatial and temporal dynamics of coho
-salmon populations throughout Southeast Alaska. My Ph.D. research investigates
-the macroecology of Pacific salmon in the marine environment with a particular
-focus on how environmental change influences salmon dynamics across their North
-American ranges.
-
-
-[REM]: http://www.rem.sfu.ca/
-[RMP]: http://www.rem.sfu.ca/people/faculty/peterman/
-[SPC]: http://www.rem.sfu.ca/people/faculty/seancox/
+[NMFS]: http://www.nmfs.noaa.gov/
+[OSU]: http://hmsc.oregonstate.edu/
 [SFU]: http://www.sfu.ca/
 [UAF]: http://www.sfos.uaf.edu/
-[MA]:  http://www.sfos.uaf.edu/directory/faculty/adkison/
-
