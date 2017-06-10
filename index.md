@@ -5,7 +5,7 @@ title:  Michael Malick | About
 
 
 I'm Michael, a fisheries oceanographer, data analyst, fly fisher, and
-post-doctoral researcher affiliated with [Oregon State University][OSU] and the
+postdoctoral researcher affiliated with [Oregon State University][OSU] and the
 [National Marine Fisheries Service][NMFS] in Seattle, Washington.
 
 <img src="images/michael_malick_nice.jpg" alt="Michael Malick" width="210" align="left"/>

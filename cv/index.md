@@ -13,7 +13,7 @@ Professional Experience
 -----------------------
 
 Current
-:   *Post-doctoral Researcher:* Oregon State University and the National Marine
+:   *Postdoctoral Researcher:* Oregon State University and the National Marine
     Fisheries Service, Seattle, WA.
 
 
@@ -305,7 +305,7 @@ Working Groups
 :   NCEAS (National Center for Ecological Analysis and Synthesis, Santa Barbara, CA).
     State of Alaska's Salmon and People: Interacting effects of ocean climate
     and at-sea competition on Alaskan
-    salmon [(website).](https://www.nceas.ucsb.edu/projects/12760)
+    salmon ([website](https://www.nceas.ucsb.edu/projects/12)).
 
 
 
