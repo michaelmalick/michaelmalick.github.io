@@ -298,14 +298,18 @@ Teaching Experience
 
 
 
-Working Groups
---------------
+Working Groups and Workshops
+----------------------------
 
 2017
-:   NCEAS (National Center for Ecological Analysis and Synthesis, Santa Barbara, CA).
-    State of Alaska's Salmon and People: Interacting effects of ocean climate
-    and at-sea competition on Alaskan
-    salmon ([website](https://www.nceas.ucsb.edu/projects/12)).
+:   NCEAS (National Center for Ecological Analysis and Synthesis, Santa Barbara,
+    CA) working group on *State of Alaska's Salmon and People: Interacting effects of
+    ocean climate and at-sea competition on Alaskan salmon*
+    ([website](https://www.nceas.ucsb.edu/projects/12)).
+
+2017
+:   Centre for Ecological and Evolutionary Synthesis workshop on *Natural
+    mortality in fish populations during early life stages (NAMOR)*, Oslo, Norway.
 
 
 
@@ -319,13 +323,14 @@ Certifications & Services
 :   *Secretary:* AFS Student Subunit, University of Alaska Fairbanks
 
 Reviewer
-:   Ecosphere, Transactions of the American Fisheries Society, North Pacific
-    Anadromous Fish Commission, North American Journal of Fisheries Management
+:   Ecosphere, Canadian Journal of Fisheries and Aquatic Sciences, Transactions
+    of the American Fisheries Society, North Pacific Anadromous Fish Commission,
+    North American Journal of Fisheries Management
 
 
 
 Published Data Sets
-------------------
+-------------------
 
 2015
 :   *North American pink and chum salmon spawner-recruit database.* Publicly
