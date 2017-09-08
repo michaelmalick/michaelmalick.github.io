@@ -55,6 +55,12 @@ Education
 
 Publications
 ------------
+2017
+:   **Malick, M.J.**, M.B. Rutherford, and S.P. Cox. 2017.
+    Confronting challenges to integrating Pacific salmon into ecosystem-based
+    management policies. Marine Policy 85:123--132
+    <http://doi.org/10.1016/j.marpol.2017.08.028>.
+
 
 2017
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, B. Dorner, and R.M. Peterman. 2017.
