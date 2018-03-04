@@ -13,9 +13,12 @@ Professional Experience
 -----------------------
 
 Current
-:   *Postdoctoral Researcher:* Oregon State University and the National Marine
-    Fisheries Service, Seattle, WA.
+:   *NRC Postdoctoral Research Fellow:* NOAA Fisheries,
+     Seattle, WA.
 
+2017--18
+:   *Postdoctoral Researcher:* Oregon State University and NOAA Fisheries,
+    Seattle, WA.
 
 2008--10
 :   *Research Associate:* University of Alaska Fairbanks, School of Fisheries
@@ -107,8 +110,11 @@ Publications
 
 
 
-Awards and Honors
------------------
+Awards and Scholarships
+-----------------------
+
+2018
+:   National Research Council Postdoctoral Research Fellowship Award
 
 2016
 :   Best Poster Presentation, PICES Annual Meeting, San Diego, CA,

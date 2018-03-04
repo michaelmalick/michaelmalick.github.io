@@ -4,9 +4,15 @@ title:  Michael Malick | About
 ---
 
 
-I'm Michael, a fisheries oceanographer, data analyst, fly fisher, and
-postdoctoral researcher affiliated with [Oregon State University][OSU] and the
-[National Marine Fisheries Service][NMFS] in Seattle, Washington.
+I'm Michael, a fisheries oceanographer, data analyst, fly fisher, and an [NRC
+postdoctoral research fellow][NRC] affiliated with [NOAA Fisheries][NMFS] in
+Seattle, Washington.
+
+<!--
+My postdoctoral research investigates multiple competing hypotheses commonly
+used to link climatic and ocean conditions to spatial dynamics of marine fish
+populations.
+--->
 
 <img src="images/michael_malick_nice.jpg" alt="Michael Malick" width="210" align="left"/>
 
@@ -30,6 +36,7 @@ the [University of Alaska Fairbanks][UAF], I examined how environmental forcing
 impacts the spatial and temporal dynamics of coho salmon populations throughout
 Southeast Alaska.
 
+[NRC]: http://sites.nationalacademies.org/pga/rap/
 [NMFS]: http://www.nmfs.noaa.gov/
 [OSU]: http://hmsc.oregonstate.edu/
 [SFU]: http://www.sfu.ca/
