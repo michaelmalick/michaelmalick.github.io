@@ -69,7 +69,8 @@ Publications
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, B. Dorner, and R.M. Peterman. 2017.
     Effects of the North Pacific Current on the productivity of 163
     Pacific salmon stocks. Fisheries Oceanography 26:268--281
-    <http://doi.org/10.1111/fog.12190>.
+    <http://doi.org/10.1111/fog.12190>
+    ([PDF][Malick:2017]).
 
 2016
 :   **Malick, M.J.** and S.P. Cox. 2016. Regional-scale declines in
@@ -150,6 +151,11 @@ Awards and Scholarships
 
 Media Coverage
 --------------
+
+2017
+:   Impacts of the North Pacific Current on Salmon Productivity. Research
+    Spotlight on [salmon-net.org](http://salmon-net.org). December 27, 2017
+    ([Article][salmonnet:2017]).
 
 2015
 :   Warming Coastal Ocean Temperatures May Lead To Negative Effect For Salmon
@@ -383,6 +389,7 @@ Field Experience
 [MalickCV]: ../malick-cv.pdf
 
 [SFU:Phd]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_phd_thesis_2017.pdf
+[Malick:2017]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2017.pdf
 [Malick:2016]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_cox_2016.pdf
 [Malick:2011]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2011.pdf
 [Malick:2009]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2009.pdf
@@ -393,3 +400,5 @@ Field Experience
 [Slides:afs-2015]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_afs2015_slides.pdf
 [Abstract:afs-2015]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_afs2015_extended_abstract.pdf
 [Poster:pices-2016]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_pices2016_poster.pdf
+
+[salmonnet:2017]: http://salmon-net.org/impacts-of-variations-in-the-north-pacific-current-on-salmon-productivity-differ-both-geographically-and-by-species/
