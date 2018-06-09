@@ -172,6 +172,15 @@ Media Coverage
 Presentations
 -------------
 
+2018
+:   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter,
+    I. Kaplan, A. Berger, K. Marshall, R. Brodeur, S. Siedlecki, N. Bond,
+    A. Hermann, E. Norton, and J. Newton. Seasonal forecasting of Pacific hake
+    distribution in the California Current. International Symposium on the
+    Effects of Climate Change on the World's Oceans, Washington, D.C. June 7,
+    2018 ([Slides][Slides:eccwo-2018]).
+
+
 2017
 :   **Malick, M.J.** Multi-scale environmental forcing of Pacific salmon
     population dynamics. Ph.D. thesis defense. School of Resource and
@@ -402,3 +411,5 @@ Field Experience
 [Poster:pices-2016]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_pices2016_poster.pdf
 
 [salmonnet:2017]: http://salmon-net.org/impacts-of-variations-in-the-north-pacific-current-on-salmon-productivity-differ-both-geographically-and-by-species/
+
+[Slides:eccwo-2018]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_eccwo2018_slides.pdf
