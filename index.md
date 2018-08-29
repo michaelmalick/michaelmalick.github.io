@@ -36,8 +36,7 @@ the [University of Alaska Fairbanks][UAF], I examined how environmental forcing
 impacts the spatial and temporal dynamics of coho salmon populations throughout
 Southeast Alaska.
 
-[NRC]: http://sites.nationalacademies.org/pga/rap/
-[NMFS]: http://www.nmfs.noaa.gov/
-[OSU]: http://hmsc.oregonstate.edu/
-[SFU]: http://www.sfu.ca/
-[UAF]: http://www.sfos.uaf.edu/
+[NRC]:  https://sites.nationalacademies.org/pga/rap/
+[NMFS]: https://www.fisheries.noaa.gov/
+[SFU]:  https://www.sfu.ca/
+[UAF]:  https://www.uaf.edu/cfos/

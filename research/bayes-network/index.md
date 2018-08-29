@@ -35,5 +35,5 @@ higher-trophic-level species.
 Peterson. 2015. Accounting for multiple pathways in the connections among
 climate variability, ocean processes, and coho salmon recruitment in the
 Northern California Current. Canadian Journal of Fisheries and Aquatic Sciences
-72:1552-1564. <http://doi.org/10.1139/cjfas-2014-0509>
+72:1552-1564. <https://doi.org/10.1139/cjfas-2014-0509>
 

@@ -62,21 +62,21 @@ Publications
 :   **Malick, M.J.**, M.B. Rutherford, and S.P. Cox. 2017.
     Confronting challenges to integrating Pacific salmon into ecosystem-based
     management policies. Marine Policy 85:123--132
-    <http://doi.org/10.1016/j.marpol.2017.08.028>.
+    <https://doi.org/10.1016/j.marpol.2017.08.028>.
 
 
 2017
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, B. Dorner, and R.M. Peterman. 2017.
     Effects of the North Pacific Current on the productivity of 163
     Pacific salmon stocks. Fisheries Oceanography 26:268--281
-    <http://doi.org/10.1111/fog.12190>
+    <https://doi.org/10.1111/fog.12190>
     ([PDF][Malick:2017]).
 
 2016
 :   **Malick, M.J.** and S.P. Cox. 2016. Regional-scale declines in
     productivity of pink and chum salmon stocks in western North America. PLoS
     ONE 11:e0146009
-    <http://doi.org/10.1371/journal.pone.0146009>
+    <https://doi.org/10.1371/journal.pone.0146009>
     ([PDF][Malick:2016]).
 
 2015
@@ -85,20 +85,20 @@ Publications
     among climate variability, ocean processes, and coho salmon recruitment in
     the Northern California Current. Canadian Journal of Fisheries and Aquatic
     Sciences 72:1552--1564
-    <http://doi.org/10.1139/cjfas-2014-0509>.
+    <https://doi.org/10.1139/cjfas-2014-0509>.
 
 2015
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, and R.M. Peterman. 2015. Linking
     phytoplankton phenology to salmon productivity along a north-south gradient
     in the Northeast Pacific Ocean. Canadian Journal of Fisheries and Aquatic
     Sciences 72:697--708
-    <http://doi.org/10.1139/cjfas-2014-0298>.
+    <https://doi.org/10.1139/cjfas-2014-0298>.
 
 2011
 :   **Malick, M.J.**, L.J. Haldorson, J.J. Piccolo, and J.L. Boldt. 2011. Growth
     and survival in relation to body size of juvenile pink salmon in the
     Northern Gulf of Alaska. Marine and Coastal Fisheries 3:261--270
-    <http://doi.org/10.1080/19425120.2011.593467>
+    <https://doi.org/10.1080/19425120.2011.593467>
     ([PDF][Malick:2011]).
 
 2009
@@ -106,7 +106,7 @@ Publications
     Variable effects of biological and environmental processes on coho salmon
     marine survival in Southeast Alaska. Transactions of the American Fisheries
     Society 138:846--860
-    <http://doi.org/10.1577/T08-177.1>
+    <https://doi.org/10.1577/T08-177.1>
     ([PDF][Malick:2009]).
 
 
@@ -364,7 +364,7 @@ Published Data Sets
 :   *North American pink and chum salmon spawner-recruit database.* Publicly
     released July 2015. The database contains stock-recruitment data for 46 pink
     and 53 chum salmon stocks throughout their North American ranges
-    (Available: <http://dx.doi.org/10.5281/zenodo.20354>).
+    (Available: <https://dx.doi.org/10.5281/zenodo.20354>).
 
 
 
@@ -393,7 +393,7 @@ Field Experience
 [PubGraph]: https://github.com/michaelmalick/pub-graphics
 [PinkChum:2015]: https://github.com/michaelmalick/pink-chum-database
 [CBB:2015:bloom]: http://www.cbbulletin.com/433107.aspx
-[CBB:2015:network]: https://www.cbbulletin.com/435190.aspx
+[CBB:2015:network]: http://www.cbbulletin.com/435190.aspx
 
 [MalickCV]: ../malick-cv.pdf
 

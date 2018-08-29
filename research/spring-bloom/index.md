@@ -28,5 +28,5 @@ salmon productivity.
 **Citation**: Malick, M.J., S.P. Cox, F.J. Mueter, R.M. Peterman. 2015. Linking
 phytoplankton phenology to salmon productivity along a north-south gradient in
 the Northeast Pacific Ocean. Canadian Journal of Fisheries and Aquatic Sciences
-72:697-708. <http://doi.org/10.1139/cjfas-2014-0298>
+72:697-708. <https://doi.org/10.1139/cjfas-2014-0298>
 

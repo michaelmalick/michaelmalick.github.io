@@ -43,7 +43,7 @@ may change over time.
 
 **Citation**: Malick, M.J. and S.P. Cox. 2016. Regional-scale declines in
 productivity of pink and chum salmon stocks in western North America. PLoS
-ONE 11:e0146009. ([PDF][Malick:2016]) <http://doi.org/10.1371/journal.pone.0146009>
+ONE 11:e0146009. ([PDF][Malick:2016]) <https://doi.org/10.1371/journal.pone.0146009>
 
 
 [Malick:2016]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_cox_2016.pdf
