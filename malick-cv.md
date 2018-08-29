@@ -351,9 +351,10 @@ Certifications & Services
 :   *Secretary:* AFS Student Subunit, University of Alaska Fairbanks
 
 Reviewer
-:   Ecosphere, Canadian Journal of Fisheries and Aquatic Sciences, Transactions
-    of the American Fisheries Society, North Pacific Anadromous Fish Commission,
-    North American Journal of Fisheries Management
+:   Ecosphere, Canadian Journal of Fisheries and Aquatic Sciences, Marine
+    Ecology Progress Series, Transactions of the American Fisheries Society,
+    North American Journal of Fisheries Management, North Pacific Anadromous
+    Fish Commission
 
 
 
