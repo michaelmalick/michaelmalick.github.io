@@ -11,5 +11,5 @@ elegant website generator where the input is based on simple
 [Github](https://github.com/) taking advantage of the [Github
 Pages](https://pages.github.com/) feature. Source code for this website can be
 browsed on Github
-[here](https://github.com/MichaelMalick/michaelmalick.github.io).
+[here](https://github.com/michaelmalick/michaelmalick.github.io).
 
