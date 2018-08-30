@@ -189,6 +189,11 @@ dl {
     font-size: 1.8rem;
 }
 
+.navigation a:visited {
+    color: #005599;
+    text-decoration: none
+}
+
 .footer {
     font-size: 1.5rem;
     border-bottom: 0;
