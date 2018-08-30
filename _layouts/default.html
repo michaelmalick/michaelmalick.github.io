@@ -33,9 +33,9 @@
 
 
   <!-- CSS -->
-  <link rel="stylesheet" href="/stylesheets/malick.css">
   <link rel="stylesheet" href="/stylesheets/skeleton.css">
-  <link rel="stylesheet" href="/stylesheets/skeleton-layout.css">
+  <link rel="stylesheet" href="/stylesheets/normalize.css">
+  <link rel="stylesheet" href="/stylesheets/style.css">
 
 
   <!-- Favicons -->
@@ -51,24 +51,29 @@
 
   <div class="container">
 
-    <div class="sixteen columns">
-      <h1 style="margin-top:40px"></h1>
+    <div class="row">
+      <div class="twelve columns">
+        <h1 style="margin-top:40px"></h1>
+      </div>
     </div>
 
-    <div class="five columns">
-      {% include sidebar.html %}
+    <div class="row">
+      <div class="four columns">
+        {% include sidebar.html %}
+      </div>
+
+      <div class="eight columns">
+        {% include topbar.html %}
+        {{ content }}
+      </div>
     </div>
 
-    <div class="ten columns">
-      {% include topbar.html %}
-      <hr/>
-      {{ content }}
-    </div>
-
-    <div class="fifteen columns">
-      <hr/>
-      {% include bottombar.html %}
-    </div>
+    <div class="row">
+      <div class="row">
+        <div class="twelve columns">
+          {% include bottombar.html %}
+        </div>
+      </div>
 
   </div>
 

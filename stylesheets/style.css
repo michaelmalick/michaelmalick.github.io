@@ -1,0 +1,192 @@
+/* CSS FOR michaelmalick.com
+MICHAEL MALICK
+2018-08-30
+ */
+
+
+
+/* Import Google fonts
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+
+
+
+/* Base styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* NOTE
+html is set to 62.5% so that all the REM measurements
+are based on 10px sizing: 1rem = 10px */
+html {
+    font-size: 62.5%;
+}
+body {
+    font-size: 1.6em; /* bug in chrome, use em */
+    line-height: 1.7;
+    font-weight: 400;
+    font-family: "Open Sans", Helvetica, sans-serif;
+    color: #333333;
+}
+
+
+
+/* Typography
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 2.2rem;
+    margin-bottom: 1rem;
+    color: #4A525A;
+    font-weight: 300;
+}
+h1 {font-size: 4.0rem; line-height: 1.2;  letter-spacing: -.1rem;}
+h2 {font-size: 3.0rem; line-height: 1.25; letter-spacing: -.1rem;}
+h3 {font-size: 2.0rem; line-height: 1.3;  letter-spacing: -.1rem;}
+h4 {font-size: 1.5rem;}
+h5 {font-size: 1.5rem;}
+h6 {font-size: 1.5rem;}
+
+p {
+    margin-top: 0;
+}
+
+
+
+/* Images
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.headshot {
+    margin-right: 1rem;
+    margin-top: -1rem;
+    margin-bottom: -1rem;
+}
+
+
+
+/* Lists
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+ul {
+    padding: 0;
+    margin: 1.9rem;
+    margin-top: 0;
+    list-style: circle inside;
+}
+ol {
+    padding: 0;
+    margin: 1.9rem;
+    margin-top: 0;
+    list-style: decimal inside;
+}
+
+
+
+/* Code
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+code {
+    font-family: Consolas, Monaco, Andale Mono, monospace;
+    font-size: 1.3rem;
+}
+
+
+
+/* Links
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+a:link {
+    color: #005599;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+    background-color: #EEEEEE;
+}
+a:active {
+    text-decoration: none
+    color: #005599;
+}
+a:visited {
+    color: #888888;
+}
+
+
+
+/* Table
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+table {
+    table-layout: fixed;  /* makes cells equal sized */
+    border-collapse: collapse;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+td {
+    border-top: 1px solid #E1E1E1;
+    border-bottom: 1px solid #E1E1E1;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+td.footer {
+    border-bottom: 0;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+
+
+/* Definition lists (CV)
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* See here for example:
+ * http://www.maxdesign.com.au/articles/definition/ */
+
+/* Term text style (i.e., year) */
+dt {
+    position: relative;
+    left: 0;
+    top: 2.5rem;
+    width: 6.1rem;
+    color: #777777;
+    font-size: 1.4rem;
+}
+
+/* Defintion style */
+dd {
+    border-left: 0.1rem solid #DDDDDD;
+    margin-left: 6.9rem;
+    margin-bottom: -0.5rem;
+    padding-bottom: 0.2rem;
+    padding-left: 1.1rem;
+}
+
+/* Description list */
+dl {
+    margin-bottom: 2rem;
+    margin-top: -2rem;
+}
+
+
+
+/* New styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.navigation {
+    font-size: 1.8rem;
+}
+
+.footer {
+    font-size: 1.5rem;
+    border-bottom: 0;
+    color: #4A525A;
+    padding-bottom: 2.5rem;
+}
+
+.name {
+    font-size: 3.2rem;
+    color: #4A525A;
+    padding-top: 1rem;
+}
+
+.sideinfo {
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.researchlink {
+    font-size: 2.4rem;
+    text-align: left;
+    color: #AAAAAA;
+}
