@@ -207,6 +207,11 @@ dl {
     padding-top: 1rem;
 }
 
+.name a:visited {
+    color: #005599;
+    text-decoration: none
+}
+
 .sideinfo {
     font-size: 1.5rem;
     line-height: 1.5;
