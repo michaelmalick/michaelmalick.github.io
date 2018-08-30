@@ -13,7 +13,7 @@ My postdoctoral research investigates multiple competing hypotheses commonly
 used to link climatic and ocean conditions to spatial dynamics of marine fish
 populations.
 --->
-<img class="headshot"  src="images/michael_malick_nice.jpg"
+<img class="img_headshot"  src="assets/images/michael_malick_nice.jpg"
  alt="Michael Malick" width="210" align="left"/>
 
 Being an analytical person by nature, my research is guided by the idea that the

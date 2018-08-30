@@ -52,12 +52,34 @@ p {
 
 /* Images
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.headshot {
+.img_headshot {
     margin-right: 1rem;
     margin-top: -1rem;
     margin-bottom: -1rem;
 }
 
+.img_research {
+    margin-right: 1rem;
+    margin-top: 0rem;
+    margin-bottom: -1rem;
+    width: 160px;
+    padding-top: 1rem;
+}
+
+.img_sidelink {
+    width: 20px;
+    align: left;
+    margin-top: 0.5rem;
+}
+
+.img_contact {
+    width: 110px;
+    align: center;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 
 /* Lists
@@ -189,4 +211,8 @@ dl {
     font-size: 2.4rem;
     text-align: left;
     color: #AAAAAA;
+}
+
+.center_text {
+    text-align: center;
 }
