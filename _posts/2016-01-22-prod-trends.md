@@ -18,7 +18,7 @@ alt="Chum productivity trends" width="275" height="220" align="left"/></a>
 
 <a href="/assets/research/prod-trends-fig-pink-1200.png">
 <img src="/assets/research/prod-trends-fig-pink-720.png"
-alt="Pink productivity trends" width="275" height="220" align="right"/>
+alt="Pink productivity trends" width="275" height="220" align="left"/>
 </a>
 <br clear="left">
 
