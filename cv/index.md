@@ -20,7 +20,7 @@ Current
 :   *Postdoctoral Researcher:* Oregon State University and NOAA Fisheries,
     Seattle, WA.
 
-2008--10
+2008--09
 :   *Research Associate:* University of Alaska Fairbanks, School of Fisheries
     and Ocean Sciences, Juneau, AK.
 
@@ -159,8 +159,7 @@ Media Coverage
 
 2015
 :   Warming Coastal Ocean Temperatures May Lead To Negative Effect For Salmon
-    Recruitment. The Columbia Basin Bulletin. October 9, 2015
-    ([Article][CBB:2015:network]).
+    Recruitment. The Columbia Basin Bulletin. October 9, 2015.
 
 2015
 :   Study Details How Timing Of Phytoplankton Blooms off Alaska, B.C. Tied To
@@ -169,8 +168,15 @@ Media Coverage
 
 
 
-Presentations
--------------
+Invited and Conference Presentations
+------------------------------------
+
+2019
+:   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter, I. Kaplan, A.
+    Berger, K. Marshall, R. Brodeur, S. Siedlecki, N. Bond, A. Hermann, E.
+    Norton, and J. Newton. Distribution of Pacific hake in a variable
+    environment. Pacific Whiting Scientific Review Group annual meeting,
+    Victoria, British Columbia, February 20, 2019 ([Slides][Slides:srg-2019]).
 
 2018
 :   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter,
@@ -344,6 +350,10 @@ Working Groups and Workshops
 Certifications & Services
 -------------------------
 
+2017--19
+:   Graduate supervisory committee for Jessica Gill, Simon Fraser University,
+    Master's of Resource Management. Successfully completed degree.
+
 2007--16
 :   American Fisheries Society Associate Professional
 
@@ -414,3 +424,5 @@ Field Experience
 [salmonnet:2017]: http://salmon-net.org/impacts-of-variations-in-the-north-pacific-current-on-salmon-productivity-differ-both-geographically-and-by-species/
 
 [Slides:eccwo-2018]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_eccwo2018_slides.pdf
+
+[Slides:srg-2019]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_hake_srg2019_website.pdf
