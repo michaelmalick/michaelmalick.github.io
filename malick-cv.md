@@ -6,7 +6,7 @@ title:  Michael Malick | CV
 Curriculum Vitae
 ================
 
-You can also download a [PDF][MalickCV] copy of my CV.
+You can also download [PDF][MalickCV] and [plain text][MalickCVtxt] versions of my CV.
 
 
 Professional Experience
@@ -30,22 +30,22 @@ Education
 ---------
 
 2010--17
-:   *Ph.D. Simon Fraser University*, Burnaby, BC <br>
+:   *Ph.D. Simon Fraser University*, Burnaby, BC<br>
     *Thesis:* Multi-scale environmental forcing of Pacific salmon population
-    dynamics ([PDF][SFU:Phd]) <br>
+    dynamics ([PDF][SFU:Phd])<br>
     *Advisors:* Sean Cox and Randall Peterman
 
 
 2006--08
-:   *M.Sc. University of Alaska Fairbanks*, Juneau, AK <br>
+:   *M.Sc. University of Alaska Fairbanks*, Juneau, AK<br>
     *Thesis:* Variable effects of biological and environmental processes on coho
-    salmon marine survival in Southeast Alaska ([PDF][UAF:Msc]) <br>
+    salmon marine survival in Southeast Alaska ([PDF][UAF:Msc])<br>
     *Advisor:* Milo D. Adkison
 
 2002--06
-:   *B.Sc. Mansfield University, summa cum laude*, Mansfield, PA <br>
+:   *B.Sc. Mansfield University, summa cum laude*, Mansfield, PA<br>
     *Senior Thesis:* The influence of climatological factors on the migration
-    timing of sockeye salmon into freshwater <br>
+    timing of sockeye salmon into freshwater<br>
     *Independent Research:* Chemical and biological study of the Tioga River
 
 
@@ -400,6 +400,7 @@ Field Experience
 [CBB:2015:network]: http://www.cbbulletin.com/435190.aspx
 
 [MalickCV]: ../malick-cv.pdf
+[MalickCVtxt]: ../malick-cv.txt
 
 [SFU:Phd]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_phd_thesis_2017.pdf
 [Malick:2017]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2017.pdf
