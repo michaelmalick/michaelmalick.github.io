@@ -6,7 +6,8 @@ title:  Michael Malick | CV
 Curriculum Vitae
 ================
 
-You can also download [PDF][MalickCV] and [plain text][MalickCVtxt] versions of my CV.
+You can also download [PDF][MalickCV] and [plain text][MalickCVtxt] versions of
+my CV.
 
 
 Professional Experience

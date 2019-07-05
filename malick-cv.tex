@@ -1,7 +1,7 @@
 %% LaTeX Layout for CV
 %% Michael Malick
 
-\documentclass[11pt]{article}
+\documentclass[12pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[margin=1.25in]{geometry}
 
@@ -52,6 +52,19 @@
 
 % no indenting
 \setlength{\parindent}{0pt}
+
+%% Libertine font
+%% http://mirror.utexas.edu/ctan/fonts/newtx/doc/newtxdoc.pdf (pg. 9)
+\usepackage[lining,semibold]{libertine} % a bit lighter than Times--no osf in math
+\usepackage[T1]{fontenc} % best for Western European languages
+\usepackage{textcomp} % required to get special symbols
+\usepackage[varqu,varl]{inconsolata}% a typewriter font must be defined
+\usepackage{amsthm}% must be loaded before newtxmath
+\usepackage[libertine,cmintegrals,bigdelims,vvarbb]{newtxmath}
+\usepackage[scr=rsfso]{mathalfa}
+\usepackage{bm}% load after all math to give access to bold math
+%% After loading math package, switch to osf in text.
+\useosf % for osf in normal text
 
 
 % ----------------------------------------------------------
