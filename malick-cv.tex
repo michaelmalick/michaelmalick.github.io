@@ -3,7 +3,10 @@
 
 \documentclass[12pt]{article}
 \usepackage[utf8]{inputenc}
-\usepackage[margin=1.0in]{geometry}
+\usepackage{geometry}
+\geometry{verbose, letterpaper,
+  tmargin = 2.54cm, bmargin = 2.54cm,
+  lmargin = 2.64cm, rmargin = 2.64cm}
 
 % setup description list
 \usepackage{enumitem}
@@ -16,8 +19,8 @@
 \usepackage{titlesec}
 \titleformat*{\section}{\LARGE\bfseries}
 \titleformat*{\subsection}{\Large\bfseries}
-% \titleformat*{\section}{\huge\bfseries}
-% \titleformat*{\subsection}{\LARGE\bfseries}
+% \titlespacing*{\section}{0pt}{0pt}{2pt}
+% \titlespacing*{\subsection}{0pt}{0pt}{2pt}
 
 % needed to fix \tightlist definition used in pandoc
 \providecommand{\tightlist}{ }
