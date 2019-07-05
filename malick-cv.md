@@ -14,15 +14,14 @@ Professional Experience
 -----------------------
 
 Current
-:   *NRC Postdoctoral Research Fellow:* NOAA Fisheries,
-     Seattle, WA.
+:   NRC Postdoctoral Research Fellow, NOAA Fisheries, Seattle, WA.
 
 2017--18
-:   *Postdoctoral Researcher:* Oregon State University and NOAA Fisheries,
+:   Postdoctoral Researcher, Oregon State University and NOAA Fisheries,
     Seattle, WA.
 
 2008--09
-:   *Research Associate:* University of Alaska Fairbanks, School of Fisheries
+:   Research Associate, University of Alaska Fairbanks, School of Fisheries
     and Ocean Sciences, Juneau, AK.
 
 
@@ -31,23 +30,23 @@ Education
 ---------
 
 2010--17
-:   *Ph.D. Simon Fraser University*, Burnaby, BC<br>
-    *Thesis:* Multi-scale environmental forcing of Pacific salmon population
+:   Ph.D. Simon Fraser University, Burnaby, BC<br>
+    Thesis: Multi-scale environmental forcing of Pacific salmon population
     dynamics ([PDF][SFU:Phd])<br>
-    *Advisors:* Sean Cox and Randall Peterman
+    Advisors: Sean Cox and Randall Peterman
 
 
 2006--08
-:   *M.Sc. University of Alaska Fairbanks*, Juneau, AK<br>
-    *Thesis:* Variable effects of biological and environmental processes on coho
+:   M.Sc. University of Alaska Fairbanks, Juneau, AK<br>
+    Thesis: Variable effects of biological and environmental processes on coho
     salmon marine survival in Southeast Alaska ([PDF][UAF:Msc])<br>
-    *Advisor:* Milo D. Adkison
+    Advisor: Milo D. Adkison
 
 2002--06
-:   *B.Sc. Mansfield University, summa cum laude*, Mansfield, PA<br>
-    *Senior Thesis:* The influence of climatological factors on the migration
+:   B.Sc. Mansfield University, *summa cum laude*, Mansfield, PA<br>
+    Senior Thesis: The influence of climatological factors on the migration
     timing of sockeye salmon into freshwater<br>
-    *Independent Research:* Chemical and biological study of the Tioga River
+    Independent Research: Chemical and biological study of the Tioga River
 
 
 
