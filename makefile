@@ -5,7 +5,7 @@ server:
 view:
 	open http://localhost:4000
 
-cv: makefile malick-cv.md
+cv: makefile malick-cv.md malick-cv.tex
 	tail +12 malick-cv.md > cv-body.md
 	perl -p -i -e "s/<br>/ /g" cv-body.md
 	pandoc cv-body.md -o cv-body.tex

@@ -50,21 +50,24 @@
 \usepackage{datetime}
 \newdateformat{headerdate}{\monthname[\THEMONTH] \THEYEAR}
 
+% no indenting
+\setlength{\parindent}{0pt}
+
 
 % ----------------------------------------------------------
 
 \begin{document}
 \thispagestyle{firststyle}
 
-\begin{center}
-  {\huge \textbf{Michael J. Malick}}
-  \vspace*{0.25cm}
+{\LARGE \textbf{Michael J. Malick}}
+\vspace*{0.25cm}
 
-  Northwest Fisheries Science Center, NOAA Fisheries \\
-  2725 Montlake Boulevard East, Seattle, WA 98112 \\
-  michael.malick@noaa.gov \\
 
-\end{center}
+Northwest Fisheries Science Center, NOAA Fisheries \\
+2725 Montlake Boulevard East\\
+Seattle, WA 98112 \\
+michael.malick@noaa.gov
+
 
 \vspace*{0.25cm}
 \input{cv-body.tex}
