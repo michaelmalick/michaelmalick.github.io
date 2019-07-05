@@ -30,28 +30,22 @@ Education
 ---------
 
 2010--17
-:   *Ph.D. Simon Fraser University*, Burnaby, BC
-<br>
-    *Advisors:* Sean Cox and Randall Peterman
-<br>
+:   *Ph.D. Simon Fraser University*, Burnaby, BC <br>
     *Thesis:* Multi-scale environmental forcing of Pacific salmon population
-    dynamics ([PDF][SFU:Phd])
+    dynamics ([PDF][SFU:Phd]) <br>
+    *Advisors:* Sean Cox and Randall Peterman
 
 
 2006--08
-:   *M.Sc. University of Alaska Fairbanks*, Juneau, AK
-<br>
-    *Advisor:* Milo D. Adkison
-<br>
+:   *M.Sc. University of Alaska Fairbanks*, Juneau, AK <br>
     *Thesis:* Variable effects of biological and environmental processes on coho
-    salmon marine survival in Southeast Alaska ([PDF][UAF:Msc])
+    salmon marine survival in Southeast Alaska ([PDF][UAF:Msc]) <br>
+    *Advisor:* Milo D. Adkison
 
 2002--06
-:   *B.Sc. Mansfield University, summa cum laude*, Mansfield, PA
-<br>
+:   *B.Sc. Mansfield University, summa cum laude*, Mansfield, PA <br>
     *Senior Thesis:* The influence of climatological factors on the migration
-    timing of sockeye salmon into freshwater
-<br>
+    timing of sockeye salmon into freshwater <br>
     *Independent Research:* Chemical and biological study of the Tioga River
 
 
@@ -63,7 +57,6 @@ Publications
     Confronting challenges to integrating Pacific salmon into ecosystem-based
     management policies. Marine Policy 85:123--132
     <https://doi.org/10.1016/j.marpol.2017.08.028>.
-
 
 2017
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, B. Dorner, and R.M. Peterman. 2017.
