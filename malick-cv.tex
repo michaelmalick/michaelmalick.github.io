@@ -19,8 +19,8 @@
 \usepackage{titlesec}
 \titleformat*{\section}{\LARGE\bfseries}
 \titleformat*{\subsection}{\Large\bfseries}
-% \titlespacing*{\section}{0pt}{0pt}{2pt}
-% \titlespacing*{\subsection}{0pt}{0pt}{2pt}
+% \titlespacing*{\section}{0pt}{10pt}{2pt}
+% \titlespacing*{\subsection}{0pt}{10pt}{2pt}
 
 % needed to fix \tightlist definition used in pandoc
 \providecommand{\tightlist}{ }
@@ -76,6 +76,7 @@
 \thispagestyle{firststyle}
 
 \vspace{-5cm}
+\input{cv-head.tex}
 \input{cv-body.tex}
 
 \end{document}
