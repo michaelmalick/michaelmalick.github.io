@@ -54,8 +54,9 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .img_headshot {
     margin-right: 1rem;
-    margin-top: -1rem;
-    margin-bottom: -1rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
 }
 
 .img_research {
@@ -86,12 +87,13 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 ul {
     padding: 0;
-    margin: 1.9rem;
-    margin-top: 0;
-    list-style: circle inside;
+    margin-left: 2.9rem;
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+    list-style: circle;
 }
 ol {
-    padding: 0;
+    padding: 1rem;
     margin: 1.9rem;
     margin-top: 0;
     list-style: decimal inside;

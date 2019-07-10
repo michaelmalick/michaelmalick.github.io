@@ -4,39 +4,52 @@ title:  Michael Malick | About
 ---
 
 
-I'm Michael, a fisheries oceanographer, data analyst, fly fisher, and an [NRC
-postdoctoral research fellow][NRC] affiliated with [NOAA Fisheries][NMFS] in
-Seattle, Washington.
+I'm a quantitative ecologist and fisheries oceanographer at [NOAA
+fisheries][NMFS] in Seattle, WA. I synthesize complex ecological and
+oceanographic datasets to improve predictions of climate impacts on marine
+species.
 
-<!--
-My postdoctoral research investigates multiple competing hypotheses commonly
-used to link climatic and ocean conditions to spatial dynamics of marine fish
-populations.
---->
 <img class="img_headshot"  src="assets/images/michael_malick_nice.jpg"
- alt="Michael Malick" width="210" align="left"/>
+ alt="Michael Malick" width="210" align="right"/>
 
-Being an analytical person by nature, my research is guided by the idea that the
-careful application of quantitative models and thoughtful data visualizations
-are fundamental to furthering our understanding of complex natural systems. My
-research uses macroecological and cross-system comparative approaches to better
-understand the dynamics of marine ecosystems. I am particularly interested in
-the spatial and temporal dynamics of marine and anadromous fish populations and
-how perturbations to marine ecosystems (e.g., climate variability, fishing,
-etc.) alter these dynamics.
+My research is broadly guided by the idea that careful applications of
+statistical and simulation models can improve our ability to develop management
+strategies that are robust to climate change and ecological surprises.
 
-My Ph.D. thesis at [Simon Fraser University][SFU] examined environmental forcing
+In my current position as an [NRC postdoctoral research fellow][NRC], I am part
+of a [diverse team of scientists][JSCOPE2] studying spatiotemporal dynamics of
+Pacific hake along the west coast of North America. As part of this project, I
+am leading research to develop 6-month ahead forecasts of Pacific hake spatial
+distribution using seasonal projections of ocean conditions from the [J-SCOPE
+model][JSCOPE1].
+
+
+My areas of active research include:
+
+- Climate and ocean impacts on the spatiotemporal dynamics of fish demographics,
+  e.g., [ocean currents][CURRENTS], [phytoplankton dynamics][PHYTO]
+- Nonstationary dynamics of fish populations and climate effects, e.g., [time
+  varying productivity][TRENDS]
+- Untangling the [pathways linking climate processes and fish dynamics][BNET]
+- Ecosystem based management strategies for transboundary species, e.g.,
+  [Pacific salmon][EBFM] and Pacific hake
+
+My Ph.D. thesis at Simon Fraser University examined environmental forcing
 pathways linking climatic and ocean processes to dynamics of Pacific salmon
 populations in the Northeast Pacific Ocean. In this work, I used a range of
 quantitative modeling techniques (e.g., Bayesian hierarchical models,
 probabilistic networks, and state-space models) to identify spatially coherent
 effects of environmental forcing on productivity of salmon populations
-throughout North America. In my M.Sc. thesis at
-the [University of Alaska Fairbanks][UAF], I examined how environmental forcing
-impacts the spatial and temporal dynamics of coho salmon populations throughout
-Southeast Alaska.
+throughout North America. In my M.Sc. thesis at the University of Alaska
+Fairbanks, I examined how environmental forcing impacts the spatial and temporal
+dynamics of coho salmon populations throughout Southeast Alaska.
 
-[NRC]:  https://sites.nationalacademies.org/pga/rap/
-[NMFS]: https://www.fisheries.noaa.gov/
-[SFU]:  https://www.sfu.ca/
-[UAF]:  https://www.uaf.edu/cfos/
+[PHYTO]:    https://www.nrcresearchpress.com/doi/10.1139/cjfas-2014-0298
+[CURRENTS]: https://onlinelibrary.wiley.com/doi/full/10.1111/fog.12190
+[TRENDS]:   https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146009
+[BNET]:     https://www.nrcresearchpress.com/doi/10.1139/cjfas-2014-0509
+[EBFM]:     https://www.sciencedirect.com/science/article/pii/S0308597X17301902?via%3Dihub
+[JSCOPE1]:  http://www.nanoos.org/products/j-scope/home.php
+[JSCOPE2]:  http://www.nanoos.org/products/j-scope/people.php
+[NRC]:      https://sites.nationalacademies.org/pga/rap/
+[NMFS]:     https://www.fisheries.noaa.gov/
