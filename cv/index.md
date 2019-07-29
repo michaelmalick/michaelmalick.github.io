@@ -218,23 +218,10 @@ Invited and Conference Presentations
     March 14, 2014.
 
 2013
-:   Litzow, M., W.J. Sydeman, D. Schoeman, S. Chiba, M. Garcia-Reyes, **M.J.
-    Malick**, H. Sugisaki, and S.A. Thompson. Nonlinear change in the
-    variability of North Pacific climate: are biological systems responding?
-    PICES Annual Meeting, Nanaimo, BC, Canada. October 18, 2013 (Presented
-    by M. Litzow).
-
-2013
 :   **Malick, M.J.**, S.P. Cox, R.M. Peterman, W.T. Peterson, and T.C.
     Wainwright. Using Bayesian networks to link climate variability, ocean
     processes, and coho salmon marine survival. North Pacific
     Anadromous Fish Commission Workshop, Honolulu, HI. April 26, 2013.
-
-2013
-:   Adkison, M., R. Briscoe, J. Robins, **M.J. Malick**, A. Wertheimer,
-    and S.G. Taylor. Marine survival and interspecific interactions of
-    coho salmon in SE Alaska. Poster. North Pacific Anadromous Fish
-    Commission Workshop, Honolulu, HI. April 25, 2013 (Presented by M. Adkison).
 
 2013
 :   **Malick, M.J.** Modeling causal networks to link climate
