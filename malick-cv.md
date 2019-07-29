@@ -353,6 +353,27 @@ Reviewer
 
 
 
+Software
+--------
+
+2019
+:    [r-ersst][rersst]: An R package for downloading and processing NOAA ERSST
+     data
+
+2015
+:    [r-jagstools][rjags]: An R package to conveniently run JAGS in parallel
+     from R
+
+2015
+:    [r-codatools][rcoda]: An R package to extend MCMC diagnostics
+
+
+2014
+:    [r-chroma][rchroma]: An R package for creating consistent color palettes
+     using the HCL color space
+
+
+
 Published Data Sets
 -------------------
 
@@ -385,6 +406,10 @@ Field Experience
     underwater motion detection cameras.
 
 
+[rjags]: https://github.com/michaelmalick/r-jagstools
+[rersst]: https://github.com/michaelmalick/r-ersst
+[rcoda]: https://github.com/michaelmalick/r-codatools
+[rchroma]: https://github.com/michaelmalick/r-chroma
 
 [PubGraph]: https://github.com/michaelmalick/pub-graphics
 [PinkChum:2015]: https://github.com/michaelmalick/pink-chum-database

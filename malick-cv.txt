@@ -349,6 +349,25 @@ Reviewer
     of the American Fisheries Society, North American Journal of
     Fisheries Management, North Pacific Anadromous Fish Commission
 
+Software
+--------
+
+2019
+:   [r-ersst](https://github.com/michaelmalick/r-ersst): An R package
+    for downloading and processing NOAA ERSST data
+
+2015
+:   [r-jagstools](https://github.com/michaelmalick/r-jagstools): An R
+    package to conveniently run JAGS in parallel from R
+
+2015
+:   [r-codatools](https://github.com/michaelmalick/r-codatools): An R
+    package to extend MCMC diagnostics
+
+2014
+:   [r-chroma](https://github.com/michaelmalick/r-chroma): An R package
+    for creating consistent color palettes using the HCL color space
+
 Published Data Sets
 -------------------
 
