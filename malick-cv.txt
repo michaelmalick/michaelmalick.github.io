@@ -326,6 +326,11 @@ Teaching Experience
 Working Groups and Workshops
 ----------------------------
 
+2018
+:   Workshop on spatio-temporal modelling to derive indices of abundance
+    from scientific surveys. Led by James Thorson and Curry Cunningham.
+    Seattle, WA, USA.
+
 2017
 :   NCEAS (National Center for Ecological Analysis and Synthesis, Santa
     Barbara, CA) working group on *State of Alaska's Salmon and People:
@@ -353,10 +358,10 @@ Certifications & Services
 :   *Secretary:* AFS Student Subunit, University of Alaska Fairbanks
 
 Reviewer
-:   Ecosphere, Canadian Journal of Fisheries and Aquatic Sciences,
-    Marine Ecology Progress Series, Transactions of the American
-    Fisheries Society, North American Journal of Fisheries Management,
-    North Pacific Anadromous Fish Commission
+:   Progress in Oceanography, Ecosphere, Canadian Journal of Fisheries
+    and Aquatic Sciences, Marine Ecology Progress Series, Transactions
+    of the American Fisheries Society, North American Journal of
+    Fisheries Management, North Pacific Anadromous Fish Commission
 
 Published Data Sets
 -------------------
