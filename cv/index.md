@@ -165,11 +165,20 @@ Invited and Conference Presentations
 ------------------------------------
 
 2019
+:   **Malick, M.J.** M. Hunsicker, M. Haltuch, S. Parker-Stetter, I. Kaplan, A.
+    Berger, S. Siedlecki, N. Bond, A. Hermann, and, E. Norton. Skill and
+    uncertainty of environmentally driven forecasts of Pacific hake
+    distribution. PICES Annual Meeting, Victoria, BC. October 22, 2019
+    ([Slides][Slides:pices-2019]).
+
+
+2019
 :   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter, I. Kaplan, A.
     Berger, K. Marshall, R. Brodeur, S. Siedlecki, N. Bond, A. Hermann, E.
     Norton, and J. Newton. Distribution of Pacific hake in a variable
     environment. Pacific Whiting Scientific Review Group annual meeting,
     Victoria, British Columbia, February 20, 2019 ([Slides][Slides:srg-2019]).
+
 
 2018
 :   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter,
@@ -346,10 +355,10 @@ Certifications & Services
 :   *Secretary:* AFS Student Subunit, University of Alaska Fairbanks
 
 Reviewer
-:   Progress in Oceanography, Ecosphere, Canadian Journal of Fisheries and
-    Aquatic Sciences, Marine Ecology Progress Series, Transactions of the
-    American Fisheries Society, North American Journal of Fisheries Management,
-    North Pacific Anadromous Fish Commission
+:   Global Change Biology, Progress in Oceanography, Ecosphere, Canadian Journal
+    of Fisheries and Aquatic Sciences, Marine Ecology Progress Series,
+    Transactions of the American Fisheries Society, North American Journal of
+    Fisheries Management, North Pacific Anadromous Fish Commission
 
 
 
@@ -437,3 +446,5 @@ Field Experience
 [Slides:eccwo-2018]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_eccwo2018_slides.pdf
 
 [Slides:srg-2019]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_hake_srg2019_website.pdf
+
+[Slides:pices-2019]: https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_etal_pices2019.pdf

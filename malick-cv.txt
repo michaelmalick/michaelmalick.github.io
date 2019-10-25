@@ -160,6 +160,14 @@ Invited and Conference Presentations
 ------------------------------------
 
 2019
+:   **Malick, M.J.** M. Hunsicker, M. Haltuch, S. Parker-Stetter, I.
+    Kaplan, A. Berger, S. Siedlecki, N. Bond, A. Hermann, and, E.
+    Norton. Skill and uncertainty of environmentally driven forecasts of
+    Pacific hake distribution. PICES Annual Meeting, Victoria, BC.
+    October 22, 2019
+    ([Slides](https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_etal_pices2019.pdf)).
+
+2019
 :   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter, I.
     Kaplan, A. Berger, K. Marshall, R. Brodeur, S. Siedlecki, N.
     Bond, A. Hermann, E. Norton, and J. Newton. Distribution of Pacific
@@ -344,10 +352,11 @@ Certifications & Services
 :   *Secretary:* AFS Student Subunit, University of Alaska Fairbanks
 
 Reviewer
-:   Progress in Oceanography, Ecosphere, Canadian Journal of Fisheries
-    and Aquatic Sciences, Marine Ecology Progress Series, Transactions
-    of the American Fisheries Society, North American Journal of
-    Fisheries Management, North Pacific Anadromous Fish Commission
+:   Global Change Biology, Progress in Oceanography, Ecosphere, Canadian
+    Journal of Fisheries and Aquatic Sciences, Marine Ecology Progress
+    Series, Transactions of the American Fisheries Society, North
+    American Journal of Fisheries Management, North Pacific Anadromous
+    Fish Commission
 
 Software
 --------
