@@ -142,25 +142,6 @@ Awards and Scholarships
 
 
 
-Media Coverage
---------------
-
-2017
-:   Impacts of the North Pacific Current on Salmon Productivity. Research
-    Spotlight on [salmon-net.org](http://salmon-net.org). December 27, 2017
-    ([Article][salmonnet:2017]).
-
-2015
-:   Warming Coastal Ocean Temperatures May Lead To Negative Effect For Salmon
-    Recruitment. The Columbia Basin Bulletin. October 9, 2015.
-
-2015
-:   Study Details How Timing Of Phytoplankton Blooms off Alaska, B.C. Tied To
-    Salmon Productivity. The Columbia Basin Bulletin. February 6, 2015
-    ([Article][CBB:2015:bloom]).
-
-
-
 Invited and Conference Presentations
 ------------------------------------
 
@@ -282,6 +263,24 @@ Invited and Conference Presentations
 :   **Malick, M.J.**, C. Oppel, R. Sweater, and G. Carson. Chemical and
     biological study of the Tioga River. Poster. Pennsylvania Academy
     of Science Annual Meeting, Pittsburgh, PA. March 26, 2004.
+
+
+
+Media Coverage
+--------------
+
+2017
+:   Impacts of the North Pacific Current on Salmon Productivity. Research
+    Spotlight on [salmon-net.org](http://salmon-net.org). December 27, 2017
+    ([Article][salmonnet:2017]).
+
+2015
+:   Warming Coastal Ocean Temperatures May Lead To Negative Effect For Salmon
+    Recruitment. The Columbia Basin Bulletin. October 9, 2015.
+
+2015
+:   Study Details How Timing Of Phytoplankton Blooms off Alaska, B.C. Tied To
+    Salmon Productivity. The Columbia Basin Bulletin. February 6, 2015.
 
 
 
