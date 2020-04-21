@@ -1,9 +1,10 @@
 Michael J. Malick
 =================
 
-Northwest Fisheries Science Center, NOAA Fisheries\
-2725 Montlake Boulevard East\
-Seattle, WA 98112\
+National Oceanic and Atmospheric Administration\
+Manchester Research Station\
+7305 Beach Dr. East\
+Port Orchard, WA 98366\
 michael.malick@noaa.gov
 
 

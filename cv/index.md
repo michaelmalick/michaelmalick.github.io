@@ -14,11 +14,11 @@ Professional Experience
 -----------------------
 
 Current
-:   NRC Postdoctoral Research Fellow, NOAA Fisheries, Seattle, WA.
+:   Research Fish Biologist, NOAA Fisheries, Northwest Fisheries Science Center,
+    Port Orchard, WA
 
-2017--18
-:   Postdoctoral Researcher, Oregon State University and NOAA Fisheries,
-    Seattle, WA.
+2017--19
+:   NRC Postdoctoral Research Fellow, NOAA Fisheries, Seattle, WA.
 
 2008--09
 :   Research Associate, University of Alaska Fairbanks, School of Fisheries
@@ -34,7 +34,6 @@ Education
     Thesis: Multi-scale environmental forcing of Pacific salmon population
     dynamics ([PDF][SFU:Phd])<br>
     Advisors: Sean Cox and Randall Peterman
-
 
 2006--08
 :   M.Sc. University of Alaska Fairbanks, Juneau, AK<br>
@@ -52,6 +51,18 @@ Education
 
 Publications
 ------------
+
+2020
+:   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter, A.
+    Berger, K. Marshall. Relationships between temperature and Pacific hake
+    distribution vary across latitude and life-history stage. Marine Ecology
+    Progress Series 639:185–197. <https://doi.org/10.3354/meps13286>
+
+2020
+:   **Malick, M.J.** 2020. Time-varying relationships between ocean conditions
+    and sockeye salmon productivity. Fisheries Oceanography 29:3 265--275
+    <https://doi.org/10.1111/fog.12469>.
+
 2017
 :   **Malick, M.J.**, M.B. Rutherford, and S.P. Cox. 2017.
     Confronting challenges to integrating Pacific salmon into ecosystem-based
