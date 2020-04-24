@@ -41,15 +41,14 @@ west coast of North America. As part of this project, I lead research to develop
 6-month ahead forecasts of Pacific hake spatial distribution using seasonal
 projections of ocean conditions from the [J-SCOPE model][JSCOPE1].
 
-My Ph.D. thesis at Simon Fraser University examined environmental forcing
-pathways linking climatic and ocean processes to dynamics of Pacific salmon
-populations in the Northeast Pacific Ocean. In this work, I used a range of
-quantitative modeling techniques (e.g., Bayesian hierarchical models,
-probabilistic networks, and state-space models) to identify spatially coherent
-effects of environmental forcing on productivity of salmon populations
-throughout North America. In my M.Sc. thesis at the University of Alaska
-Fairbanks, I examined how environmental forcing impacts the spatial and temporal
-dynamics of coho salmon populations throughout Southeast Alaska.
+My Ph.D. thesis at Simon Fraser University focused on improving predictions of
+climate impacts on North American Pacific salmon. In this work, I used a range
+of quantitative methods (e.g., Bayesian hierarchical models, probabilistic
+networks, and state-space models) to identify spatially coherent ecosystem
+drivers of salmon abundance and productivity throughout North America. In my
+M.Sc. thesis at the University of Alaska Fairbanks, I examined how environmental
+forcing impacts the spatial and temporal dynamics of coho salmon populations
+throughout Southeast Alaska.
 
 [NONSTAT]:  https://onlinelibrary.wiley.com/doi/abs/10.1111/fog.12469
 [HTEMP]:    https://www.int-res.com/abstracts/meps/v639/p185-197/
