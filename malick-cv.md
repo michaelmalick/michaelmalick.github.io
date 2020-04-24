@@ -15,7 +15,7 @@ Professional Experience
 
 Current
 :   Research Fish Biologist, NOAA Fisheries, Northwest Fisheries Science Center,
-    Port Orchard, WA
+    Manchester, WA
 
 2017--19
 :   NRC Postdoctoral Research Fellow, NOAA Fisheries, Seattle, WA.
@@ -60,7 +60,7 @@ Publications
 
 2020
 :   **Malick, M.J.** 2020. Time-varying relationships between ocean conditions
-    and sockeye salmon productivity. Fisheries Oceanography 29:3 265--275
+    and sockeye salmon productivity. Fisheries Oceanography 29:265--275
     <https://doi.org/10.1111/fog.12469>.
 
 2017
