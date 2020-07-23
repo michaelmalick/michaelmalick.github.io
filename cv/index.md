@@ -53,10 +53,18 @@ Publications
 ------------
 
 2020
+:   Connors, B.\*, **M.J. Malick**\*, G.T. Ruggerone\*, P. Rand, M. Adkison,
+    J.R. Irvine, R. Campbell, K. Gorman. Climate and competition influence
+    sockeye salmon population dynamics across the Northeast Pacific Ocean.
+    Canadian Journal of Fisheries and Aquatic Sciences 77:943--949
+    <https://doi.org/10.1139/cjfas-2019-0422> ([PDF][Connors:2020], \**Authors
+    contributed equally*)
+
+2020
 :   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter, A.
     Berger, K. Marshall. Relationships between temperature and Pacific hake
     distribution vary across latitude and life-history stage. Marine Ecology
-    Progress Series 639:185–197. <https://doi.org/10.3354/meps13286>
+    Progress Series 639:185-–197. <https://doi.org/10.3354/meps13286>
 
 2020
 :   **Malick, M.J.** 2020. Time-varying relationships between ocean conditions
@@ -280,6 +288,11 @@ Invited and Conference Presentations
 Media Coverage
 --------------
 
+2020
+:   Disentangling the Effects of Competition and a Warming Ocean on Sockeye
+    Salmon across the Northeast Pacific by NCEAS. May 27, 2020 
+    ([Article][nceasnews:2020]).
+
 2017
 :   Impacts of the North Pacific Current on Salmon Productivity. Research
     Spotlight on [salmon-net.org](http://salmon-net.org). December 27, 2017
@@ -458,3 +471,7 @@ Field Experience
 [Slides:srg-2019]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_hake_srg2019_website.pdf
 
 [Slides:pices-2019]: https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_etal_pices2019.pdf
+
+[Connors:2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/connors_etal_2020.pdf
+
+[nceasnews:2020]:https://www.nceas.ucsb.edu/news/disentangling-effects-competition-and-warming-ocean-sockeye-salmon-across-northeast-pacific
