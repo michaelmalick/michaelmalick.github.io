@@ -50,6 +50,12 @@ Publications
 ------------
 
 2020
+:   Litzow, M.A., **M.J. Malick**, N.A. Bond, C.J. Cunningham, J.L.
+    Gosselin, and E.J. Ward. Quantifying a novel climate through changes
+    in PDO-climate and PDO-salmon relationships. Geophysical Research
+    Letters 47:16 e2020GL087972. <https://doi.org/10.1029/2020GL087972>
+
+2020
 :   Connors, B.*, **M.J. Malick***, G.T. Ruggerone*, P. Rand, M.
     Adkison, J.R. Irvine, R. Campbell, K. Gorman. Climate and
     competition influence sockeye salmon population dynamics across the
