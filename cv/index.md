@@ -53,24 +53,31 @@ Publications
 ------------
 
 2020
-:   Litzow, M.A., **M.J. Malick**, N.A. Bond, C.J. Cunningham, J.L. Gosselin, and
-    E.J. Ward. Quantifying a novel climate through changes in PDO-climate and
-    PDO-salmon relationships. Geophysical Research Letters 47:16 e2020GL087972.
-    <https://doi.org/10.1029/2020GL087972>
+:   **Malick, M.J.**, S.A. Siedlecki, E.L. Norton, I.C. Kaplan, M.A. Haltuch,
+    M.E. Hunsicker, S.L. Parker-Stetter, K.N. Marshall, A.M. Berger, A.J.
+    Hermann, N.A. Bond, and S. Gauthier. 2020. Environmentally driven seasonal
+    forecasts of Pacific hake distribution. Frontiers in Marine Science
+    7:578490. <https://doi.org/10.3389/fmars.2020.578490> ([PDF][Malick:2020]).
+
+2020
+:   Litzow, M.A., **M.J. Malick**, N.A. Bond, C.J. Cunningham, J.L. Gosselin,
+    and E.J. Ward. 2020. Quantifying a novel climate through changes in
+    PDO-climate and PDO-salmon relationships. Geophysical Research Letters 47:16
+    e2020GL087972. <https://doi.org/10.1029/2020GL087972>.
 
 2020
 :   Connors, B.\*, **M.J. Malick**\*, G.T. Ruggerone\*, P. Rand, M. Adkison,
-    J.R. Irvine, R. Campbell, K. Gorman. Climate and competition influence
+    J.R. Irvine, R. Campbell, K. Gorman. 2020. Climate and competition influence
     sockeye salmon population dynamics across the Northeast Pacific Ocean.
-    Canadian Journal of Fisheries and Aquatic Sciences 77:943--949
+    Canadian Journal of Fisheries and Aquatic Sciences 77:943--949.
     <https://doi.org/10.1139/cjfas-2019-0422> ([PDF][Connors:2020], \**Authors
-    contributed equally*)
+    contributed equally*).
 
 2020
 :   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter, A.
-    Berger, K. Marshall. Relationships between temperature and Pacific hake
+    Berger, K. Marshall. 2020. Relationships between temperature and Pacific hake
     distribution vary across latitude and life-history stage. Marine Ecology
-    Progress Series 639:185-–197. <https://doi.org/10.3354/meps13286>
+    Progress Series 639:185-–197. <https://doi.org/10.3354/meps13286>.
 
 2020
 :   **Malick, M.J.** 2020. Time-varying relationships between ocean conditions
@@ -169,6 +176,18 @@ Awards and Scholarships
 
 Invited and Conference Presentations
 ------------------------------------
+
+2020
+:   **Malick, M.J.** Time-varying relationships between ocean conditions and
+    sockeye salmon productivity. American Fisheries Society Annual Meeting. Held
+    virtually. September 15, 2020 ([Slides][Slides:afs-2020]).
+
+2020
+:   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter, I. Kaplan, A.
+    Berger, K. Marshall, R. Brodeur, S. Siedlecki, N. Bond, A. Hermann, E.
+    Norton, and S. Gauthier. Environmentally driven forecasts of Pacific hake
+    distribution. Pacific Whiting Scientific Review Group annual meeting,
+    Seattle, Washington, February 27, 2019 ([Slides][Slides:srg-2020]).
 
 2019
 :   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter, I. Kaplan, A.
@@ -384,10 +403,11 @@ Certifications & Services
 :   *Secretary:* AFS Student Subunit, University of Alaska Fairbanks
 
 Reviewer
-:   Global Change Biology, Progress in Oceanography, Ecosphere, Canadian Journal
-    of Fisheries and Aquatic Sciences, Marine Ecology Progress Series,
-    Transactions of the American Fisheries Society, North American Journal of
-    Fisheries Management, North Pacific Anadromous Fish Commission
+:   Global Change Biology, Fish and Fisheries, Progress in Oceanography,
+    Ecosphere, Canadian Journal of Fisheries and Aquatic Sciences, Marine
+    Ecology Progress Series, Transactions of the American Fisheries Society,
+    North American Journal of Fisheries Management, North Pacific Anadromous
+    Fish Commission
 
 
 
@@ -481,3 +501,7 @@ Field Experience
 [Connors:2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/connors_etal_2020.pdf
 
 [nceasnews:2020]:https://www.nceas.ucsb.edu/news/disentangling-effects-competition-and-warming-ocean-sockeye-salmon-across-northeast-pacific
+
+[Slides:afs-2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_afs2020_slides.pdf
+[Slides:srg-2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_etal_hake_srg2020_website.pdf
+[Malick:2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/malick_etal_2020_forecast.pdf
