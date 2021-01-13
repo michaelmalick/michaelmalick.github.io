@@ -139,6 +139,9 @@ Publications
 Awards and Scholarships
 -----------------------
 
+2020
+:   NOAA Northwest Fisheries Science Center Internal Research Grant
+
 2018
 :   National Research Council Postdoctoral Research Fellowship Award
 

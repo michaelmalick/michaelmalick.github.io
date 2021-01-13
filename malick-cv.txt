@@ -8,8 +8,7 @@ Port Orchard, WA 98366
 michael.malick@noaa.gov
 
 
-Professional Experience
------------------------
+## Professional Experience
 
 Current
 :   Research Fish Biologist, NOAA Fisheries, Northwest Fisheries Science
@@ -22,8 +21,7 @@ Current
 :   Research Associate, University of Alaska Fairbanks, School of
     Fisheries and Ocean Sciences, Juneau, AK.
 
-Education
----------
+## Education
 
 2010--17
 :   Ph.D. Simon Fraser University, Burnaby, BC
@@ -46,8 +44,7 @@ Education
     Independent Research: Chemical and biological study of the Tioga
     River
 
-Publications
-------------
+## Publications
 
 2020
 :   **Malick, M.J.**, S.A. Siedlecki, E.L. Norton, I.C. Kaplan,
@@ -136,8 +133,10 @@ Publications
     Fisheries Society 138:846--860 <https://doi.org/10.1577/T08-177.1>
     ([PDF](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2009.pdf)).
 
-Awards and Scholarships
------------------------
+## Awards and Scholarships
+
+2020
+:   NOAA Northwest Fisheries Science Center Internal Research Grant
 
 2018
 :   National Research Council Postdoctoral Research Fellowship Award
@@ -176,8 +175,7 @@ Awards and Scholarships
 2003--04
 :   Certificate of Accomplishment for Grantsmanship
 
-Invited and Conference Presentations
-------------------------------------
+## Invited and Conference Presentations
 
 2020
 :   **Malick, M.J.** Time-varying relationships between ocean conditions
@@ -316,8 +314,7 @@ Invited and Conference Presentations
     biological study of the Tioga River. Poster. Pennsylvania Academy of
     Science Annual Meeting, Pittsburgh, PA. March 26, 2004.
 
-Media Coverage
---------------
+## Media Coverage
 
 2020
 :   Disentangling the Effects of Competition and a Warming Ocean on
@@ -339,8 +336,7 @@ Media Coverage
     Tied To Salmon Productivity. The Columbia Basin Bulletin. February
     6, 2015.
 
-Teaching Experience
--------------------
+## Teaching Experience
 
 2016
 :   *Guest Lecture:* Designing Publication Quality Graphics in R. Guest
@@ -374,8 +370,7 @@ Teaching Experience
     week voluntary course that covered the fundamentals of the R
     programming language.
 
-Working Groups and Workshops
-----------------------------
+## Working Groups and Workshops
 
 2018
 :   Workshop on spatio-temporal modelling to derive indices of abundance
@@ -394,8 +389,7 @@ Working Groups and Workshops
     *Natural mortality in fish populations during early life stages
     (NAMOR)*, Oslo, Norway.
 
-Certifications & Services
--------------------------
+## Certifications & Services
 
 2017--19
 :   Graduate supervisory committee for Jessica Gill, Simon Fraser
@@ -415,8 +409,7 @@ Reviewer
     Fisheries Society, North American Journal of Fisheries Management,
     North Pacific Anadromous Fish Commission
 
-Software
---------
+## Software
 
 2019
 :   [r-ersst](https://github.com/michaelmalick/r-ersst): An R package
@@ -434,8 +427,7 @@ Software
 :   [r-chroma](https://github.com/michaelmalick/r-chroma): An R package
     for creating consistent color palettes using the HCL color space
 
-Published Data Sets
--------------------
+## Published Data Sets
 
 2015
 :   *North American pink and chum salmon spawner-recruit database.*
@@ -444,8 +436,7 @@ Published Data Sets
     American ranges (Available:
     <https://dx.doi.org/10.5281/zenodo.20354>).
 
-Field Experience
-----------------
+## Field Experience
 
 2007--08
 :   *Fisheries Contractor:* National Atmospheric and Oceanic
