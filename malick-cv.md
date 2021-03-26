@@ -180,6 +180,12 @@ Awards and Scholarships
 Invited and Conference Presentations
 ------------------------------------
 
+2021
+:   **Malick, M.J.** Effects of the North Pacific Current on Pacific salmon
+    productivity vary across time and space. Fish without Borders Symposium,
+    Idaho Chapter of the American Fisheries Society, March 1, 2021 (Invited,
+    [Slides][Slides:afs-2021]).
+
 2020
 :   **Malick, M.J.** Time-varying relationships between ocean conditions and
     sockeye salmon productivity. American Fisheries Society Annual Meeting. Held
@@ -508,3 +514,4 @@ Field Experience
 [Slides:afs-2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_afs2020_slides.pdf
 [Slides:srg-2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_etal_hake_srg2020_website.pdf
 [Malick:2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/malick_etal_2020_forecast.pdf
+[Slides:afs-2021]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_idaho_afs2021_slides.pdf
