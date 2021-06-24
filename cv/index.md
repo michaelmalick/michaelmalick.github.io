@@ -181,6 +181,12 @@ Invited and Conference Presentations
 ------------------------------------
 
 2021
+:   **Malick, M.J.** Non-stationary drivers of Pacific salmon productivity.
+    North Pacific Anadromous Fish Commission Workshop: Linkages between Pacific
+    Salmon Production and Environmental Changes, May 25, 2021 (Invited keynote,
+    [Slides][Slides:npafc-2021]).
+
+2021
 :   **Malick, M.J.** Effects of the North Pacific Current on Pacific salmon
     productivity vary across time and space. Fish without Borders Symposium,
     Idaho Chapter of the American Fisheries Society, March 1, 2021 (Invited,
@@ -515,3 +521,4 @@ Field Experience
 [Slides:srg-2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_etal_hake_srg2020_website.pdf
 [Malick:2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/malick_etal_2020_forecast.pdf
 [Slides:afs-2021]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_idaho_afs2021_slides.pdf
+[slides:npafc-2021]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/slides/malick-npafc-2021-notes-slides.pdf

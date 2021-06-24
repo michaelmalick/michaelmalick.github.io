@@ -1,6 +1,6 @@
 
 server:
-	jekyll serve
+	jekyll serve --trace
 
 view:
 	open http://localhost:4000
