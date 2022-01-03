@@ -52,24 +52,31 @@ Education
 Publications
 ------------
 
+2021
+:   Litzow, M.A., **M.J. Malick**, A.A. Abookire, J. Duffy-Anderson, B.J.
+    Laurel, P.H. Ressler, and L.A. Rogers. 2021. Using a climate attribution
+    statistic to inform judgments about changing fisheries sustainability.
+    Scientific Reports 11:23924 <https://doi.org/10.1038/s41598-021-03405-6>
+    ([PDF][Litzow:2021]).
+
 2020
 :   **Malick, M.J.**, S.A. Siedlecki, E.L. Norton, I.C. Kaplan, M.A. Haltuch,
     M.E. Hunsicker, S.L. Parker-Stetter, K.N. Marshall, A.M. Berger, A.J.
     Hermann, N.A. Bond, and S. Gauthier. 2020. Environmentally driven seasonal
     forecasts of Pacific hake distribution. Frontiers in Marine Science
-    7:578490. <https://doi.org/10.3389/fmars.2020.578490> ([PDF][Malick:2020]).
+    7:578490 <https://doi.org/10.3389/fmars.2020.578490> ([PDF][Malick:2020]).
 
 2020
 :   Litzow, M.A., **M.J. Malick**, N.A. Bond, C.J. Cunningham, J.L. Gosselin,
     and E.J. Ward. 2020. Quantifying a novel climate through changes in
     PDO-climate and PDO-salmon relationships. Geophysical Research Letters 47:16
-    e2020GL087972. <https://doi.org/10.1029/2020GL087972>.
+    e2020GL087972 <https://doi.org/10.1029/2020GL087972>.
 
 2020
 :   Connors, B.\*, **M.J. Malick**\*, G.T. Ruggerone\*, P. Rand, M. Adkison,
     J.R. Irvine, R. Campbell, K. Gorman. 2020. Climate and competition influence
     sockeye salmon population dynamics across the Northeast Pacific Ocean.
-    Canadian Journal of Fisheries and Aquatic Sciences 77:943--949.
+    Canadian Journal of Fisheries and Aquatic Sciences 77:943--949
     <https://doi.org/10.1139/cjfas-2019-0422> ([PDF][Connors:2020], \**Authors
     contributed equally*).
 
@@ -77,7 +84,7 @@ Publications
 :   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter, A.
     Berger, K. Marshall. 2020. Relationships between temperature and Pacific hake
     distribution vary across latitude and life-history stage. Marine Ecology
-    Progress Series 639:185-–197. <https://doi.org/10.3354/meps13286>.
+    Progress Series 639:185-–197 <https://doi.org/10.3354/meps13286>.
 
 2020
 :   **Malick, M.J.** 2020. Time-varying relationships between ocean conditions
@@ -514,6 +521,7 @@ Field Experience
 [Slides:pices-2019]: https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_etal_pices2019.pdf
 
 [Connors:2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/connors_etal_2020.pdf
+[Litzow:2021]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2021.pdf
 
 [nceasnews:2020]:https://www.nceas.ucsb.edu/news/disentangling-effects-competition-and-warming-ocean-sockeye-salmon-across-northeast-pacific
 
