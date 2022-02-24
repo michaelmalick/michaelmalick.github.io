@@ -52,6 +52,19 @@ Education
 Publications
 ------------
 
+In Press
+:   Abookire, A.A., M.A. Litzow, **M.J. Malick**, and B.J. Laurel. In Press.
+    Post-settlement abundance, condition, and survival in a climate-stressed
+    population of Pacific cod. Canadian Journal of Fisheries and Aquatic
+    Sciences <https://doi.org/10.1139/cjfas-2021-0224>.
+
+
+2022
+:   Litzow, M.A., A.A. Abookire, J.T. Duffy-Anderson, B.J. Laurel,
+    **M.J. Malick**, and L.A. Rogers. 2022. Predicting year class strength for
+    climate-stressed gadid stocks in the Gulf of Alaska. Fisheries Research
+    249:106250 <https://doi.org/10.1016/j.fishres.2022.106250>.
+
 2021
 :   Litzow, M.A., **M.J. Malick**, A.A. Abookire, J. Duffy-Anderson, B.J.
     Laurel, P.H. Ressler, and L.A. Rogers. 2021. Using a climate attribution
@@ -84,7 +97,7 @@ Publications
 :   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter, A.
     Berger, K. Marshall. 2020. Relationships between temperature and Pacific hake
     distribution vary across latitude and life-history stage. Marine Ecology
-    Progress Series 639:185-–197 <https://doi.org/10.3354/meps13286>.
+    Progress Series 639:185--197 <https://doi.org/10.3354/meps13286>.
 
 2020
 :   **Malick, M.J.** 2020. Time-varying relationships between ocean conditions
