@@ -52,11 +52,12 @@ Education
 Publications
 ------------
 
-In Press
-:   Abookire, A.A., M.A. Litzow, **M.J. Malick**, and B.J. Laurel. In Press.
+2022
+:   Abookire, A.A., M.A. Litzow, **M.J. Malick**, and B.J. Laurel. 2022.
     Post-settlement abundance, condition, and survival in a climate-stressed
     population of Pacific cod. Canadian Journal of Fisheries and Aquatic
-    Sciences <https://doi.org/10.1139/cjfas-2021-0224>.
+    Sciences 79:958--968 <https://doi.org/10.1139/cjfas-2021-0224> (Editor's
+    Choice Award for 2022).
 
 
 2022
