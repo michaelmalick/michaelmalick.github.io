@@ -53,11 +53,24 @@ Publications
 ------------
 
 2022
+:   **Malick, M.J.**, M.E. Moore, and B.A. Berejikian. 2022. Higher early marine
+    mortality of steelhead associated with releases of hatchery coho salmon
+    but not Chinook salmon. Marine and Coastal Fisheries 14:e10225
+    <https://doi.org/10.1002/mcf2.10225> ([PDF][Malick:2022]).
+
+2022
+:   Brodie, S., J.A. Smith, B.A. Muhling, L.A.K. Barnett, G. Carroll, ...,
+    **M.J. Malick**, ..., D. Tommasi, E.J. Ward, and I.C. Kaplan. Recommendations
+    for quantifying and reducing uncertainty in climate projections of species
+    distributions. 2022. Global Change Biology 28:6586–6601
+    <https://doi.org/10.1111/gcb.16371> ([PDF][Brodie:2022]).
+
+2022
 :   Abookire, A.A., M.A. Litzow, **M.J. Malick**, and B.J. Laurel. 2022.
     Post-settlement abundance, condition, and survival in a climate-stressed
     population of Pacific cod. Canadian Journal of Fisheries and Aquatic
-    Sciences 79:958--968 <https://doi.org/10.1139/cjfas-2021-0224> (Editor's
-    Choice Award for 2022).
+    Sciences 79:958--968 <https://doi.org/10.1139/cjfas-2021-0224>
+    ([PDF][Abookire:2022], Editor's Choice Award for 2022).
 
 
 2022
@@ -84,7 +97,7 @@ Publications
 :   Litzow, M.A., **M.J. Malick**, N.A. Bond, C.J. Cunningham, J.L. Gosselin,
     and E.J. Ward. 2020. Quantifying a novel climate through changes in
     PDO-climate and PDO-salmon relationships. Geophysical Research Letters 47:16
-    e2020GL087972 <https://doi.org/10.1029/2020GL087972>.
+    e2020GL087972 <https://doi.org/10.1029/2020GL087972> ([PDF][Litzow:2020]).
 
 2020
 :   Connors, B.\*, **M.J. Malick**\*, G.T. Ruggerone\*, P. Rand, M. Adkison,
@@ -544,3 +557,7 @@ Field Experience
 [Malick:2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/malick_etal_2020_forecast.pdf
 [Slides:afs-2021]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_idaho_afs2021_slides.pdf
 [slides:npafc-2021]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/slides/malick-npafc-2021-notes-slides.pdf
+[Malick:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/malick_etal_2022.pdf
+[Brodie:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/brodie_etal_2022.pdf
+[Litzow:2020]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2020.pdf
+[Abookire:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/abookire_etal_2022.pdf
