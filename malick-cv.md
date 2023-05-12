@@ -52,6 +52,19 @@ Education
 Publications
 ------------
 
+2023
+:   **Malick, M.J.**, J.P. Losee, G. Marston, M. Agha, B.A. Berejikian, B.R.
+    Beckman, and M. Cooper. 2023. Fecundity trends of Chinook salmon in the
+    Pacific Northwest. Fish and Fisheries 24: 454--465.
+    <https://doi.org/10.1111/faf.12738>.
+
+2023
+:   Phillips, E.M., **M.J. Malick**, S. Gauthier, M.A. Haltuch, M.E. Hunsicker,
+    S.L. Parker-Stetter, and R.E. Thomas. 2023. The influence of temperature on
+    Pacific hake co-occurrence with euphausiids in the California Current
+    Ecosystem. Fisheries Oceanography 32:267–279
+    <https://doi.org/10.1111/fog.12628> ([PDF][Phillips:2023]).
+
 2022
 :   **Malick, M.J.**, M.E. Moore, and B.A. Berejikian. 2022. Higher early marine
     mortality of steelhead associated with releases of hatchery coho salmon
@@ -60,9 +73,9 @@ Publications
 
 2022
 :   Brodie, S., J.A. Smith, B.A. Muhling, L.A.K. Barnett, G. Carroll, ...,
-    **M.J. Malick**, ..., D. Tommasi, E.J. Ward, and I.C. Kaplan. Recommendations
-    for quantifying and reducing uncertainty in climate projections of species
-    distributions. 2022. Global Change Biology 28:6586–6601
+    **M.J. Malick**, ..., D. Tommasi, E.J. Ward, and I.C. Kaplan. 2022.
+    Recommendations for quantifying and reducing uncertainty in climate
+    projections of species distributions. Global Change Biology 28:6586–6601
     <https://doi.org/10.1111/gcb.16371> ([PDF][Brodie:2022]).
 
 2022
@@ -213,6 +226,11 @@ Awards and Scholarships
 
 Invited and Conference Presentations
 ------------------------------------
+2023
+:   **Malick, M.J.**, J.P. Losee, G. Marston, M. Agha, B.A. Berejikian, B.R.
+    Beckman, and M. Cooper. 2023. Fecundity trends of Chinook salmon in the
+    Pacific Northwest. Western Division of the American Fisheries Society Annual
+    Meeting, Boise, Idaho, May 11, 2023 ([Slides][Slides:afs-2023]).
 
 2021
 :   **Malick, M.J.** Non-stationary drivers of Pacific salmon productivity.
@@ -561,3 +579,5 @@ Field Experience
 [Brodie:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/brodie_etal_2022.pdf
 [Litzow:2020]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2020.pdf
 [Abookire:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/abookire_etal_2022.pdf
+[Slides:afs-2023]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/slides/malick_etal_afs2023_slides.pdf
+[Phillips:2023]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/phillips_etal_2023.pdf
