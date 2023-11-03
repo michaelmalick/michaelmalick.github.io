@@ -557,7 +557,7 @@ Field Experience
 [Abstract:afs-2015]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_afs2015_extended_abstract.pdf
 [Poster:pices-2016]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_pices2016_poster.pdf
 
-[salmonnet:2017]: http://salmon-net.org/impacts-of-variations-in-the-north-pacific-current-on-salmon-productivity-differ-both-geographically-and-by-species/
+[salmonnet:2017]: https://salmon-net.org/impacts-of-the-north-pacific-current-on-salmon-productivity
 
 [Slides:eccwo-2018]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_eccwo2018_slides.pdf
 
