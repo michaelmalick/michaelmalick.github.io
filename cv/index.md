@@ -52,6 +52,19 @@ Education
 Publications
 ------------
 
+In Press
+:   **Malick, M.J.**, M. Hunsicker, M.A. Haltuch, S.L. Parker-Stetter, K.N.
+    Marshall, J. Pohl, A.M. Berger, S. Siedlecki, S. Gauthier, and A. Hermann.
+    In press. Spatially-varying effects of the California Undercurrent on
+    Pacific hake distribution. Canadian Journal of Fisheries and Aquatic
+    Sciences: In Press. <https:doi.org/10.1139/cjfas-2023-0202>.
+
+2024
+:   Litzow, M., **M.J. Malick**, T. Kristiansen, B. Connors, and G. Ruggerone. 2024.
+    Climate attribution time series track the evolution of human influence on
+    North Pacific sea surface temperature. Environmental Research Letters 19: 014014.
+    <https://doi.org/10.1088/1748-9326/ad0c88> ([PDF][Litzow:2024]).
+
 2023
 :   **Malick, M.J.**, J.P. Losee, G. Marston, M. Agha, B.A. Berejikian, B.R.
     Beckman, and M. Cooper. 2023. Fecundity trends of Chinook salmon in the
@@ -581,3 +594,4 @@ Field Experience
 [Abookire:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/abookire_etal_2022.pdf
 [Slides:afs-2023]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/slides/malick_etal_afs2023_slides.pdf
 [Phillips:2023]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/phillips_etal_2023.pdf
+[Litzow:2024]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2024.pdf
