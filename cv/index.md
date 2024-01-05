@@ -57,7 +57,7 @@ In Press
     Marshall, J. Pohl, A.M. Berger, S. Siedlecki, S. Gauthier, and A. Hermann.
     In press. Spatially-varying effects of the California Undercurrent on
     Pacific hake distribution. Canadian Journal of Fisheries and Aquatic
-    Sciences: In Press. <https:doi.org/10.1139/cjfas-2023-0202>.
+    Sciences: In Press. <https://doi.org/10.1139/cjfas-2023-0202>.
 
 2024
 :   Litzow, M., **M.J. Malick**, T. Kristiansen, B. Connors, and G. Ruggerone. 2024.
