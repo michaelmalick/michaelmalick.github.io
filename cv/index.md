@@ -52,12 +52,12 @@ Education
 Publications
 ------------
 
-In Press
+2024
 :   **Malick, M.J.**, M. Hunsicker, M.A. Haltuch, S.L. Parker-Stetter, K.N.
-    Marshall, J. Pohl, A.M. Berger, S. Siedlecki, S. Gauthier, and A. Hermann.
-    In press. Spatially-varying effects of the California Undercurrent on
+    Marshall, J. Pohl, A.M. Berger, S. Siedlecki, S. Gauthier, and A. Hermann. 2024.
+    Spatially-varying effects of the California Undercurrent on
     Pacific hake distribution. Canadian Journal of Fisheries and Aquatic
-    Sciences: In Press. <https://doi.org/10.1139/cjfas-2023-0202>.
+    Sciences 81:154--165. <https://doi.org/10.1139/cjfas-2023-0202>.
 
 2024
 :   Litzow, M., **M.J. Malick**, T. Kristiansen, B. Connors, and G. Ruggerone. 2024.
