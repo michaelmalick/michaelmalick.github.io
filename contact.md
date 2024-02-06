@@ -8,7 +8,7 @@ title:  Contact
  alt="Michael Malick"/>
 
 <div class="center_text">
-Email: mjm@michaelmalick.com
+Email: michael.malick@noaa.gov
 <br>
 <a href="https://www.fisheries.noaa.gov/contact/michael-j-malick-phd">NOAA Profile</a>
 <br>
