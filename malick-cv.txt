@@ -60,13 +60,15 @@ Current
     of human influence on North Pacific sea surface temperature.
     Environmental Research Letters 19: 014014.
     <https://doi.org/10.1088/1748-9326/ad0c88>
-    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2024.pdf)).
+    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2024.pdf),
+    [Code](https://github.com/mikelitzow/CMIP6-attribution)).
 
 2023
 :   **Malick, M.J.**, J.P. Losee, G. Marston, M. Agha, B.A. Berejikian,
     B.R. Beckman, and M. Cooper. 2023. Fecundity trends of Chinook
     salmon in the Pacific Northwest. Fish and Fisheries 24: 454--465.
-    <https://doi.org/10.1111/faf.12738>.
+    <https://doi.org/10.1111/faf.12738>
+    ([Code](https://github.com/michaelmalick/chinook-fecundity-trends)).
 
 2023
 :   Phillips, E.M., **M.J. Malick**, S. Gauthier, M.A. Haltuch, M.E.
@@ -89,7 +91,8 @@ Current
     Kaplan. 2022. Recommendations for quantifying and reducing
     uncertainty in climate projections of species distributions. Global
     Change Biology 28:6586--6601 <https://doi.org/10.1111/gcb.16371>
-    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/brodie_etal_2022.pdf)).
+    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/brodie_etal_2022.pdf),
+    [Code](https://github.com/stephbrodie1/Projecting_SDMs)).
 
 2022
 :   Abookire, A.A., M.A. Litzow, **M.J. Malick**, and B.J. Laurel. 2022.
@@ -98,14 +101,16 @@ Current
     Fisheries and Aquatic Sciences 79:958--968
     <https://doi.org/10.1139/cjfas-2021-0224>
     ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/abookire_etal_2022.pdf),
-    Editor's Choice Award for 2022).
+    [Code](https://github.com/mikelitzow/GOA-cod), Editor's Choice Award
+    for 2022).
 
 2022
 :   Litzow, M.A., A.A. Abookire, J.T. Duffy-Anderson, B.J. Laurel,
     **M.J. Malick**, and L.A. Rogers. 2022. Predicting year class
     strength for climate-stressed gadid stocks in the Gulf of Alaska.
     Fisheries Research 249:106250
-    <https://doi.org/10.1016/j.fishres.2022.106250>.
+    <https://doi.org/10.1016/j.fishres.2022.106250>
+    ([Code](https://github.com/mikelitzow/predict-R)).
 
 2021
 :   Litzow, M.A., **M.J. Malick**, A.A. Abookire, J. Duffy-Anderson,
@@ -113,7 +118,8 @@ Current
     attribution statistic to inform judgments about changing fisheries
     sustainability. Scientific Reports 11:23924
     <https://doi.org/10.1038/s41598-021-03405-6>
-    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2021.pdf)).
+    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2021.pdf),
+    [Code](https://github.com/mikelitzow/fish-FAR)).
 
 2020
 :   **Malick, M.J.**, S.A. Siedlecki, E.L. Norton, I.C. Kaplan,
@@ -130,7 +136,8 @@ Current
     changes in PDO-climate and PDO-salmon relationships. Geophysical
     Research Letters 47:16 e2020GL087972
     <https://doi.org/10.1029/2020GL087972>
-    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2020.pdf)).
+    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2020.pdf),
+    [Code](https://github.com/mikelitzow/reversing-salmon-pdo)).
 
 2020
 :   Connors, B.*, **M.J. Malick***, G.T. Ruggerone*, P. Rand, M.
@@ -139,6 +146,7 @@ Current
     Northeast Pacific Ocean. Canadian Journal of Fisheries and Aquatic
     Sciences 77:943--949 <https://doi.org/10.1139/cjfas-2019-0422>
     ([PDF](https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/connors_etal_2020.pdf),
+    [Code](https://github.com/brendanmichaelconnors/sockeye-climate-competition),
     **Authors contributed equally*).
 
 2020
@@ -151,7 +159,8 @@ Current
 2020
 :   **Malick, M.J.** 2020. Time-varying relationships between ocean
     conditions and sockeye salmon productivity. Fisheries Oceanography
-    29:265--275 <https://doi.org/10.1111/fog.12469>.
+    29:265--275 <https://doi.org/10.1111/fog.12469>
+    ([Code](https://github.com/michaelmalick/sockeye-nonstationary)).
 
 2017
 :   **Malick, M.J.**, M.B. Rutherford, and S.P. Cox. 2017. Confronting

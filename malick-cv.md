@@ -63,13 +63,14 @@ Publications
 :   Litzow, M., **M.J. Malick**, T. Kristiansen, B. Connors, and G. Ruggerone. 2024.
     Climate attribution time series track the evolution of human influence on
     North Pacific sea surface temperature. Environmental Research Letters 19: 014014.
-    <https://doi.org/10.1088/1748-9326/ad0c88> ([PDF][Litzow:2024]).
+    <https://doi.org/10.1088/1748-9326/ad0c88> ([PDF][Litzow:2024],
+    [Code][Litzow:2024:code]).
 
 2023
 :   **Malick, M.J.**, J.P. Losee, G. Marston, M. Agha, B.A. Berejikian, B.R.
     Beckman, and M. Cooper. 2023. Fecundity trends of Chinook salmon in the
     Pacific Northwest. Fish and Fisheries 24: 454--465.
-    <https://doi.org/10.1111/faf.12738>.
+    <https://doi.org/10.1111/faf.12738> ([Code][Malick:2023:code]).
 
 2023
 :   Phillips, E.M., **M.J. Malick**, S. Gauthier, M.A. Haltuch, M.E. Hunsicker,
@@ -89,28 +90,29 @@ Publications
     **M.J. Malick**, ..., D. Tommasi, E.J. Ward, and I.C. Kaplan. 2022.
     Recommendations for quantifying and reducing uncertainty in climate
     projections of species distributions. Global Change Biology 28:6586–6601
-    <https://doi.org/10.1111/gcb.16371> ([PDF][Brodie:2022]).
+    <https://doi.org/10.1111/gcb.16371> ([PDF][Brodie:2022], [Code][Brodie:2022:code]).
 
 2022
 :   Abookire, A.A., M.A. Litzow, **M.J. Malick**, and B.J. Laurel. 2022.
     Post-settlement abundance, condition, and survival in a climate-stressed
     population of Pacific cod. Canadian Journal of Fisheries and Aquatic
     Sciences 79:958--968 <https://doi.org/10.1139/cjfas-2021-0224>
-    ([PDF][Abookire:2022], Editor's Choice Award for 2022).
+    ([PDF][Abookire:2022], [Code][Abookire:2022:code], Editor's Choice Award for 2022).
 
 
 2022
 :   Litzow, M.A., A.A. Abookire, J.T. Duffy-Anderson, B.J. Laurel,
     **M.J. Malick**, and L.A. Rogers. 2022. Predicting year class strength for
     climate-stressed gadid stocks in the Gulf of Alaska. Fisheries Research
-    249:106250 <https://doi.org/10.1016/j.fishres.2022.106250>.
+    249:106250 <https://doi.org/10.1016/j.fishres.2022.106250>
+    ([Code][Litzow:2022:code]).
 
 2021
 :   Litzow, M.A., **M.J. Malick**, A.A. Abookire, J. Duffy-Anderson, B.J.
     Laurel, P.H. Ressler, and L.A. Rogers. 2021. Using a climate attribution
     statistic to inform judgments about changing fisheries sustainability.
     Scientific Reports 11:23924 <https://doi.org/10.1038/s41598-021-03405-6>
-    ([PDF][Litzow:2021]).
+    ([PDF][Litzow:2021], [Code][Litzow:2021:code]).
 
 2020
 :   **Malick, M.J.**, S.A. Siedlecki, E.L. Norton, I.C. Kaplan, M.A. Haltuch,
@@ -123,14 +125,16 @@ Publications
 :   Litzow, M.A., **M.J. Malick**, N.A. Bond, C.J. Cunningham, J.L. Gosselin,
     and E.J. Ward. 2020. Quantifying a novel climate through changes in
     PDO-climate and PDO-salmon relationships. Geophysical Research Letters 47:16
-    e2020GL087972 <https://doi.org/10.1029/2020GL087972> ([PDF][Litzow:2020]).
+    e2020GL087972 <https://doi.org/10.1029/2020GL087972>
+    ([PDF][Litzow:2020], [Code][Litzow:2020:code]).
 
 2020
 :   Connors, B.\*, **M.J. Malick**\*, G.T. Ruggerone\*, P. Rand, M. Adkison,
     J.R. Irvine, R. Campbell, K. Gorman. 2020. Climate and competition influence
     sockeye salmon population dynamics across the Northeast Pacific Ocean.
     Canadian Journal of Fisheries and Aquatic Sciences 77:943--949
-    <https://doi.org/10.1139/cjfas-2019-0422> ([PDF][Connors:2020], \**Authors
+    <https://doi.org/10.1139/cjfas-2019-0422> ([PDF][Connors:2020],
+    [Code][Connors:2020:code], \**Authors
     contributed equally*).
 
 2020
@@ -142,7 +146,7 @@ Publications
 2020
 :   **Malick, M.J.** 2020. Time-varying relationships between ocean conditions
     and sockeye salmon productivity. Fisheries Oceanography 29:265--275
-    <https://doi.org/10.1111/fog.12469>.
+    <https://doi.org/10.1111/fog.12469> ([Code][Malick:2020:code]).
 
 2017
 :   **Malick, M.J.**, M.B. Rutherford, and S.P. Cox. 2017.
@@ -579,19 +583,28 @@ Field Experience
 [Slides:pices-2019]: https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_etal_pices2019.pdf
 
 [Connors:2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/connors_etal_2020.pdf
+[Connors:2020:code]:https://github.com/brendanmichaelconnors/sockeye-climate-competition
 [Litzow:2021]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2021.pdf
+[Litzow:2021:code]:https://github.com/mikelitzow/fish-FAR
 
 [nceasnews:2020]:https://www.nceas.ucsb.edu/news/disentangling-effects-competition-and-warming-ocean-sockeye-salmon-across-northeast-pacific
 
 [Slides:afs-2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_afs2020_slides.pdf
 [Slides:srg-2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_etal_hake_srg2020_website.pdf
 [Malick:2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/malick_etal_2020_forecast.pdf
+[Malick:2020:code]:https://github.com/michaelmalick/sockeye-nonstationary
 [Slides:afs-2021]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_idaho_afs2021_slides.pdf
 [slides:npafc-2021]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/slides/malick-npafc-2021-notes-slides.pdf
 [Malick:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/malick_etal_2022.pdf
 [Brodie:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/brodie_etal_2022.pdf
+[Brodie:2022:code]:https://github.com/stephbrodie1/Projecting_SDMs
 [Litzow:2020]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2020.pdf
+[Litzow:2020:code]:https://github.com/mikelitzow/reversing-salmon-pdo
+[Litzow:2022:code]:https://github.com/mikelitzow/predict-R
 [Abookire:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/abookire_etal_2022.pdf
+[Abookire:2022:code]:https://github.com/mikelitzow/GOA-cod
 [Slides:afs-2023]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/slides/malick_etal_afs2023_slides.pdf
 [Phillips:2023]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/phillips_etal_2023.pdf
+[Malick:2023:code]:https://github.com/michaelmalick/chinook-fecundity-trends
 [Litzow:2024]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2024.pdf
+[Litzow:2024:code]:https://github.com/mikelitzow/CMIP6-attribution
