@@ -202,6 +202,8 @@ Publications
 
 Awards and Scholarships
 -----------------------
+2023
+:   NOAA Northwest Fisheries Science Center IRA Research Grant
 
 2020
 :   NOAA Northwest Fisheries Science Center Internal Research Grant
@@ -243,6 +245,12 @@ Awards and Scholarships
 
 Invited and Conference Presentations
 ------------------------------------
+
+2024
+:   **Malick, M.J.** Nonstationarity in salmon ocean ecology research. Salmon
+    Ocean Ecology Annual Meeting, Olympia Washington, April 30 2024 (Invited
+    keynote, [Slides][Slides:soem-2024]).
+
 2023
 :   **Malick, M.J.**, J.P. Losee, G. Marston, M. Agha, B.A. Berejikian, B.R.
     Beckman, and M. Cooper. 2023. Fecundity trends of Chinook salmon in the
@@ -608,3 +616,4 @@ Field Experience
 [Malick:2023:code]:https://github.com/michaelmalick/chinook-fecundity-trends
 [Litzow:2024]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2024.pdf
 [Litzow:2024:code]:https://github.com/mikelitzow/CMIP6-attribution
+[Slides:soem-2024]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/slides/malick_soem_2024_slides.pdf

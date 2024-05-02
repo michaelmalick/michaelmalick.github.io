@@ -214,6 +214,9 @@ Current
 
 ## Awards and Scholarships
 
+2023
+:   NOAA Northwest Fisheries Science Center IRA Research Grant
+
 2020
 :   NOAA Northwest Fisheries Science Center Internal Research Grant
 
@@ -255,6 +258,12 @@ Current
 :   Certificate of Accomplishment for Grantsmanship
 
 ## Invited and Conference Presentations
+
+2024
+:   **Malick, M.J.** Nonstationarity in salmon ocean ecology research.
+    Salmon Ocean Ecology Annual Meeting, Olympia Washington, April 30
+    2024 (Invited keynote,
+    [Slides](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/slides/malick_soem_2024_slides.pdf)).
 
 2023
 :   **Malick, M.J.**, J.P. Losee, G. Marston, M. Agha, B.A. Berejikian,
