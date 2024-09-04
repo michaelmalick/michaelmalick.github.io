@@ -47,6 +47,21 @@ Current
 ## Publications
 
 2024
+:   Litzow, M.A., E.J. Fedewa, **M.J. Malick**, B.M. Connors, L. Eisner,
+    D.G. Kimmel, T. Kristiansen, J.M. Nielsen, and E.R. Ryznar. 2024.
+    Human-induced borealization leads to the collapse of Bering Sea snow
+    crab. Nature Climate Change.
+    <https://doi.org/10.1038/s41558-024-02093-0>
+    ([Code](https://github.com/AFSC-Shellfish-Assessment-Program/boreal-opie)).
+
+2024
+:   Moore, M.E., **M.J. Malick**, A.C. Thomas, M.M. Klungle, and B.A.
+    Berejikian. 2024. Harbor seal predation on migrating steelhead
+    smolts entering marine waters. Marine Ecology Progress Series 743:
+    139--157. <https://doi.org/10.3354/meps14639>
+    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/moore_etal_2024.pdf)).
+
+2024
 :   **Malick, M.J.**, M. Hunsicker, M.A. Haltuch, S.L. Parker-Stetter,
     K.N. Marshall, J. Pohl, A.M. Berger, S. Siedlecki, S. Gauthier,
     and A. Hermann. 2024. Spatially-varying effects of the California
