@@ -292,7 +292,7 @@ Invited and Conference Presentations
     Berger, K. Marshall, R. Brodeur, S. Siedlecki, N. Bond, A. Hermann, E.
     Norton, and S. Gauthier. Environmentally driven forecasts of Pacific hake
     distribution. Pacific Whiting Scientific Review Group annual meeting,
-    Seattle, Washington, February 27, 2019 ([Slides][Slides:srg-2020]).
+    Seattle, Washington, February 27, 2020 ([Slides][Slides:srg-2020]).
 
 2019
 :   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter, I. Kaplan, A.
@@ -508,11 +508,12 @@ Certifications & Services
 :   *Secretary:* AFS Student Subunit, University of Alaska Fairbanks
 
 Reviewer
-:   Global Change Biology, Fish and Fisheries, Progress in Oceanography,
-    Ecosphere, Canadian Journal of Fisheries and Aquatic Sciences, Marine
+:   Proceedings of the Royal Society B, Global Change Biology, Fish and
+    Fisheries, Progress in Oceanography, Ecosphere, Canadian Journal of
+    Fisheries and Aquatic Sciences, ICES Journal of Marine Science, Marine
     Ecology Progress Series, Transactions of the American Fisheries Society,
-    North American Journal of Fisheries Management, North Pacific Anadromous
-    Fish Commission
+    Environmetrics, North American Journal of Fisheries Management, North
+    Pacific Anadromous Fish Commission
 
 
 
