@@ -52,6 +52,13 @@ Education
 Publications
 ------------
 
+2025
+:   Fedewa, E. J.,  P. C. Jensen, H. J. Small, M. A. Litzow, **M. J. Malick**,
+    L. S. Zacher, W. C. Long, S. Kotwicki. 2025. Bitter crab disease dynamics in
+    eastern Bering Sea Tanner and snow crab: An underestimated and emergent
+    stressor. Fisheries Research 283: 107307
+    <https://doi.org/10.1016/j.fishres.2025.107307>.
+
 2024
 :   Litzow, M.A., E.J. Fedewa, **M.J. Malick**, B.M. Connors, L. Eisner,
     D.G. Kimmel, T. Kristiansen, J.M. Nielsen, and E.R. Ryznar. 2024.
