@@ -53,23 +53,23 @@ Publications
 ------------
 
 2025
-:   Fedewa, E. J.,  P. C. Jensen, H. J. Small, M. A. Litzow, **M. J. Malick**,
-    L. S. Zacher, W. C. Long, S. Kotwicki. 2025. Bitter crab disease dynamics in
+:   Fedewa, E.J.,  P.C. Jensen, H.J. Small, M.A. Litzow, **M.J. Malick**,
+    L.S. Zacher, W.C. Long, S. Kotwicki. 2025. Bitter crab disease dynamics in
     eastern Bering Sea Tanner and snow crab: An underestimated and emergent
-    stressor. Fisheries Research 283: 107307
+    stressor. Fisheries Research 283:107307
     <https://doi.org/10.1016/j.fishres.2025.107307>.
 
 2024
 :   Litzow, M.A., E.J. Fedewa, **M.J. Malick**, B.M. Connors, L. Eisner,
     D.G. Kimmel, T. Kristiansen, J.M. Nielsen, and E.R. Ryznar. 2024.
     Human-induced borealization leads to the collapse of Bering Sea snow crab.
-    Nature Climate Change. <https://doi.org/10.1038/s41558-024-02093-0>
+    Nature Climate Change 14:932--935. <https://doi.org/10.1038/s41558-024-02093-0>
     ([Code][Litzow:2024a:code]).
 
 2024
 :   Moore, M.E., **M.J. Malick**, A.C. Thomas, M.M. Klungle, and B.A.
     Berejikian. 2024. Harbor seal predation on migrating steelhead smolts
-    entering marine waters. Marine Ecology Progress Series 743: 139–157.
+    entering marine waters. Marine Ecology Progress Series 743:139--157.
     <https://doi.org/10.3354/meps14639> ([PDF][Moore:2024]).
 
 2024
@@ -82,21 +82,21 @@ Publications
 2024
 :   Litzow, M., **M.J. Malick**, T. Kristiansen, B. Connors, and G. Ruggerone. 2024.
     Climate attribution time series track the evolution of human influence on
-    North Pacific sea surface temperature. Environmental Research Letters 19: 014014.
+    North Pacific sea surface temperature. Environmental Research Letters 19:014014.
     <https://doi.org/10.1088/1748-9326/ad0c88> ([PDF][Litzow:2024],
     [Code][Litzow:2024:code]).
 
 2023
 :   **Malick, M.J.**, J.P. Losee, G. Marston, M. Agha, B.A. Berejikian, B.R.
     Beckman, and M. Cooper. 2023. Fecundity trends of Chinook salmon in the
-    Pacific Northwest. Fish and Fisheries 24: 454--465.
+    Pacific Northwest. Fish and Fisheries 24:454--465.
     <https://doi.org/10.1111/faf.12738> ([Code][Malick:2023:code]).
 
 2023
 :   Phillips, E.M., **M.J. Malick**, S. Gauthier, M.A. Haltuch, M.E. Hunsicker,
     S.L. Parker-Stetter, and R.E. Thomas. 2023. The influence of temperature on
     Pacific hake co-occurrence with euphausiids in the California Current
-    Ecosystem. Fisheries Oceanography 32:267–279
+    Ecosystem. Fisheries Oceanography 32:267-–279
     <https://doi.org/10.1111/fog.12628> ([PDF][Phillips:2023]).
 
 2022
