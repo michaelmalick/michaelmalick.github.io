@@ -53,23 +53,32 @@ Publications
 ------------
 
 2025
+:   Detmer, A. R., E. J. Ward, M. E. Hunsicker, K. S. Andrews, M. Conrad, B. E.
+    Ferriss, W. L. Hazen, K. K. Holsman, J. Indivero, S. I. Large, **M.J.
+    Malick**, K. N. Marshall, S. H. Munsch, K. L. Oken, W. H. Satterthwaite, S.
+    K. Shotwell, A. R. Thompson, and J. F. Samhouri. 2025. Evaluating the
+    robustness of generalized additive models as a tool for threshold detection
+    in variable environments. Ecosphere 16:e70117 <https://doi.org/10.1002/ecs2.70117>
+    ([PDF][Detmer:2025], [Code][Detmer:2025:code]).
+
+2025
 :   Fedewa, E.J.,  P.C. Jensen, H.J. Small, M.A. Litzow, **M.J. Malick**,
     L.S. Zacher, W.C. Long, S. Kotwicki. 2025. Bitter crab disease dynamics in
     eastern Bering Sea Tanner and snow crab: An underestimated and emergent
-    stressor. Fisheries Research 283:107307
-    <https://doi.org/10.1016/j.fishres.2025.107307>.
+    stressor. Fisheries Research 283:107307 <https://doi.org/10.1016/j.fishres.2025.107307>
+    ([Code][Fedewa:2025:code]).
 
 2024
 :   Litzow, M.A., E.J. Fedewa, **M.J. Malick**, B.M. Connors, L. Eisner,
     D.G. Kimmel, T. Kristiansen, J.M. Nielsen, and E.R. Ryznar. 2024.
     Human-induced borealization leads to the collapse of Bering Sea snow crab.
-    Nature Climate Change 14:932--935. <https://doi.org/10.1038/s41558-024-02093-0>
+    Nature Climate Change 14:932--935 <https://doi.org/10.1038/s41558-024-02093-0>
     ([Code][Litzow:2024a:code]).
 
 2024
 :   Moore, M.E., **M.J. Malick**, A.C. Thomas, M.M. Klungle, and B.A.
     Berejikian. 2024. Harbor seal predation on migrating steelhead smolts
-    entering marine waters. Marine Ecology Progress Series 743:139--157.
+    entering marine waters. Marine Ecology Progress Series 743:139--157
     <https://doi.org/10.3354/meps14639> ([PDF][Moore:2024]).
 
 2024
@@ -77,7 +86,7 @@ Publications
     Marshall, J. Pohl, A.M. Berger, S. Siedlecki, S. Gauthier, and A. Hermann. 2024.
     Spatially-varying effects of the California Undercurrent on
     Pacific hake distribution. Canadian Journal of Fisheries and Aquatic
-    Sciences 81:154--165. <https://doi.org/10.1139/cjfas-2023-0202>.
+    Sciences 81:154--165 <https://doi.org/10.1139/cjfas-2023-0202>.
 
 2024
 :   Litzow, M., **M.J. Malick**, T. Kristiansen, B. Connors, and G. Ruggerone. 2024.
@@ -640,3 +649,7 @@ Field Experience
 [Slides:soem-2024]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/slides/malick_soem_2024_slides.pdf
 [Moore:2024]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/moore_etal_2024.pdf
 [Litzow:2024a:code]:https://github.com/AFSC-Shellfish-Assessment-Program/boreal-opie
+[Detmer:2025:code]:https://github.com/nwfsc-cb/Threshold-Detection/tree/v1.0.0
+[Detmer:2025]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/detmer_etal_2025.pdf
+[Detmer:2025:code]:https://github.com/nwfsc-cb/Threshold-Detection/tree/v1.0.0
+[Fedewa:2025:code]:https://github.com/Erin-Fedewa-NOAA/BCS_2014-2017
