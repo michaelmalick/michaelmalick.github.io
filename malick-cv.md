@@ -53,12 +53,20 @@ Publications
 ------------
 
 2025
-:   Detmer, A. R., E. J. Ward, M. E. Hunsicker, K. S. Andrews, M. Conrad, B. E.
-    Ferriss, W. L. Hazen, K. K. Holsman, J. Indivero, S. I. Large, **M.J.
-    Malick**, K. N. Marshall, S. H. Munsch, K. L. Oken, W. H. Satterthwaite, S.
-    K. Shotwell, A. R. Thompson, and J. F. Samhouri. 2025. Evaluating the
-    robustness of generalized additive models as a tool for threshold detection
-    in variable environments. Ecosphere 16:e70117 <https://doi.org/10.1002/ecs2.70117>
+:   Feddern, M.L., E.J. Ward, M.A. Litzow, M.E. Hunsicker, M.G. Jacox, I.D.
+    Schroeder, W.H. Satterthwaite, C.J. Cunningham, N.A. Bond, **M.J. Malick**,
+    and B.J. Burke. 2025. Quantifying time‐dependent climate and ecosystem
+    relationships in the California Current System. Geophysical
+    Research Letters 52(10):e2024GL113431 <https://doi.org/10.1029/2024GL113431>
+    ([PDF][Feddern:2025], [Code][Feddern:2025:code]).
+
+2025
+:   Detmer, A.R., E.J. Ward, M.E. Hunsicker, K.S. Andrews, M. Conrad, B.E.
+    Ferriss, W.L. Hazen, K.K. Holsman, J. Indivero, S.I. Large, **M.J.
+    Malick**, K.N. Marshall, S.H. Munsch, K.L. Oken, W.H. Satterthwaite, S.K.
+    Shotwell, A.R. Thompson, and J.F. Samhouri. 2025. Evaluating the robustness
+    of generalized additive models as a tool for threshold detection in variable
+    environments. Ecosphere 16:e70117 <https://doi.org/10.1002/ecs2.70117>
     ([PDF][Detmer:2025], [Code][Detmer:2025:code]).
 
 2025
@@ -170,7 +178,8 @@ Publications
 :   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter, A.
     Berger, K. Marshall. 2020. Relationships between temperature and Pacific hake
     distribution vary across latitude and life-history stage. Marine Ecology
-    Progress Series 639:185--197 <https://doi.org/10.3354/meps13286>.
+    Progress Series 639:185--197 <https://doi.org/10.3354/meps13286>
+    ([PDF][Malick:2020a]).
 
 2020
 :   **Malick, M.J.** 2020. Time-varying relationships between ocean conditions
@@ -653,3 +662,6 @@ Field Experience
 [Detmer:2025]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/detmer_etal_2025.pdf
 [Detmer:2025:code]:https://github.com/nwfsc-cb/Threshold-Detection/tree/v1.0.0
 [Fedewa:2025:code]:https://github.com/Erin-Fedewa-NOAA/BCS_2014-2017
+[Feddern:2025:code]:https://github.com/mfeddern/Nonstationary_ClimateIndices
+[Feddern:2025]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/feddern_etal_2025.pdf
+[Malick:2020a]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/malick_etal_2020_temperature.pdf
