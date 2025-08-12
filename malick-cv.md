@@ -595,12 +595,10 @@ Field Experience
     underwater motion detection cameras.
 
 
-<!-- internal links -->
 [MalickCV]:../malick-cv.pdf
 [MalickCVtxt]:../malick-cv.txt
 
 
-<!--  github repos -->
 [rjags]:https://github.com/michaelmalick/r-jagstools
 [rersst]:https://github.com/michaelmalick/r-ersst
 [rcoda]:https://github.com/michaelmalick/r-codatools
@@ -608,12 +606,10 @@ Field Experience
 [PubGraph]:https://github.com/michaelmalick/pub-graphics
 
 
-<!-- external links -->
 [salmonnet:2017]:https://salmon-net.org/impacts-of-the-north-pacific-current-on-salmon-productivity
 [nceasnews:2020]:https://www.nceas.ucsb.edu/news/disentangling-effects-competition-and-warming-ocean-sockeye-salmon-across-northeast-pacific
 
 
-<!-- pub code -->
 [Connors:2020:code]:https://github.com/brendanmichaelconnors/sockeye-climate-competition
 [Litzow:2021:code]:https://github.com/mikelitzow/fish-FAR
 [Malick:2020:code]:https://github.com/michaelmalick/sockeye-nonstationary
@@ -630,7 +626,6 @@ Field Experience
 [Feddern:2025:code]:https://github.com/mfeddern/Nonstationary_ClimateIndices
 
 
-<!-- publications -->
 [UAF:Msc]:https://drive.google.com/file/d/1m0D29rlpsOob7xp3N_NocarDSH359q9x/view?usp=sharing
 [SFU:Phd]:https://drive.google.com/file/d/1KehJVe2bIJbpBEUWNzgoQIDogqgBxCya/view?usp=sharing
 [Malick:2009]:https://drive.google.com/file/d/15DSgWspKIJWgCjiPSCkhl37zPBN8D22R/view?usp=sharing
@@ -653,7 +648,6 @@ Field Experience
 [Feddern:2025]:https://drive.google.com/file/d/1m0w3HOei9_hduYXyWRzxr5CuQVjZFZCy/view?usp=sharing
 
 
-<!-- slides -->
 [Slides:afs-2015]:https://drive.google.com/file/d/1ZW1-K6tCukF2hWc3DwZPe3zsQ2pE-11F/view?usp=sharing
 [Poster:pices-2016]:https://drive.google.com/file/d/144I3ypgpRjnP-GeN7_IRvmINac7afucx/view?usp=sharing
 [Slides:sfu-seminar-2016]:https://drive.google.com/file/d/1_RaViUUtxxdcJuTsw7NVWPGYpx1wOy5D/view?usp=sharing

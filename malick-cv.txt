@@ -610,10 +610,3 @@ Reviewer
     Service, King Salmon, AK. Duties included remote field camp and
     salmon weir construction and maintenance, daily salmon counts both
     manually and using underwater motion detection cameras.
-
-<!-- internal links -->
-<!--  github repos -->
-<!-- external links -->
-<!-- pub code -->
-<!-- publications -->
-<!-- slides -->
