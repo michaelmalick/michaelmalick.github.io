@@ -595,73 +595,76 @@ Field Experience
     underwater motion detection cameras.
 
 
-[rjags]: https://github.com/michaelmalick/r-jagstools
-[rersst]: https://github.com/michaelmalick/r-ersst
-[rcoda]: https://github.com/michaelmalick/r-codatools
-[rchroma]: https://github.com/michaelmalick/r-chroma
+<!-- internal links -->
+[MalickCV]:../malick-cv.pdf
+[MalickCVtxt]:../malick-cv.txt
 
-[PubGraph]: https://github.com/michaelmalick/pub-graphics
-[PinkChum:2015]: https://github.com/michaelmalick/pink-chum-database
-[CBB:2015:bloom]: http://www.cbbulletin.com/433107.aspx
-[CBB:2015:network]: http://www.cbbulletin.com/435190.aspx
 
-[MalickCV]: ../malick-cv.pdf
-[MalickCVtxt]: ../malick-cv.txt
+<!--  github repos -->
+[rjags]:https://github.com/michaelmalick/r-jagstools
+[rersst]:https://github.com/michaelmalick/r-ersst
+[rcoda]:https://github.com/michaelmalick/r-codatools
+[rchroma]:https://github.com/michaelmalick/r-chroma
+[PubGraph]:https://github.com/michaelmalick/pub-graphics
 
-[SFU:Phd]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_phd_thesis_2017.pdf
-[Malick:2017]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2017.pdf
-[Malick:2016]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_cox_2016.pdf
-[Malick:2011]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2011.pdf
-[Malick:2009]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2009.pdf
-[UAF:Msc]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_msc_thesis_2008.pdf
 
-[Slides:phd-defense-2017]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_phd_defense_2017.pdf
-[Slides:sfu-seminar-2016]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_sfu_seminar_2016.pdf
-[Slides:afs-2015]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_afs2015_slides.pdf
-[Abstract:afs-2015]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_afs2015_extended_abstract.pdf
-[Poster:pices-2016]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_pices2016_poster.pdf
-
-[salmonnet:2017]: https://salmon-net.org/impacts-of-the-north-pacific-current-on-salmon-productivity
-
-[Slides:eccwo-2018]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_eccwo2018_slides.pdf
-
-[Slides:srg-2019]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_hake_srg2019_website.pdf
-
-[Slides:pices-2019]: https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_etal_pices2019.pdf
-
-[Connors:2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/connors_etal_2020.pdf
-[Connors:2020:code]:https://github.com/brendanmichaelconnors/sockeye-climate-competition
-[Litzow:2021]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2021.pdf
-[Litzow:2021:code]:https://github.com/mikelitzow/fish-FAR
-
+<!-- external links -->
+[salmonnet:2017]:https://salmon-net.org/impacts-of-the-north-pacific-current-on-salmon-productivity
 [nceasnews:2020]:https://www.nceas.ucsb.edu/news/disentangling-effects-competition-and-warming-ocean-sockeye-salmon-across-northeast-pacific
 
-[Slides:afs-2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_afs2020_slides.pdf
-[Slides:srg-2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_etal_hake_srg2020_website.pdf
-[Malick:2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/malick_etal_2020_forecast.pdf
+
+<!-- pub code -->
+[Connors:2020:code]:https://github.com/brendanmichaelconnors/sockeye-climate-competition
+[Litzow:2021:code]:https://github.com/mikelitzow/fish-FAR
 [Malick:2020:code]:https://github.com/michaelmalick/sockeye-nonstationary
-[Slides:afs-2021]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_idaho_afs2021_slides.pdf
-[slides:npafc-2021]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/slides/malick-npafc-2021-notes-slides.pdf
-[Malick:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/malick_etal_2022.pdf
-[Brodie:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/brodie_etal_2022.pdf
 [Brodie:2022:code]:https://github.com/stephbrodie1/Projecting_SDMs
-[Litzow:2020]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2020.pdf
 [Litzow:2020:code]:https://github.com/mikelitzow/reversing-salmon-pdo
 [Litzow:2022:code]:https://github.com/mikelitzow/predict-R
-[Abookire:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/abookire_etal_2022.pdf
 [Abookire:2022:code]:https://github.com/mikelitzow/GOA-cod
-[Slides:afs-2023]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/slides/malick_etal_afs2023_slides.pdf
-[Phillips:2023]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/phillips_etal_2023.pdf
 [Malick:2023:code]:https://github.com/michaelmalick/chinook-fecundity-trends
-[Litzow:2024]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2024.pdf
 [Litzow:2024:code]:https://github.com/mikelitzow/CMIP6-attribution
-[Slides:soem-2024]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/slides/malick_soem_2024_slides.pdf
-[Moore:2024]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/moore_etal_2024.pdf
 [Litzow:2024a:code]:https://github.com/AFSC-Shellfish-Assessment-Program/boreal-opie
 [Detmer:2025:code]:https://github.com/nwfsc-cb/Threshold-Detection/tree/v1.0.0
-[Detmer:2025]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/detmer_etal_2025.pdf
 [Detmer:2025:code]:https://github.com/nwfsc-cb/Threshold-Detection/tree/v1.0.0
 [Fedewa:2025:code]:https://github.com/Erin-Fedewa-NOAA/BCS_2014-2017
 [Feddern:2025:code]:https://github.com/mfeddern/Nonstationary_ClimateIndices
-[Feddern:2025]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/feddern_etal_2025.pdf
+
+
+<!-- publications -->
+[UAF:Msc]:https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_msc_thesis_2008.pdf
+[SFU:Phd]:https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_phd_thesis_2017.pdf
+[Malick:2009]:https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2009.pdf
+[Malick:2011]:https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2011.pdf
+[Abstract:afs-2015]:https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_afs2015_extended_abstract.pdf
+[Malick:2016]:https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_cox_2016.pdf
+[Malick:2017]:https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2017.pdf
+[Connors:2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/connors_etal_2020.pdf
+[Malick:2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/malick_etal_2020_forecast.pdf
 [Malick:2020a]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/malick_etal_2020_temperature.pdf
+[Litzow:2020]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2020.pdf
+[Litzow:2021]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2021.pdf
+[Malick:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/malick_etal_2022.pdf
+[Brodie:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/brodie_etal_2022.pdf
+[Abookire:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/abookire_etal_2022.pdf
+[Phillips:2023]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/phillips_etal_2023.pdf
+[Litzow:2024]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2024.pdf
+[Moore:2024]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/moore_etal_2024.pdf
+[Detmer:2025]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/detmer_etal_2025.pdf
+[Feddern:2025]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/feddern_etal_2025.pdf
+
+
+<!-- slides -->
+[Slides:afs-2015]:https://drive.google.com/file/d/1ZW1-K6tCukF2hWc3DwZPe3zsQ2pE-11F/view?usp=sharing
+[Poster:pices-2016]:https://drive.google.com/file/d/144I3ypgpRjnP-GeN7_IRvmINac7afucx/view?usp=sharing
+[Slides:sfu-seminar-2016]:https://drive.google.com/file/d/1_RaViUUtxxdcJuTsw7NVWPGYpx1wOy5D/view?usp=sharing
+[Slides:phd-defense-2017]:https://drive.google.com/file/d/18ydzrFJXv898DVM3x2VAD88HgAjVwlNu/view?usp=sharing
+[Slides:eccwo-2018]:https://drive.google.com/file/d/1BToob7oy3xzWdEeo0Qr7QBbiqOydpJCy/view?usp=sharing
+[Slides:srg-2019]:https://drive.google.com/file/d/1VhPfoQvY4Vf_mOdV5suDhm7KewpAqCqS/view?usp=sharing
+[Slides:pices-2019]:https://drive.google.com/file/d/1BURG5lO10-DvcYIhdMFPo4umYmATteYA/view?usp=sharing
+[Slides:afs-2020]:https://drive.google.com/file/d/15Ni3p7hRN2KtOdlFIreztlcMy3sZ9Az6/view?usp=sharing
+[Slides:srg-2020]:https://drive.google.com/file/d/1EaVFPm1JqE98UNiPmoLN6FARxPUEP-pr/view?usp=sharing
+[Slides:afs-2021]:https://drive.google.com/file/d/1CpDnnBWkuLP-V9Mg6D87tQSiaA2757ke/view?usp=sharing
+[Slides:npafc-2021]:https://drive.google.com/file/d/1ZkVvwQZv93hh9TIZW-kSF32orrjSjuJN/view?usp=sharing
+[Slides:afs-2023]:https://drive.google.com/file/d/1yga-SW10W8KQNeK7JzdCPkRjYvupNWh-/view?usp=sharing
+[Slides:soem-2024]:https://drive.google.com/file/d/14zpqUzg2f8eTmLG5DmSSt5AjwYySion6/view?usp=sharing
+
