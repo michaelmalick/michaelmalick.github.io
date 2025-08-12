@@ -631,26 +631,26 @@ Field Experience
 
 
 <!-- publications -->
-[UAF:Msc]:https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_msc_thesis_2008.pdf
-[SFU:Phd]:https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_phd_thesis_2017.pdf
-[Malick:2009]:https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2009.pdf
-[Malick:2011]:https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2011.pdf
-[Abstract:afs-2015]:https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_afs2015_extended_abstract.pdf
-[Malick:2016]:https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_cox_2016.pdf
-[Malick:2017]:https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2017.pdf
-[Connors:2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/connors_etal_2020.pdf
-[Malick:2020]:https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/malick_etal_2020_forecast.pdf
-[Malick:2020a]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/malick_etal_2020_temperature.pdf
-[Litzow:2020]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2020.pdf
-[Litzow:2021]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2021.pdf
-[Malick:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/malick_etal_2022.pdf
-[Brodie:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/brodie_etal_2022.pdf
-[Abookire:2022]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/abookire_etal_2022.pdf
-[Phillips:2023]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/phillips_etal_2023.pdf
-[Litzow:2024]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2024.pdf
-[Moore:2024]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/moore_etal_2024.pdf
-[Detmer:2025]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/detmer_etal_2025.pdf
-[Feddern:2025]:https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/feddern_etal_2025.pdf
+[UAF:Msc]:https://drive.google.com/file/d/1m0D29rlpsOob7xp3N_NocarDSH359q9x/view?usp=sharing
+[SFU:Phd]:https://drive.google.com/file/d/1KehJVe2bIJbpBEUWNzgoQIDogqgBxCya/view?usp=sharing
+[Malick:2009]:https://drive.google.com/file/d/15DSgWspKIJWgCjiPSCkhl37zPBN8D22R/view?usp=sharing
+[Malick:2011]:https://drive.google.com/file/d/1HvHKxXnB0tp7KO_Y1FwnIqI-pntrSyTb/view?usp=sharing
+[Abstract:afs-2015]:https://drive.google.com/file/d/1yHIEYYlUKVzydsA57tmo08IxhtvUHKkU/view?usp=sharing
+[Malick:2016]:https://drive.google.com/file/d/1o2K7M1fNIk2v4Bup4J8IeN7dGEACq-7u/view?usp=sharing
+[Malick:2017]:https://drive.google.com/file/d/1UqwzLB14-WsPuFHTKtvLTK7QH6I1HTDt/view?usp=sharing
+[Connors:2020]:https://drive.google.com/file/d/1OaUyrzc7JF8RiPapsPuUEN3A73A3YrxZ/view?usp=sharing
+[Malick:2020]:https://drive.google.com/file/d/1MzYzvpZjo2CYVTBnwSkwmcSewSEA6qsp/view?usp=sharing
+[Malick:2020a]:https://drive.google.com/file/d/1xNrG_o0WhZNgszF1qBISuCyCE5PiItm_/view?usp=sharing
+[Litzow:2020]:https://drive.google.com/file/d/1zm-41HbUep9yOjmzqWoz-qb0XQDe7ZM6/view?usp=sharing
+[Litzow:2021]:https://drive.google.com/file/d/1rHagM4Zuuu_CbSQz-kYVymj_sAds3y0v/view?usp=sharing
+[Malick:2022]:https://drive.google.com/file/d/1xHbBQ38eQA5cuW8R2_1HwqO4JafI2-jA/view?usp=sharing
+[Brodie:2022]:https://drive.google.com/file/d/1G7OO8zRMIpvNbCUM6I5ZziFcxCeHepF6/view?usp=sharing
+[Abookire:2022]:https://drive.google.com/file/d/1o_j1iLed1T8mQGj2ZUASS5BFSHterda0/view?usp=sharing
+[Phillips:2023]:https://drive.google.com/file/d/17ZFM2ACujxHb8nj1E8HcnmQDnY-9qwTL/view?usp=sharing
+[Litzow:2024]:https://drive.google.com/file/d/1H46ew3HALElHB-SOK4VC8jN5TSf68HRc/view?usp=sharing
+[Moore:2024]:https://drive.google.com/file/d/1Z6xnJxwbIBjZZcaAYaWpvj7uFBkijPzr/view?usp=sharing
+[Detmer:2025]:https://drive.google.com/file/d/1I30pw0euoHaaDlTcFn7EN_DDRTyyk8gN/view?usp=sharing
+[Feddern:2025]:https://drive.google.com/file/d/1m0w3HOei9_hduYXyWRzxr5CuQVjZFZCy/view?usp=sharing
 
 
 <!-- slides -->

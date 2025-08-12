@@ -27,14 +27,14 @@ Current
 :   Ph.D. Simon Fraser University, Burnaby, BC
     Thesis: Multi-scale environmental forcing of Pacific salmon
     population dynamics
-    ([PDF](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_phd_thesis_2017.pdf))
+    ([PDF](https://drive.google.com/file/d/1KehJVe2bIJbpBEUWNzgoQIDogqgBxCya/view?usp=sharing))
     Advisors: Sean Cox and Randall Peterman
 
 2006--08
 :   M.Sc. University of Alaska Fairbanks, Juneau, AK
     Thesis: Variable effects of biological and environmental processes
     on coho salmon marine survival in Southeast Alaska
-    ([PDF](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_msc_thesis_2008.pdf))
+    ([PDF](https://drive.google.com/file/d/1m0D29rlpsOob7xp3N_NocarDSH359q9x/view?usp=sharing))
     Advisor: Milo D. Adkison
 
 2002--06
@@ -53,7 +53,7 @@ Current
     climate and ecosystem relationships in the California Current
     System. Geophysical Research Letters 52(10):e2024GL113431
     <https://doi.org/10.1029/2024GL113431>
-    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/feddern_etal_2025.pdf),
+    ([PDF](https://drive.google.com/file/d/1m0w3HOei9_hduYXyWRzxr5CuQVjZFZCy/view?usp=sharing),
     [Code](https://github.com/mfeddern/Nonstationary_ClimateIndices)).
 
 2025
@@ -64,7 +64,7 @@ Current
     Samhouri. 2025. Evaluating the robustness of generalized additive
     models as a tool for threshold detection in variable environments.
     Ecosphere 16:e70117 <https://doi.org/10.1002/ecs2.70117>
-    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/detmer_etal_2025.pdf),
+    ([PDF](https://drive.google.com/file/d/1I30pw0euoHaaDlTcFn7EN_DDRTyyk8gN/view?usp=sharing),
     [Code](https://github.com/nwfsc-cb/Threshold-Detection/tree/v1.0.0)).
 
 2025
@@ -88,7 +88,7 @@ Current
     Berejikian. 2024. Harbor seal predation on migrating steelhead
     smolts entering marine waters. Marine Ecology Progress Series
     743:139--157 <https://doi.org/10.3354/meps14639>
-    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/moore_etal_2024.pdf)).
+    ([PDF](https://drive.google.com/file/d/1Z6xnJxwbIBjZZcaAYaWpvj7uFBkijPzr/view?usp=sharing)).
 
 2024
 :   **Malick, M.J.**, M. Hunsicker, M.A. Haltuch, S.L. Parker-Stetter,
@@ -104,7 +104,7 @@ Current
     of human influence on North Pacific sea surface temperature.
     Environmental Research Letters 19:014014.
     <https://doi.org/10.1088/1748-9326/ad0c88>
-    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2024.pdf),
+    ([PDF](https://drive.google.com/file/d/1H46ew3HALElHB-SOK4VC8jN5TSf68HRc/view?usp=sharing),
     [Code](https://github.com/mikelitzow/CMIP6-attribution)).
 
 2023
@@ -120,14 +120,14 @@ Current
     of temperature on Pacific hake co-occurrence with euphausiids in the
     California Current Ecosystem. Fisheries Oceanography 32:267---279
     <https://doi.org/10.1111/fog.12628>
-    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/phillips_etal_2023.pdf)).
+    ([PDF](https://drive.google.com/file/d/17ZFM2ACujxHb8nj1E8HcnmQDnY-9qwTL/view?usp=sharing)).
 
 2022
 :   **Malick, M.J.**, M.E. Moore, and B.A. Berejikian. 2022. Higher
     early marine mortality of steelhead associated with releases of
     hatchery coho salmon but not Chinook salmon. Marine and Coastal
     Fisheries 14:e10225 <https://doi.org/10.1002/mcf2.10225>
-    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/malick_etal_2022.pdf)).
+    ([PDF](https://drive.google.com/file/d/1xHbBQ38eQA5cuW8R2_1HwqO4JafI2-jA/view?usp=sharing)).
 
 2022
 :   Brodie, S., J.A. Smith, B.A. Muhling, L.A.K. Barnett, G. Carroll,
@@ -135,7 +135,7 @@ Current
     Kaplan. 2022. Recommendations for quantifying and reducing
     uncertainty in climate projections of species distributions. Global
     Change Biology 28:6586--6601 <https://doi.org/10.1111/gcb.16371>
-    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/brodie_etal_2022.pdf),
+    ([PDF](https://drive.google.com/file/d/1G7OO8zRMIpvNbCUM6I5ZziFcxCeHepF6/view?usp=sharing),
     [Code](https://github.com/stephbrodie1/Projecting_SDMs)).
 
 2022
@@ -144,7 +144,7 @@ Current
     climate-stressed population of Pacific cod. Canadian Journal of
     Fisheries and Aquatic Sciences 79:958--968
     <https://doi.org/10.1139/cjfas-2021-0224>
-    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/abookire_etal_2022.pdf),
+    ([PDF](https://drive.google.com/file/d/1o_j1iLed1T8mQGj2ZUASS5BFSHterda0/view?usp=sharing),
     [Code](https://github.com/mikelitzow/GOA-cod), Editor's Choice Award
     for 2022).
 
@@ -162,7 +162,7 @@ Current
     attribution statistic to inform judgments about changing fisheries
     sustainability. Scientific Reports 11:23924
     <https://doi.org/10.1038/s41598-021-03405-6>
-    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2021.pdf),
+    ([PDF](https://drive.google.com/file/d/1rHagM4Zuuu_CbSQz-kYVymj_sAds3y0v/view?usp=sharing),
     [Code](https://github.com/mikelitzow/fish-FAR)).
 
 2020
@@ -172,7 +172,7 @@ Current
     Environmentally driven seasonal forecasts of Pacific hake
     distribution. Frontiers in Marine Science 7:578490
     <https://doi.org/10.3389/fmars.2020.578490>
-    ([PDF](https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/malick_etal_2020_forecast.pdf)).
+    ([PDF](https://drive.google.com/file/d/1MzYzvpZjo2CYVTBnwSkwmcSewSEA6qsp/view?usp=sharing)).
 
 2020
 :   Litzow, M.A., **M.J. Malick**, N.A. Bond, C.J. Cunningham, J.L.
@@ -180,7 +180,7 @@ Current
     changes in PDO-climate and PDO-salmon relationships. Geophysical
     Research Letters 47:16 e2020GL087972
     <https://doi.org/10.1029/2020GL087972>
-    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/litzow_etal_2020.pdf),
+    ([PDF](https://drive.google.com/file/d/1zm-41HbUep9yOjmzqWoz-qb0XQDe7ZM6/view?usp=sharing),
     [Code](https://github.com/mikelitzow/reversing-salmon-pdo)).
 
 2020
@@ -189,7 +189,7 @@ Current
     competition influence sockeye salmon population dynamics across the
     Northeast Pacific Ocean. Canadian Journal of Fisheries and Aquatic
     Sciences 77:943--949 <https://doi.org/10.1139/cjfas-2019-0422>
-    ([PDF](https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/papers/connors_etal_2020.pdf),
+    ([PDF](https://drive.google.com/file/d/1OaUyrzc7JF8RiPapsPuUEN3A73A3YrxZ/view?usp=sharing),
     [Code](https://github.com/brendanmichaelconnors/sockeye-climate-competition),
     **Authors contributed equally*).
 
@@ -199,7 +199,7 @@ Current
     Pacific hake distribution vary across latitude and life-history
     stage. Marine Ecology Progress Series 639:185--197
     <https://doi.org/10.3354/meps13286>
-    ([PDF](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/papers/malick_etal_2020_temperature.pdf)).
+    ([PDF](https://drive.google.com/file/d/1xNrG_o0WhZNgszF1qBISuCyCE5PiItm_/view?usp=sharing)).
 
 2020
 :   **Malick, M.J.** 2020. Time-varying relationships between ocean
@@ -218,14 +218,14 @@ Current
     Peterman. 2017. Effects of the North Pacific Current on the
     productivity of 163 Pacific salmon stocks. Fisheries Oceanography
     26:268--281 <https://doi.org/10.1111/fog.12190>
-    ([PDF](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2017.pdf)).
+    ([PDF](https://drive.google.com/file/d/1UqwzLB14-WsPuFHTKtvLTK7QH6I1HTDt/view?usp=sharing)).
 
 2016
 :   **Malick, M.J.** and S.P. Cox. 2016. Regional-scale declines in
     productivity of pink and chum salmon stocks in western North
     America. PLoS ONE 11:e0146009
     <https://doi.org/10.1371/journal.pone.0146009>
-    ([PDF](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_cox_2016.pdf)).
+    ([PDF](https://drive.google.com/file/d/1o2K7M1fNIk2v4Bup4J8IeN7dGEACq-7u/view?usp=sharing)).
 
 2015
 :   **Malick, M.J.**, S.P. Cox, R.M. Peterman, T.C. Wainwright, and W.T.
@@ -248,14 +248,14 @@ Current
     juvenile pink salmon in the Northern Gulf of Alaska. Marine and
     Coastal Fisheries 3:261--270
     <https://doi.org/10.1080/19425120.2011.593467>
-    ([PDF](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2011.pdf)).
+    ([PDF](https://drive.google.com/file/d/1HvHKxXnB0tp7KO_Y1FwnIqI-pntrSyTb/view?usp=sharing)).
 
 2009
 :   **Malick, M.J.**, M.D. Adkison, and A.C. Wertheimer. 2009. Variable
     effects of biological and environmental processes on coho salmon
     marine survival in Southeast Alaska. Transactions of the American
     Fisheries Society 138:846--860 <https://doi.org/10.1577/T08-177.1>
-    ([PDF](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/papers/malick_etal_2009.pdf)).
+    ([PDF](https://drive.google.com/file/d/15DSgWspKIJWgCjiPSCkhl37zPBN8D22R/view?usp=sharing)).
 
 ## Awards and Scholarships
 
@@ -271,14 +271,14 @@ Current
 2016
 :   Best Poster Presentation, PICES Annual Meeting, San Diego, CA,
     Fisheries Science Section
-    ([Poster](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_pices2016_poster.pdf))
+    ([Poster](https://drive.google.com/file/d/144I3ypgpRjnP-GeN7_IRvmINac7afucx/view?usp=sharing))
 
 2015
 :   Best Student Presentation, AFS National Meeting, Portland, OR,
     Honorable Mention
-    ([Slides](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_afs2015_slides.pdf),
+    ([Slides](https://drive.google.com/file/d/1ZW1-K6tCukF2hWc3DwZPe3zsQ2pE-11F/view?usp=sharing),
     [Extended
-    abstract](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_afs2015_extended_abstract.pdf))
+    abstract](https://drive.google.com/file/d/1yHIEYYlUKVzydsA57tmo08IxhtvUHKkU/view?usp=sharing))
 
 2014--15
 :   Ph.D. Graduate Fellowship, Simon Fraser University
@@ -308,34 +308,34 @@ Current
 :   **Malick, M.J.** Nonstationarity in salmon ocean ecology research.
     Salmon Ocean Ecology Annual Meeting, Olympia Washington, April 30
     2024 (Invited keynote,
-    [Slides](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/slides/malick_soem_2024_slides.pdf)).
+    [Slides](https://drive.google.com/file/d/14zpqUzg2f8eTmLG5DmSSt5AjwYySion6/view?usp=sharing)).
 
 2023
 :   **Malick, M.J.**, J.P. Losee, G. Marston, M. Agha, B.A. Berejikian,
     B.R. Beckman, and M. Cooper. 2023. Fecundity trends of Chinook
     salmon in the Pacific Northwest. Western Division of the American
     Fisheries Society Annual Meeting, Boise, Idaho, May 11, 2023
-    ([Slides](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/slides/malick_etal_afs2023_slides.pdf)).
+    ([Slides](https://drive.google.com/file/d/1yga-SW10W8KQNeK7JzdCPkRjYvupNWh-/view?usp=sharing)).
 
 2021
 :   **Malick, M.J.** Non-stationary drivers of Pacific salmon
     productivity. North Pacific Anadromous Fish Commission Workshop:
     Linkages between Pacific Salmon Production and Environmental
     Changes, May 25, 2021 (Invited keynote,
-    [Slides](https://michaelmalick-com-public.s3.us-west-2.amazonaws.com/slides/malick-npafc-2021-notes-slides.pdf)).
+    [Slides](https://drive.google.com/file/d/1ZkVvwQZv93hh9TIZW-kSF32orrjSjuJN/view?usp=sharing)).
 
 2021
 :   **Malick, M.J.** Effects of the North Pacific Current on Pacific
     salmon productivity vary across time and space. Fish without Borders
     Symposium, Idaho Chapter of the American Fisheries Society, March 1,
     2021 (Invited,
-    [Slides](https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_idaho_afs2021_slides.pdf)).
+    [Slides](https://drive.google.com/file/d/1CpDnnBWkuLP-V9Mg6D87tQSiaA2757ke/view?usp=sharing)).
 
 2020
 :   **Malick, M.J.** Time-varying relationships between ocean conditions
     and sockeye salmon productivity. American Fisheries Society Annual
     Meeting. Held virtually. September 15, 2020
-    ([Slides](https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_afs2020_slides.pdf)).
+    ([Slides](https://drive.google.com/file/d/15Ni3p7hRN2KtOdlFIreztlcMy3sZ9Az6/view?usp=sharing)).
 
 2020
 :   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter, I.
@@ -343,7 +343,7 @@ Current
     Bond, A. Hermann, E. Norton, and S. Gauthier. Environmentally driven
     forecasts of Pacific hake distribution. Pacific Whiting Scientific
     Review Group annual meeting, Seattle, Washington, February 27, 2020
-    ([Slides](https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_etal_hake_srg2020_website.pdf)).
+    ([Slides](https://drive.google.com/file/d/1EaVFPm1JqE98UNiPmoLN6FARxPUEP-pr/view?usp=sharing)).
 
 2019
 :   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter, I.
@@ -351,7 +351,7 @@ Current
     Norton. Skill and uncertainty of environmentally driven forecasts of
     Pacific hake distribution. PICES Annual Meeting, Victoria, BC.
     October 22, 2019
-    ([Slides](https://michaelmalick-com-public.s3-us-west-2.amazonaws.com/slides/malick_etal_pices2019.pdf)).
+    ([Slides](https://drive.google.com/file/d/1BURG5lO10-DvcYIhdMFPo4umYmATteYA/view?usp=sharing)).
 
 2019
 :   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter, I.
@@ -359,7 +359,7 @@ Current
     Bond, A. Hermann, E. Norton, and J. Newton. Distribution of Pacific
     hake in a variable environment. Pacific Whiting Scientific Review
     Group annual meeting, Victoria, British Columbia, February 20, 2019
-    ([Slides](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_hake_srg2019_website.pdf)).
+    ([Slides](https://drive.google.com/file/d/1VhPfoQvY4Vf_mOdV5suDhm7KewpAqCqS/view?usp=sharing)).
 
 2018
 :   **Malick, M.J.**, M. Hunsicker, M. Haltuch, S. Parker-Stetter, I.
@@ -368,37 +368,37 @@ Current
     Pacific hake distribution in the California Current. International
     Symposium on the Effects of Climate Change on the World's Oceans,
     Washington, D.C. June 7, 2018
-    ([Slides](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_eccwo2018_slides.pdf)).
+    ([Slides](https://drive.google.com/file/d/1BToob7oy3xzWdEeo0Qr7QBbiqOydpJCy/view?usp=sharing)).
 
 2017
 :   **Malick, M.J.** Multi-scale environmental forcing of Pacific salmon
     population dynamics. Ph.D. thesis defense. School of Resource and
     Environmental Management, Simon Fraser University, Burnaby, BC. May
     16, 2017
-    ([Slides](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_phd_defense_2017.pdf)).
+    ([Slides](https://drive.google.com/file/d/18ydzrFJXv898DVM3x2VAD88HgAjVwlNu/view?usp=sharing)).
 
 2016
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, B. Dorner, and R.M.
     Peterman. Effects of the North Pacific Current on productivity of
     163 Pacific salmon stocks. Poster. PICES Annual Meeting, San Diego,
     CA. November 15, 2016
-    ([Poster](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_pices2016_poster.pdf)).
+    ([Poster](https://drive.google.com/file/d/144I3ypgpRjnP-GeN7_IRvmINac7afucx/view?usp=sharing)).
 
 2016
 :   **Malick, M.J.** Environmental drivers of spatial and temporal
     variability in Pacific salmon productivity. Resource & Environmental
     Management Departmental Seminar, Simon Fraser University, Burnaby,
     BC. March 7, 2016
-    ([Slides](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_sfu_seminar_2016.pdf)).
+    ([Slides](https://drive.google.com/file/d/1_RaViUUtxxdcJuTsw7NVWPGYpx1wOy5D/view?usp=sharing)).
 
 2015
 :   **Malick, M.J.**, S.P. Cox, F.J. Mueter, and R.M. Peterman. Linking
     phytoplankton phenology to pink salmon productivity along a
     north-south gradient. American Fisheries Society Annual Meeting,
     Portland, OR. August 17, 2015
-    ([Slides](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_afs2015_slides.pdf),
+    ([Slides](https://drive.google.com/file/d/1ZW1-K6tCukF2hWc3DwZPe3zsQ2pE-11F/view?usp=sharing),
     [Extended
-    abstract](https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/slides/malick_etal_afs2015_extended_abstract.pdf)).
+    abstract](https://drive.google.com/file/d/1yHIEYYlUKVzydsA57tmo08IxhtvUHKkU/view?usp=sharing)).
 
 2014
 :   **Malick, M.J.**, R.M. Peterman, and S.P. Cox. Stock-recruitment
@@ -610,3 +610,10 @@ Reviewer
     Service, King Salmon, AK. Duties included remote field camp and
     salmon weir construction and maintenance, daily salmon counts both
     manually and using underwater motion detection cameras.
+
+<!-- internal links -->
+<!--  github repos -->
+<!-- external links -->
+<!-- pub code -->
+<!-- publications -->
+<!-- slides -->
