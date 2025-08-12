@@ -69,17 +69,17 @@ language to analyze independent datasets.
 [P2]: /r-intro/problems/pinks.csv
 
 
-[T1]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/1_basics.pdf
-[T2]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/2_data_structures.pdf
-[T3]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/3_reading_writing_data.pdf
-[T4]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/4_data_manipulation.pdf
-[T5]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/5_base_graphics.pdf
-[T6]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/6_lattice_graphics.pdf
-[T7]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/7_data_summaries.pdf
-[T8]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/8_statistical_models.pdf
-[T9]:  https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/9_for_loops.pdf
-[T10]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/10_writing_functions.pdf
+[T1]:  https://drive.google.com/file/d/1Ir_9ZK2V33R7YUYfGwoaSnAh4Nv-B7oV/view?usp=sharing
+[T2]:  https://drive.google.com/file/d/1Easw_3PKxVi58g2Slqj4GEvTMhrjZybh/view?usp=sharing
+[T3]:  https://drive.google.com/file/d/1g8_T1GrmnEBI907aeu5Pi482Y7Atonf7/view?usp=sharing
+[T4]:  https://drive.google.com/file/d/1TerbY7xIQg6ZP4JJ3TJJENPd8J2NwGht/view?usp=sharing
+[T5]:  https://drive.google.com/file/d/1zSJKZf7TZEmQjQan_RwKfb2IJviALMo9/view?usp=sharing
+[T6]:  https://drive.google.com/file/d/1zTaWHtV2uTGIEPXuEP6eP365wodkQeV8/view?usp=sharing
+[T7]:  https://drive.google.com/file/d/1BJpW2yOaOhmJ7bsQf8jBFbZP4NlB35wr/view?usp=sharing
+[T8]:  https://drive.google.com/file/d/1pHcHdypEx-GYma0BRUgSKuIp6aYRT8r2/view?usp=sharing
+[T9]:  https://drive.google.com/file/d/1Xxcg2hYFaPxnwzvbkY97rAkZC61Jsqm5/view?usp=sharing
+[T10]: https://drive.google.com/file/d/1Nt8sjbRAdEYITKomwjFdhX3r4C7iGDar/view?usp=sharing
 
-[E1]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/example_base_graphics.pdf
-[E2]: https://s3-us-west-2.amazonaws.com/michaelmalick-com-public/r-intro/example_lattice_graphics.pdf
+[E1]: https://drive.google.com/file/d/1GBRneL8XKgr0XTYHbB_TaYTSIA_9A_Mx/view?usp=sharing
+[E2]: https://drive.google.com/file/d/1ElG-SRllert42YPlP_Y_Cya-q4nEtqPa/view?usp=sharing
 
