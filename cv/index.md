@@ -52,6 +52,16 @@ Education
 Publications
 ------------
 
+
+
+2025
+:   Berejikian, B.A., **M.J. Malick**, J. Lee-Waltermire, M. Downen, K. Shelby,
+    R. Endicott and A. Batista. 2025. Conservation hatchery effects on the
+    abundance and spawn timing of natural steelhead populations: A replicated,
+    before-after-control-impact experiment in the Hood Canal Watershed. Canadian
+    Journal of Fisheries and Aquatic Sciences 82:1--16
+    <https://doi.org/10.1139/cjfas-2024-0396> ([Code][Berejikian:2025:code]).
+
 2025
 :   Feddern, M.L., E.J. Ward, M.A. Litzow, M.E. Hunsicker, M.G. Jacox, I.D.
     Schroeder, W.H. Satterthwaite, C.J. Cunningham, N.A. Bond, **M.J. Malick**,
@@ -624,6 +634,7 @@ Field Experience
 [Detmer:2025:code]:https://github.com/nwfsc-cb/Threshold-Detection/tree/v1.0.0
 [Fedewa:2025:code]:https://github.com/Erin-Fedewa-NOAA/BCS_2014-2017
 [Feddern:2025:code]:https://github.com/mfeddern/Nonstationary_ClimateIndices
+[Berejikian:2025:code]:https://github.com/noaa-nwfsc/hood-canal-steelhead-redds
 
 
 [UAF:Msc]:https://drive.google.com/file/d/1m0D29rlpsOob7xp3N_NocarDSH359q9x/view?usp=sharing
