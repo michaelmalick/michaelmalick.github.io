@@ -56,7 +56,7 @@ Publications
 
 2025
 :   Berejikian, B.A., **M.J. Malick**, J. Lee-Waltermire, M. Downen, K. Shelby,
-    R. Endicott and A. Batista. 2025. Conservation hatchery effects on the
+    R. Endicott, and A. Batista. 2025. Conservation hatchery effects on the
     abundance and spawn timing of natural steelhead populations: A replicated,
     before-after-control-impact experiment in the Hood Canal Watershed. Canadian
     Journal of Fisheries and Aquatic Sciences 82:1--16
