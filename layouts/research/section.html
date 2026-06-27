@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ range .Pages.ByDate.Reverse }}
-<article class="post">
+<article>
   <a href="{{ .RelPermalink }}">
     <img src="/research/{{ .Params.image }}" class="img_research">
   </a>
