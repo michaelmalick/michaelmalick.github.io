@@ -5,30 +5,32 @@ MICHAEL MALICK
 
 
 
-/* Import Google fonts
+/* Reset
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; }
+img { max-width: 100%; height: auto; }
 
 
 
 /* Layout
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
-  max-width: 95rem;
+  max-width: 60rem;
   margin: 0 auto;
-  padding: 1rem;
+  padding: 1.875rem 0.625rem 0.625rem;
 }
 
 .layout {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 1.5rem;
+  gap: 1rem;
 }
 
 @media (min-width: 700px) {
   .layout {
-    grid-template-columns: 27rem 1fr;
-    gap: 2.5rem;
+    grid-template-columns: 17rem 1fr;
+    gap: 1.5rem;
   }
 }
 
@@ -36,24 +38,14 @@ MICHAEL MALICK
   grid-column: 1 / -1;  /* span both columns when present */
 }
 
-.container {
-  padding-top: 3rem;
-}
-
 
 /* Base styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-/* NOTE
-html is set to 62.5% so that all the REM measurements
-are based on 10px sizing: 1rem = 10px */
-html {
-    font-size: 62.5%;
-}
 body {
-    font-size: 1.6em; /* bug in chrome, use em */
+    font-size: 1rem;
     line-height: 1.7;
     font-weight: 400;
-    font-family: "Open Sans", Helvetica, sans-serif;
+    font-family: system-ui, sans-serif;
     color: #333333;
 }
 
@@ -62,17 +54,17 @@ body {
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3, h4, h5, h6 {
-    margin-top: 2.2rem;
-    margin-bottom: 1rem;
+    margin-top: 1.375rem;
+    margin-bottom: 0.625rem;
     color: #4A525A;
     font-weight: 300;
 }
-h1 {font-size: 4.0rem; line-height: 1.2;  letter-spacing: -.1rem;}
-h2 {font-size: 3.0rem; line-height: 1.25; letter-spacing: -.1rem;}
-h3 {font-size: 2.0rem; line-height: 1.3;  letter-spacing: -.1rem;}
-h4 {font-size: 1.5rem;}
-h5 {font-size: 1.5rem;}
-h6 {font-size: 1.5rem;}
+h1 {font-size: 2.5rem;   line-height: 1.2;}
+h2 {font-size: 1.875rem; line-height: 1.25;}
+h3 {font-size: 1.25rem;  line-height: 1.3;}
+h4 {font-size: 0.95rem;}
+h5 {font-size: 0.95rem;}
+h6 {font-size: 0.95rem;}
 
 p {
     margin-top: 0;
@@ -84,24 +76,24 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .img_headshot {
     float: right;
-    margin-right: 1rem;
-    margin-top: 1rem;
-    margin-left: 1rem;
-    margin-bottom: 1rem;
+    margin-right: 0.625rem;
+    margin-top: 0.625rem;
+    margin-left: 0.625rem;
+    margin-bottom: 0.625rem;
 }
 
 .img_research {
     float: left;
-    margin-right: 1rem;
-    margin-top: 0rem;
-    margin-bottom: -1rem;
+    margin-right: 0.625rem;
+    margin-top: 0;
+    margin-bottom: -0.625rem;
     width: 160px;
-    padding-top: 1rem;
+    padding-top: 0.625rem;
 }
 
 .img_sidelink {
     width: 20px;
-    margin-top: 0.5rem;
+    margin-top: 0.3rem;
 }
 
 .img_contact {
@@ -122,7 +114,7 @@ p {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 1rem;
+    gap: 0.625rem;
 }
 
 
@@ -130,14 +122,14 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 ul {
     padding: 0;
-    margin-left: 2.9rem;
-    margin-top: -1rem;
-    margin-bottom: 1rem;
+    margin-left: 1.8rem;
+    margin-top: -0.625rem;
+    margin-bottom: 0.625rem;
     list-style: circle;
 }
 ol {
-    padding: 1rem;
-    margin: 1.9rem;
+    padding: 0.625rem;
+    margin: 1.2rem;
     margin-top: 0;
     list-style: decimal inside;
 }
@@ -148,7 +140,7 @@ ol {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 code {
     font-family: Consolas, Monaco, Andale Mono, monospace;
-    font-size: 1.3rem;
+    font-size: 0.8rem;
 }
 
 
@@ -183,25 +175,25 @@ a:visited {
 dt {
     position: relative;
     left: 0;
-    top: 2.5rem;
-    width: 6.1rem;
+    top: 1.5rem;
+    width: 3.8rem;
     color: #777777;
-    font-size: 1.4rem;
+    font-size: 0.875rem;
 }
 
 /* Defintion style */
 dd {
-    border-left: 0.1rem solid #DDDDDD;
-    margin-left: 6.9rem;
-    margin-bottom: -0.5rem;
-    padding-bottom: 0.2rem;
-    padding-left: 1.1rem;
+    border-left: 1px solid #DDDDDD;
+    margin-left: 4.3rem;
+    margin-bottom: -0.3rem;
+    padding-bottom: 2px;
+    padding-left: 0.7rem;
 }
 
 /* Description list */
 dl {
-    margin-bottom: 2rem;
-    margin-top: -2rem;
+    margin-bottom: 1.25rem;
+    margin-top: -1.25rem;
 }
 
 
@@ -213,9 +205,9 @@ dl {
     justify-content: space-around;
     border-top: 1px solid #e1e1e1;
     border-bottom: 1px solid #e1e1e1;
-    padding: 0.5rem 0;
-    margin: 1.5rem 0;
-    font-size: 1.8rem;
+    padding: 0.3rem 0;
+    margin: 1rem 0;
+    font-size: 1.125rem;
 }
 
 .navigation a,
@@ -229,17 +221,17 @@ dl {
     justify-content: space-between;
     align-items: center;
     border-top: 1px solid #e1e1e1;
-    padding-top: 1rem;
-    margin-top: 2rem;
-    padding-bottom: 2.5rem;
-    font-size: 1.5rem;
+    padding-top: 0.625rem;
+    margin-top: 1.25rem;
+    padding-bottom: 1.5rem;
+    font-size: 0.95rem;
     color: #4A525A;
 }
 
 .name {
-    font-size: 3.2rem;
+    font-size: 2rem;
     color: #4A525A;
-    padding-top: 1rem;
+    padding-top: 0.625rem;
 }
 
 .name a:visited {
@@ -248,12 +240,12 @@ dl {
 }
 
 .sideinfo {
-    font-size: 1.5rem;
+    font-size: 0.95rem;
     line-height: 1.5;
 }
 
 .researchlink {
-    font-size: 2.4rem;
+    font-size: 1.5rem;
     text-align: left;
     color: #AAAAAA;
 }
