@@ -605,8 +605,8 @@ Field Experience
     underwater motion detection cameras.
 
 
-[MalickCV]:../malick-cv.pdf
-[MalickCVtxt]:../malick-cv.txt
+[MalickCV]:/malick-cv.pdf
+[MalickCVtxt]:/malick-cv.txt
 
 
 [rjags]:https://github.com/michaelmalick/r-jagstools
@@ -630,7 +630,6 @@ Field Experience
 [Malick:2023:code]:https://github.com/michaelmalick/chinook-fecundity-trends
 [Litzow:2024:code]:https://github.com/mikelitzow/CMIP6-attribution
 [Litzow:2024a:code]:https://github.com/AFSC-Shellfish-Assessment-Program/boreal-opie
-[Detmer:2025:code]:https://github.com/nwfsc-cb/Threshold-Detection/tree/v1.0.0
 [Detmer:2025:code]:https://github.com/nwfsc-cb/Threshold-Detection/tree/v1.0.0
 [Fedewa:2025:code]:https://github.com/Erin-Fedewa-NOAA/BCS_2014-2017
 [Feddern:2025:code]:https://github.com/mfeddern/Nonstationary_ClimateIndices

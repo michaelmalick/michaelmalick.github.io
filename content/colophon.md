@@ -4,7 +4,7 @@ title:  "Colophon"
 
 # Colophon
 
-This website is created using [Jekyll](https://jekyllrb.com/), which provides an
+This website is created using [Hugo](https://gohugo.io), which provides an
 elegant website generator where the input is based on simple
 [markdown](https://en.wikipedia.org/wiki/Markdown) files. The site is hosted on
 [Github](https://github.com/michaelmalick/michaelmalick.github.io) taking advantage of the [Github

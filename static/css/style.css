@@ -99,13 +99,11 @@ p {
 
 .img_sidelink {
     width: 20px;
-    align: left;
     margin-top: 0.5rem;
 }
 
 .img_contact {
     width: 110px;
-    align: center;
     border-radius: 50%;
     display: block;
     margin-left: auto;
@@ -151,7 +149,7 @@ a:hover {
     background-color: #EEEEEE;
 }
 a:active {
-    text-decoration: none
+    text-decoration: none;
     color: #005599;
 }
 a:visited {
@@ -223,7 +221,7 @@ dl {
 
 .navigation a:visited {
     color: #005599;
-    text-decoration: none
+    text-decoration: none;
 }
 
 .footer {
@@ -241,7 +239,7 @@ dl {
 
 .name a:visited {
     color: #005599;
-    text-decoration: none
+    text-decoration: none;
 }
 
 .sideinfo {
