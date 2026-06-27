@@ -12,7 +12,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- CSS -->
-    <link rel="stylesheet" href="/css/skeleton.css">
     <link rel="stylesheet" href="/css/normalize.css">
     <link rel="stylesheet" href="/css/style.css">
 
@@ -26,30 +25,19 @@
   <body>
 
     <div class="container">
-
-      <div class="row">
-        <div class="twelve columns">
-          <h1 style="margin-top:40px"></h1>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="four columns">
+      <div class="layout">
+        <aside>
           {{ partial "sidebar.html" . }}
-        </div>
-
-        <div class="eight columns">
+        </aside>
+        <main>
           {{ partial "topbar.html" . }}
           {{ block "main" . }}{{ end }}
-        </div>
-      </div>
-
-      <div class="row footer-row">
-        <div class="twelve columns">
+        </main>
+        <footer class="layout-footer">
           {{ partial "bottombar.html" . }}
-        </div>
+        </footer>
       </div>
-
     </div>
+
   </body>
 </html>

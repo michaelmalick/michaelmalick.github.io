@@ -11,6 +11,36 @@ MICHAEL MALICK
 
 
 
+/* Layout
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.container {
+  max-width: 95rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+@media (min-width: 700px) {
+  .layout {
+    grid-template-columns: 27rem 1fr;
+    gap: 2.5rem;
+  }
+}
+
+.layout-footer {
+  grid-column: 1 / -1;  /* span both columns when present */
+}
+
+.container {
+  padding-top: 3rem;
+}
+
+
 /* Base styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* NOTE
