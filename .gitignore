@@ -1,8 +1,9 @@
+public/
+resources/_gen/
+.hugo_build.lock
 .DS_Store
-_site
 *.aux
 *.log
 *.out
-*.docx
-images/icons
-/.jekyll-cache
+*.fdb_latexmk
+*.fls

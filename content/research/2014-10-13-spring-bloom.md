@@ -1,8 +1,6 @@
 ---
-layout: post_research
 title:  Phytoplankton phenology as a driver of salmon dynamics
 date: 2014-10-13
-category: research
 image: spring-bloom-fig-150.png
 ---
 
@@ -12,8 +10,10 @@ We analyzed the effects of the spring bloom timing on pink salmon productivity
 understand the mechanisms linking biological oceanographic conditions to Pacific
 salmon population dynamics.
 
-<a href="/assets/research/spring-bloom-fig-1200.png">
-<img src="/assets/research/spring-bloom-fig-720.png"
+<!--more-->
+
+<a href="/research/spring-bloom-fig-1200.png">
+<img src="/research/spring-bloom-fig-720.png"
 alt="Spring bloom effects" width="560" height="315" align="center"/>
 </a>
 <br clear="left">

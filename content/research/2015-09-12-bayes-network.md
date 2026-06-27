@@ -1,8 +1,6 @@
 ---
-layout: post_research
 title:  Quantifying ecological network effects on salmon
 date: 2015-09-12
-category: research
 image: bayes-network-fig-150.png
 ---
 
@@ -11,8 +9,10 @@ In this study, we investigated how multiple ecological pathways potentially link
 climate and oceanographic processes to wild Oregon coho salmon (*Oncorhynchus
 kisutch*) recruitment.
 
-<a href="/assets/research/bayes-network-fig-1200.png">
-<img src="/assets/research/bayes-network-fig-720.png"
+<!--more-->
+
+<a href="/research/bayes-network-fig-1200.png">
+<img src="/research/bayes-network-fig-720.png"
 alt="Ecological network effects" width="565" height="320" align="center" />
 </a>
 <br clear="left">

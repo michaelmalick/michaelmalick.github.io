@@ -1,8 +1,6 @@
 ---
-layout: post_research
 title:  Declining salmon productivity trends
 date: 2016-01-22
-category: research
 image: prod-trends-fig-pink-150.png
 ---
 
@@ -12,12 +10,14 @@ in productivity (i.e., the number of adult recruits returning per spawner) by
 investigating temporal and spatial trends in productivity of 99 wild North
 American pink and chum salmon stocks.
 
-<a href="/assets/research/prod-trends-fig-chum-1200.png">
-<img src="/assets/research/prod-trends-fig-chum-720.png"
+<!--more-->
+
+<a href="/research/prod-trends-fig-chum-1200.png">
+<img src="/research/prod-trends-fig-chum-720.png"
 alt="Chum productivity trends" width="275" height="220" align="left"/></a>
 
-<a href="/assets/research/prod-trends-fig-pink-1200.png">
-<img src="/assets/research/prod-trends-fig-pink-720.png"
+<a href="/research/prod-trends-fig-pink-1200.png">
+<img src="/research/prod-trends-fig-pink-720.png"
 alt="Pink productivity trends" width="275" height="220" align="left"/>
 </a>
 <br clear="left">

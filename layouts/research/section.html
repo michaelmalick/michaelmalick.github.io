@@ -1,0 +1,13 @@
+{{ define "main" }}
+{{ range .Pages.ByDate.Reverse }}
+<article class="post">
+  <a href="{{ .RelPermalink }}">
+    <img src="/research/{{ .Params.image }}" class="img_research" align="left">
+  </a>
+  <h3>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </h3>
+  {{ .Summary }}
+</article>
+{{ end }}
+{{ end }}

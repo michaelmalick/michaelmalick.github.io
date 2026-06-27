@@ -1,0 +1,9 @@
+baseURL = "https://michaelmalick.com/"
+locale = "en-us"
+title = "Michael Malick"
+disableKinds = ["taxonomy", "term"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

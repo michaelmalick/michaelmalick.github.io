@@ -1,6 +1,5 @@
 ---
-layout: default
-title:  Michael Malick | About
+title: "About"
 ---
 
 I'm a quantitative ecologist at [NOAA fisheries][NMFS] based at the [Manchester
@@ -8,7 +7,7 @@ Research Station][MANCH] in Manchester, WA. I synthesize complex ecological
 and fisheries data sets to improve conservation of marine and anadromous
 species.
 
-<img class="img_headshot"  src="assets/images/michael_malick_nice.jpg"
+<img class="img_headshot"  src="/images/michael_malick_nice.jpg"
  alt="Michael Malick" width="210" align="right"/>
 
 My research is broadly guided by the idea that careful applications of

@@ -1,6 +1,5 @@
 ---
-layout: default
-title:  Michael Malick | CV
+title: "CV"
 ---
 
 Curriculum Vitae
@@ -9,6 +8,7 @@ Curriculum Vitae
 You can also download [PDF][MalickCV] and [plain text][MalickCVtxt] versions of
 my CV.
 
+<!-- pdf-start -->
 
 Professional Experience
 -----------------------

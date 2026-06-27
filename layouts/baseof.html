@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <title>{{ .Site.Title }}{{ with .Title }} | {{ . }}{{ end }}</title>
+    <meta name="description" content="Personal Website">
+    <meta name="author" content="Michael Malick">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/css/skeleton.css">
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/style.css">
+
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="/images/favicon.ico">
+
+  </head>
+
+
+  <!-- Main layout -->
+  <body>
+
+    <div class="container">
+
+      <div class="row">
+        <div class="twelve columns">
+          <h1 style="margin-top:40px"></h1>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="four columns">
+          {{ partial "sidebar.html" . }}
+        </div>
+
+        <div class="eight columns">
+          {{ partial "topbar.html" . }}
+          {{ block "main" . }}{{ end }}
+        </div>
+      </div>
+
+      <div class="row footer-row">
+        <div class="twelve columns">
+          {{ partial "bottombar.html" . }}
+        </div>
+      </div>
+
+    </div>
+  </body>
+</html>
