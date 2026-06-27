@@ -158,28 +158,6 @@ a:visited {
 
 
 
-/* Table
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-table {
-    table-layout: fixed;  /* makes cells equal sized */
-    border-collapse: collapse;
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
-}
-td {
-    border-top: 1px solid #E1E1E1;
-    border-bottom: 1px solid #E1E1E1;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-}
-
-td.footer {
-    border-bottom: 0;
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-}
-
-
 
 /* Definition lists (CV)
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -216,19 +194,31 @@ dl {
 /* New styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .navigation {
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+    padding: 0.5rem 0;
+    margin: 1.5rem 0;
     font-size: 1.8rem;
 }
 
+.navigation a,
 .navigation a:visited {
     color: #005599;
     text-decoration: none;
 }
 
 .footer {
-    font-size: 1.5rem;
-    border-bottom: 0;
-    color: #4A525A;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #e1e1e1;
+    padding-top: 1rem;
+    margin-top: 2rem;
     padding-bottom: 2.5rem;
+    font-size: 1.5rem;
+    color: #4A525A;
 }
 
 .name {
