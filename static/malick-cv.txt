@@ -1,10 +1,10 @@
 Michael J. Malick
 =================
 
-National Oceanic and Atmospheric Administration\
-Manchester Research Station\
-7305 Beach Dr. East\
-Port Orchard, WA 98366\
+National Oceanic and Atmospheric Administration
+Manchester Research Station
+7305 Beach Dr. East
+Port Orchard, WA 98366
 michael.malick@noaa.gov
 
 
@@ -24,23 +24,23 @@ Current
 ## Education
 
 2010--17
-:   Ph.D. Simon Fraser University, Burnaby, BC\
+:   Ph.D. Simon Fraser University, Burnaby, BC
     Thesis: Multi-scale environmental forcing of Pacific salmon
     population dynamics
-    ([PDF](https://drive.google.com/file/d/1KehJVe2bIJbpBEUWNzgoQIDogqgBxCya/view?usp=sharing))\
+    ([PDF](https://drive.google.com/file/d/1KehJVe2bIJbpBEUWNzgoQIDogqgBxCya/view?usp=sharing))
     Advisors: Sean Cox and Randall Peterman
 
 2006--08
-:   M.Sc. University of Alaska Fairbanks, Juneau, AK\
+:   M.Sc. University of Alaska Fairbanks, Juneau, AK
     Thesis: Variable effects of biological and environmental processes
     on coho salmon marine survival in Southeast Alaska
-    ([PDF](https://drive.google.com/file/d/1m0D29rlpsOob7xp3N_NocarDSH359q9x/view?usp=sharing))\
+    ([PDF](https://drive.google.com/file/d/1m0D29rlpsOob7xp3N_NocarDSH359q9x/view?usp=sharing))
     Advisor: Milo D. Adkison
 
 2002--06
-:   B.Sc. Mansfield University, *summa cum laude*, Mansfield, PA\
+:   B.Sc. Mansfield University, *summa cum laude*, Mansfield, PA
     Senior Thesis: The influence of climatological factors on the
-    migration timing of sockeye salmon into freshwater\
+    migration timing of sockeye salmon into freshwater
     Independent Research: Chemical and biological study of the Tioga
     River
 

@@ -30,21 +30,21 @@ Education
 ---------
 
 2010--17
-:   Ph.D. Simon Fraser University, Burnaby, BC<br>
+:   Ph.D. Simon Fraser University, Burnaby, BC\
     Thesis: Multi-scale environmental forcing of Pacific salmon population
-    dynamics ([PDF][SFU:Phd])<br>
+    dynamics ([PDF][SFU:Phd])\
     Advisors: Sean Cox and Randall Peterman
 
 2006--08
-:   M.Sc. University of Alaska Fairbanks, Juneau, AK<br>
+:   M.Sc. University of Alaska Fairbanks, Juneau, AK\
     Thesis: Variable effects of biological and environmental processes on coho
-    salmon marine survival in Southeast Alaska ([PDF][UAF:Msc])<br>
+    salmon marine survival in Southeast Alaska ([PDF][UAF:Msc])\
     Advisor: Milo D. Adkison
 
 2002--06
-:   B.Sc. Mansfield University, *summa cum laude*, Mansfield, PA<br>
+:   B.Sc. Mansfield University, *summa cum laude*, Mansfield, PA\
     Senior Thesis: The influence of climatological factors on the migration
-    timing of sockeye salmon into freshwater<br>
+    timing of sockeye salmon into freshwater\
     Independent Research: Chemical and biological study of the Tioga River
 
 
