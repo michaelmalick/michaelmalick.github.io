@@ -1,5 +1,6 @@
 baseURL = "https://michaelmalick.com/"
 locale = "en-us"
+enableRobotsTXT = true
 title = "Michael Malick"
 disableKinds = ["taxonomy", "term"]
 
