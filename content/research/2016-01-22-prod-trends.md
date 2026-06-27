@@ -12,15 +12,14 @@ American pink and chum salmon stocks.
 
 <!--more-->
 
+<div class="fig-row">
 <a href="/research/prod-trends-fig-chum-1200.png">
 <img src="/research/prod-trends-fig-chum-720.png"
-alt="Chum productivity trends" width="275" height="220" align="left"/></a>
-
+alt="Chum productivity trends" width="275" height="220"/></a>
 <a href="/research/prod-trends-fig-pink-1200.png">
 <img src="/research/prod-trends-fig-pink-720.png"
-alt="Pink productivity trends" width="275" height="220" align="left"/>
-</a>
-<br clear="left">
+alt="Pink productivity trends" width="275" height="220"/></a>
+</div>
 
 We used a combination of population dynamics and time series models to quantify
 individual stock trends as well as common temporal trends in pink and chum

@@ -2,7 +2,7 @@
 {{ range .Pages.ByDate.Reverse }}
 <article class="post">
   <a href="{{ .RelPermalink }}">
-    <img src="/research/{{ .Params.image }}" class="img_research" align="left">
+    <img src="/research/{{ .Params.image }}" class="img_research">
   </a>
   <h3>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>

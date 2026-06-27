@@ -83,6 +83,7 @@ p {
 /* Images
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .img_headshot {
+    float: right;
     margin-right: 1rem;
     margin-top: 1rem;
     margin-left: 1rem;
@@ -90,6 +91,7 @@ p {
 }
 
 .img_research {
+    float: left;
     margin-right: 1rem;
     margin-top: 0rem;
     margin-bottom: -1rem;
@@ -108,6 +110,19 @@ p {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.fig-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fig-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
 }
 
 

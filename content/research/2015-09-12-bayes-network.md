@@ -13,9 +13,8 @@ kisutch*) recruitment.
 
 <a href="/research/bayes-network-fig-1200.png">
 <img src="/research/bayes-network-fig-720.png"
-alt="Ecological network effects" width="565" height="320" align="center" />
+alt="Ecological network effects" width="565" height="320" class="fig-center" />
 </a>
-<br clear="left">
 
 Because pathways linking climate to population dynamics
 of higher-trophic-level fish species often involve a hierarchy in which

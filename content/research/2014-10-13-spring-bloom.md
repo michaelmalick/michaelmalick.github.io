@@ -14,9 +14,8 @@ salmon population dynamics.
 
 <a href="/research/spring-bloom-fig-1200.png">
 <img src="/research/spring-bloom-fig-720.png"
-alt="Spring bloom effects" width="560" height="315" align="center"/>
+alt="Spring bloom effects" width="560" height="315" class="fig-center"/>
 </a>
-<br clear="left">
 
 Using a combination of single stock and hierarchical models, we estimated the
 effect of the spring bloom timing on each of 27 pink salmon stocks, as well as
