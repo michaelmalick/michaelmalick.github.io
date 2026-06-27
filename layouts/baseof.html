@@ -1,22 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-
-    <!-- Basic Page Needs -->
     <meta charset="utf-8">
-    <title>{{ .Site.Title }}{{ with .Title }} | {{ . }}{{ end }}</title>
-    <meta name="description" content="Personal Website">
-    <meta name="author" content="Michael Malick">
-
-    <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#4A525A">
 
-    <!-- CSS -->
+    {{ $title := printf "%s%s" .Site.Title (cond (eq .Title "") "" (printf " | %s" .Title)) }}
+    {{ $description := .Description | default .Site.Params.description }}
+    {{ $image := .Params.image | default .Site.Params.image | absURL }}
+
+    <title>{{ $title }}</title>
+
+    <meta name="description" content="{{ $description }}">
+    <meta name="author" content="{{ .Site.Params.author }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    <meta property="og:title" content="{{ $title }}">
+    <meta property="og:description" content="{{ $description }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:type" content="{{ cond .IsPage "article" "website" }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    <meta property="og:image" content="{{ $image }}">
+
     <link rel="stylesheet" href="/css/style.css">
-
-    <!-- Favicons -->
-    <link rel="shortcut icon" href="/images/favicon.ico">
-
+    <link rel="icon" href="/images/favicon.ico">
   </head>
 
 

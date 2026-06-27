@@ -4,6 +4,11 @@ enableRobotsTXT = true
 title = "Michael Malick"
 disableKinds = ["taxonomy", "term"]
 
+[params]
+  description = "Personal website of Michael Malick, quantitative ecologist at NOAA Fisheries"
+  author = "Michael Malick"
+  image = "/images/michael_malick_nice.jpg"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
