@@ -28,11 +28,11 @@
         <header>
           {{ partial "sidebar.html" . }}
         </header>
+        {{ partial "topbar.html" . }}
         <main>
-          {{ partial "topbar.html" . }}
           {{ block "main" . }}{{ end }}
         </main>
-        <footer class="layout-footer">
+        <footer>
           {{ partial "bottombar.html" . }}
         </footer>
       </div>
