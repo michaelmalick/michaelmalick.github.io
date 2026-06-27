@@ -25,9 +25,9 @@
 
     <div class="container">
       <div class="layout">
-        <aside>
+        <header>
           {{ partial "sidebar.html" . }}
-        </aside>
+        </header>
         <main>
           {{ partial "topbar.html" . }}
           {{ block "main" . }}{{ end }}
