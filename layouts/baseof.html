@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#4A525A">
+    <meta name="theme-color" content="#005599">
 
     {{ $title := printf "%s%s" .Site.Title (cond (eq .Title "") "" (printf " | %s" .Title)) }}
     {{ $description := .Description | default .Site.Params.description }}
@@ -23,7 +23,7 @@
     <meta property="og:image" content="{{ $image }}">
 
     <link rel="stylesheet" href="/css/style.css">
-    <link rel="icon" href="/images/favicon.ico">
+    <link rel="icon" href="/images/favicon.svg" type="image/svg+xml">
   </head>
 
 

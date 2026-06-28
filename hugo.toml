@@ -7,7 +7,7 @@ disableKinds = ["taxonomy", "term"]
 [params]
   description = "Personal website of Michael Malick, quantitative ecologist at NOAA Fisheries"
   author = "Michael Malick"
-  image = "/images/michael_malick_nice.jpg"
+  image = "/images/michael_malick.jpg"
 
 [markup]
   [markup.goldmark]

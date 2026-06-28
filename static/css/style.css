@@ -111,9 +111,14 @@ p {
     padding-top: 0.625rem;
 }
 
-.img_sidelink {
+.sideinfo svg {
     width: 20px;
+    height: 20px;
     margin-top: 0.3rem;
+    fill: var(--color-text-muted);
+}
+.sideinfo a:hover svg {
+    fill: var(--color-text-strong);
 }
 
 .img_contact {
