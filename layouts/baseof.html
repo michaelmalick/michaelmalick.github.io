@@ -3,7 +3,18 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#005599">
+    <meta name="theme-color" content="#ECEFF4" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#2E3440" media="(prefers-color-scheme: dark)">
+
+    <script>
+      (function () {
+        var stored;
+        try { stored = localStorage.getItem('theme'); } catch (e) {}
+        var t = stored
+                || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.documentElement.dataset.theme = t;
+      })();
+    </script>
 
     {{ $title := printf "%s%s" .Site.Title (cond (eq .Title "") "" (printf " | %s" .Title)) }}
     {{ $description := .Description | default .Site.Params.description }}

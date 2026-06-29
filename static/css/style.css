@@ -4,14 +4,26 @@
 /* Theme
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 :root {
-    --color-text:         #333333;
-    --color-text-strong:  #4A525A;
-    --color-text-muted:   #777777;
-    --color-link:         #005599;
-    --color-bg-hover:     #EEEEEE;
-    --color-border:       #E1E1E1;
+    --color-text:         #2E3440;
+    --color-text-muted:   #4C566A;
+    --color-link:         #3B5C87;
+    --color-link-visited: #B48EAD;
+    --color-bg:           #ECEFF4;
+    --color-bg-hover:     #D9DCE3;
+    --color-border:       #C7CDD7;
 }
 
+:root[data-theme="light"] { color-scheme: light; }
+
+:root[data-theme="dark"] {
+    color-scheme: dark;
+    --color-text:         #ECEFF4;
+    --color-text-muted:   #D8DEE9;
+    --color-link:         #88C0D0;
+    --color-bg:           #2E3440;
+    --color-bg-hover:     #3B4252;
+    --color-border:       #434C5E;
+}
 
 
 /* Reset
@@ -19,7 +31,6 @@
 *, *::before, *::after { box-sizing: border-box; }
 body { margin: 0; }
 img { max-width: 100%; height: auto; }
-
 
 
 /* Layout
@@ -67,8 +78,8 @@ body {
     font-weight: 400;
     font-family: system-ui, sans-serif;
     color: var(--color-text);
+    background-color: var(--color-bg);
 }
-
 
 
 /* Typography
@@ -76,20 +87,27 @@ body {
 h1, h2, h3, h4, h5, h6 {
     margin-top: 1.375rem;
     margin-bottom: 0.625rem;
-    color: var(--color-text-strong);
     font-weight: 300;
 }
 h1 {font-size: 2.5rem;   line-height: 1.2;}
 h2 {font-size: 1.875rem; line-height: 1.25;}
 h3 {font-size: 1.25rem;  line-height: 1.3;}
-h4 {font-size: 0.95rem;}
-h5 {font-size: 0.95rem;}
-h6 {font-size: 0.95rem;}
+h4, h5, h6 { font-size: 0.95rem; }
+p { margin-top: 0; }
 
-p {
-    margin-top: 0;
+
+/* Articles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+article {
+    display: grid;
+    grid-template-columns: 160px 1fr;
+    column-gap: 0.625rem;
+    margin-bottom: 1.25rem;
 }
 
+article > h2 {
+    grid-column: 1 / -1;
+}
 
 
 /* Images
@@ -100,39 +118,21 @@ p {
     margin-top: 0.625rem;
     margin-left: 0.625rem;
     margin-bottom: 0.625rem;
+    border-radius: 50%;
 }
+
+.img_research_link { margin-top: 0.5rem; }
 
 .img_research {
-    float: left;
-    margin-right: 0.625rem;
-    margin-top: 0;
-    margin-bottom: -0.625rem;
-    width: 160px;
-    padding-top: 0.625rem;
-}
-
-.sideinfo svg {
-    width: 20px;
-    height: 20px;
-    margin-top: 0.3rem;
-    fill: var(--color-text-muted);
-}
-.sideinfo a:hover svg {
-    fill: var(--color-text-strong);
-}
-
-.img_contact {
-    width: 110px;
-    border-radius: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: 100%;
+    mix-blend-mode: multiply;
 }
 
 .fig-center {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    mix-blend-mode: multiply;
 }
 
 .fig-row {
@@ -140,6 +140,90 @@ p {
     flex-wrap: wrap;
     justify-content: center;
     gap: 0.625rem;
+}
+.fig-row img { mix-blend-mode: multiply; }
+
+[data-theme="dark"] .img_research,
+[data-theme="dark"] .fig-center,
+[data-theme="dark"] .fig-row img {
+    filter: brightness(0.93);
+    mix-blend-mode: normal;
+}
+
+
+/* Side info and icons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.sideinfo {
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+.sideinfo svg {
+    width: 20px;
+    height: 20px;
+    margin-top: 0.3rem;
+    fill: var(--color-text-muted);
+}
+.sideinfo a:hover svg {
+    fill: var(--color-text);
+}
+
+.name {
+    font-size: 2rem;
+    padding-top: 0.625rem;
+}
+
+.name a:visited {
+    color: var(--color-link);
+    text-decoration: none;
+}
+
+.icon-row {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    margin-top: 0.3rem;
+}
+.icon-row .theme-toggle {
+    margin-left: 1.2rem;
+}
+
+
+/* Theme toggle
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.theme-toggle {
+    display: inline-flex;
+    padding: 0.15rem;
+    gap: 0.15rem;
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+}
+.theme-toggle button {
+    background: none;
+    border: 0;
+    padding: 0.35rem;
+    cursor: pointer;
+    border-radius: 999px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.theme-toggle svg {
+    width: 15px;
+    height: 15px;
+    margin: 0;
+    fill: var(--color-text-muted);
+    display: block;
+}
+:root[data-theme="light"] .theme-toggle button[data-set-theme="light"],
+:root[data-theme="dark"]  .theme-toggle button[data-set-theme="dark"] {
+    background: var(--color-bg-hover);
+}
+:root[data-theme="light"] .theme-toggle button[data-set-theme="light"] svg,
+:root[data-theme="dark"]  .theme-toggle button[data-set-theme="dark"]  svg {
+    fill: var(--color-text);
+}
+.theme-toggle button:hover svg {
+    fill: var(--color-text);
 }
 
 
@@ -160,36 +244,29 @@ ol {
 }
 
 
-
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a:link {
     color: var(--color-link);
     text-decoration: none;
 }
-a:hover {
-    text-decoration: none;
-    background-color: var(--color-bg-hover);
-}
-a:active {
-    text-decoration: none;
-    color: var(--color-link);
-}
-a:visited {
-    color: var(--color-text-muted);
-}
+a:hover { background-color: var(--color-bg-hover); }
+a:visited { color: var(--color-link-visited); }
 a:focus-visible {
     outline: 2px solid var(--color-link);
     outline-offset: 2px;
 }
 
-
+/* underline links in paragraphs and lists */
+p a:link, p a:visited,
+li a:link, li a:visited {
+    text-decoration: underline;
+}
 
 
 /* Definition lists (CV)
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-/* See here for example:
- * http://www.maxdesign.com.au/articles/definition/ */
+/* See: http://www.maxdesign.com.au/articles/definition/ */
 
 /* Term text style (i.e., year) */
 dt {
@@ -217,8 +294,7 @@ dl {
 }
 
 
-
-/* New styles
+/* Navigation
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .navigation {
     display: flex;
@@ -235,6 +311,9 @@ dl {
     text-decoration: none;
 }
 
+
+/* Footer
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .footer {
     display: flex;
     justify-content: space-between;
@@ -244,25 +323,9 @@ dl {
     margin-top: 1.25rem;
     padding-bottom: 1.5rem;
     font-size: 0.95rem;
-    color: var(--color-text-strong);
 }
 
-.name {
-    font-size: 2rem;
-    color: var(--color-text-strong);
-    padding-top: 0.625rem;
-}
-
-.name a:visited {
-    color: var(--color-link);
-    text-decoration: none;
-}
-
-.sideinfo {
-    font-size: 0.95rem;
-    line-height: 1.5;
-}
-
-.center_text {
-    text-align: center;
+.footer-links {
+    display: inline-flex;
+    gap: 1rem;
 }

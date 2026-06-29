@@ -1,5 +1,5 @@
 ---
-title:  Quantifying ecological network effects on salmon
+title:  Ecological network effects on salmon
 date: 2015-09-12
 image: bayes-network-fig-150.png
 ---

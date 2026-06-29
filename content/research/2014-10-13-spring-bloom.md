@@ -1,5 +1,5 @@
 ---
-title:  Phytoplankton phenology as a driver of salmon dynamics
+title:  Phytoplankton phenology impacts salmon
 date: 2014-10-13
 image: spring-bloom-fig-150.png
 ---

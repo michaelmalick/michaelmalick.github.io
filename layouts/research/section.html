@@ -1,14 +1,16 @@
 {{ define "main" }}
 {{ range .Pages.ByDate.Reverse }}
 <article>
-  <a href="{{ .RelPermalink }}">
-    <img src="/research/{{ .Params.image }}" class="img_research"
-         alt="{{ .Title }}" loading="lazy">
-  </a>
   <h2>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </h2>
-  {{ .Summary }}
+  <a href="{{ .RelPermalink }}" class="img_research_link">
+    <img src="/research/{{ .Params.image }}" class="img_research"
+         alt="{{ .Title }}" loading="lazy">
+  </a>
+  <div class="research_body">
+    {{ .Summary }}
+  </div>
 </article>
 {{ end }}
 {{ end }}

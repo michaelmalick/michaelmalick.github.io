@@ -8,7 +8,7 @@ and fisheries data sets to improve conservation of marine and anadromous
 species.
 
 <img class="img_headshot"  src="/images/michael_malick.jpg"
- alt="Michael Malick" width="210"/>
+ alt="Michael Malick" height="210" width="210"/>
 
 My research is broadly guided by the idea that careful applications of
 statistical and simulation models can improve our ability to develop
