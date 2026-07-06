@@ -37,14 +37,19 @@ img { max-width: 100%; height: auto; }
 /* Layout
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   max-width: 60rem;
   margin: 0 auto;
   padding: 1.875rem 0.625rem 0.625rem;
 }
 
 .layout {
+  flex: 1;
   display: grid;
   grid-template-columns: 1fr;
+  grid-template-rows: auto auto 1fr auto;
   grid-template-areas:
     "header"
     "nav"
