@@ -1,0 +1,7 @@
+{{- $u := urls.Parse .Destination -}}
+{{- $external := and $u.Host (ne $u.Host (urls.Parse site.BaseURL).Host) -}}
+<a href="{{ .Destination | safeURL }}"
+  {{- with .Title }} title="{{ . }}"{{ end }}
+  {{- if $external }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- /* External links (host differs from site.BaseURL) open in a new tab.
+       Internal links, mailto:, and on-site absolute URLs stay in the current tab. */ -}}
