@@ -120,11 +120,17 @@ article > h2 {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .img_headshot {
     float: right;
+    width: 8rem;
+    height: auto;
     margin-right: 0.625rem;
     margin-top: 0.625rem;
     margin-left: 0.625rem;
     margin-bottom: 0.625rem;
     border-radius: 50%;
+}
+
+@media (min-width: 700px) {
+    .img_headshot { width: 210px; }
 }
 
 .img_research_link { margin-top: 0.5rem; }
