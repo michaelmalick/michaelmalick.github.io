@@ -10,5 +10,5 @@ elegant static website generator where the input is based on simple
 [Cloudflare](https://cloudflare.com/) taking advantage of the [Cloudflare
 Pages](https://pages.cloudflare.com/) feature. Source code for this website can be
 browsed on Github
-[here](https://github.com/michaelmalick/michaelmalick.github.io).
+[here](https://github.com/michaelmalick/michaelmalick.com).
 
