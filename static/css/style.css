@@ -262,7 +262,10 @@ a:has(img):hover,
 a:has(svg):hover { background-color: transparent; }
 
 /* prose links: underlined, with a muted visited state */
-:is(p, li) a { text-decoration: underline; }
+:is(p, li) a { 
+  color: var(--color-text);
+  text-decoration: underline;
+}
 :is(p, li) a:visited { color: var(--color-link-visited); }
 
 
