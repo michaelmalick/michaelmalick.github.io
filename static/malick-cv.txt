@@ -46,6 +46,13 @@ Current
 
 ## Publications
 
+2026
+:   **Malick, M.J.**, B.A. Berejikian, D. Kuligowski, & K.M.
+    Nichols. 2026. Adaptive potential of Puget Sound Chinook Salmon
+    seawater tolerance. Canadian Journal of Fisheries and Aquatic
+    Science, 83:1--13 <https://doi.org/10.1139/cjfas-2026-0078>
+    ([Code](https://github.com/noaa-nwfsc/psc-seawater-tolerance)).
+
 2025
 :   Berejikian, B.A., **M.J. Malick**, J. Lee-Waltermire, M. Downen, K.
     Shelby, R. Endicott, and A. Batista. 2025. Conservation hatchery
